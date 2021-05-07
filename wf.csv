@@ -1,0 +1,1416 @@
+,State,County,Wind Farm Name,Year,Turbine Count,WF Total MW,Turbine Manufacturer,Turbine Model,Turbine Hub Height,Rotor Diameter,lng,lat,Duplicated
+0,IA,Boone County,30 MW Iowa DG Portfolio,2017.0,10,30.0,Nordex,AW125/3000,87.5,125.0,-93.70042,41.97761,False
+10,MA,Barnstable County,6th Space Warning Squadron,2013.0,2,3.36,GE Wind,GE1.68-82.5,80.0,82.5,-70.5418,41.75249,False
+12,MA,Barnstable County,AFCEE MMR Turbines,2011.0,2,3.0,GE Wind,GE1.5-77,80.0,77.0,-70.5453,41.75759,False
+14,IA,Story County,AG Land 1,2012.0,6,9.6,GE Wind,GE1.6-82.5,80.0,82.5,-93.32569,42.20639,False
+15,IA,Story County,AG Land 2,2012.0,6,9.6,GE Wind,GE1.6-82.5,80.0,82.5,-93.42809,42.14609,False
+16,IA,Story County,AG Land 3,2012.0,6,9.6,GE Wind,GE1.6-82.5,80.0,82.5,-93.43199,42.14559,False
+17,IA,Story County,AG Land 4,2012.0,6,9.6,GE Wind,GE1.6-82.5,80.0,82.5,-93.3549,41.90419,False
+18,IA,Hamilton County,AG Land 5,2012.0,6,9.6,GE Wind,GE1.6-82.5,80.0,82.5,-93.6321,42.33549,False
+19,IA,Hamilton County,AG Land 6,2012.0,6,9.6,GE Wind,GE1.6-82.5,80.0,82.5,-93.6368,42.33549,False
+20,OH,Wood County,AMP-Ohio/Green Mountain Energy Wind Farm,2004.0,2,3.6,Vestas,V80-1.8,78.0,80.0,-83.7363,41.38469,False
+22,IA,Adair County,Adair,2008.0,76,174.8,Siemens,SWT-2.3-93,80.0,93.0,-94.67889,41.44399,False
+100,IA,Adams County,Adams,2016.0,64,154.28,Siemens,SWT-2.3-108,80.0,108.0,-94.71634,40.92387,False
+165,MN,Meeker County,"Adams Wind Generations, LLC",2011.0,12,19.8,Alstom,ECO 86,80.0,85.5,-94.73169,44.91699,False
+177,MN,Clay County,Agassiz Beach,2001.0,3,1.98,Vestas,V47-0.66,65.0,47.0,-96.43549,47.00519,False
+180,IL,Bureau County,Agriwind,2008.0,4,8.4,Suzlon,S88,80.0,88.0,-89.61939,41.30299,False
+184,NE,Brown County,Ainsworth Wind Project (NPPD),2005.0,36,59.4,Vestas,V82-1.65,70.0,82.0,-99.91056,42.47505,False
+221,MA,Barnstable County,Air Force (Barnstable),2009.0,1,1.5,Fuhrlander,FL1500,80.0,77.0,-70.5911,41.65769,False
+222,WY,Laramie County,Air Force (Laramie),2009.0,1,2.0,Gamesa,G87-2.0,78.0,87.0,-104.88469,41.17829,False
+223,KS,Rush County,Alexander,2015.0,21,48.3,Siemens,SWT-2.3-108,80.0,108.0,-99.53708,38.4296,False
+244,CA,Kern County,Alite Wind Farm,2008.0,8,24.0,Vestas,V90-3.0,80.0,90.0,-118.33999,35.036,False
+252,PA,Cambria County,Allegheny Ridge,2007.0,40,80.0,Gamesa,G87-2.0,78.0,87.0,-78.5812,40.37569,False
+294,CA,Kern County,Alta I,2010.0,100,150.0,GE Wind,GE1.5-77,80.0,77.0,-118.36419,35.0281,False
+394,CA,Kern County,Alta II,2010.0,50,150.0,Vestas,V90-3.0,80.0,90.0,-118.23441,35.00824,False
+435,CA,Kern County,Alta III,2011.0,50,150.0,Vestas,V90-3.0,80.0,90.0,-118.26739,35.006,False
+485,CA,Kern County,Alta IV,2011.0,34,102.0,Vestas,V90-3.0,80.0,90.0,-118.25889,35.02079,False
+522,CA,Kern County,Alta V,2011.0,56,168.0,Vestas,V90-3.0,80.0,90.0,-118.26189,35.00119,False
+579,CA,Kern County,Alta VI (partial),2011.0,44,132.0,Vestas,V90-3.0,80.0,90.0,-118.31369,35.0179,False
+625,CA,Kern County,Alta VIII (partial),2011.0,43,129.0,Vestas,V90-3.0,80.0,90.0,-118.22689,34.9836,False
+684,CA,Kern County,Alta X,2013.0,48,136.8,GE Wind,GE2.85-103,85.0,103.0,-118.21568,35.1098,False
+732,CA,Kern County,Alta XI,2013.0,48,89.65,GE Wind,GE1.7-100,80.0,100.0,-118.383,35.07352,False
+781,TX,Fisher County,Amadeus,2020.0,96,250.12,GE Wind,GE2.82-127,89.0,127.0,-100.56799,32.91327,False
+877,IN,Benton County,Amazon Wind Farm (Fowler Ridge),2015.0,65,149.5,Siemens,SWT-2.3-108,80.0,108.0,-87.40192,40.63009,False
+942,TX,Scurry County,Amazon Wind Farm Texas,2017.0,110,253.0,GE Wind,GE2.3-116,80.0,116.0,-101.00261,32.87671,False
+1052,OH,Paulding County,Amazon Wind Farm US Central,2016.0,48,100.8,Gamesa,G114-2.1,93.0,114.0,-84.71558,41.14741,False
+1100,NC,Perquimans County,Amazon Wind Farm US East,2017.0,104,208.0,Gamesa,G114-2.0,93.0,114.0,-76.44619,36.29742,False
+1205,TX,Lubbock County,American Windmill Museum,2005.0,1,0.66,Vestas,V47-0.66,50.0,47.0,-101.82389,33.58089,False
+1206,TX,Kinney County,Anacacho,2012.0,55,99.0,Vestas,V100-1.8,80.0,100.0,-100.20351,29.18324,False
+1261,NM,Chaves County,Anderson Wind Project,2014.0,8,14.95,Vestas,V82-1.65,80.0,82.0,-103.85541,33.03595,False
+1269,CA,Solano County,Anheuser-Busch Fairfield,2011.0,1,1.5,GE Wind,GE1.5-77,65.0,77.0,-122.08929,38.2323,False
+1271,NH,Hillsborough County,Antrim,2019.0,9,28.8,Siemens,SWT-3.2-113,92.5,113.0,-72.0195,43.05661,False
+1280,TX,Denton County,Apogee Stadium Wind,2012.0,3,0.3,Northern Power Systems,NW100,37.0,21.0,-97.161,33.2012,False
+1283,NC,Watauga County,Appalachian State,2009.0,1,0.1,,,,,-81.69221,36.21349,False
+1284,MI,Huron County,Apple Blossom,2017.0,29,100.05,Vestas,V126-3.45,87.0,126.0,-83.30182,43.80687,False
+1313,MA,Essex County,Applied Materials,2012.0,1,2.5,Kenersys,K100,100.0,100.0,-70.6494,42.62819,False
+1314,NM,Guadalupe County,Aragonne Wind LLC (Pastura),2006.0,90,90.0,Mitsubishi,MWT62/1.0,69.0,61.4,-105.08099,34.815,False
+1404,IA,Adair County,Arbor Hill,2018.0,17,29.17,Vestas,V110-2.0,95.0,110.0,-94.25361,41.47968,False
+1528,IA,Adair County,Arbor Hill 2019,2020.0,17,60.4,Vestas,V110-2.0,95.0,110.0,-94.31039,41.42224,False
+1544,OK,Murray County,Arbuckle Mountain,2015.0,50,100.0,Vestas,V110-2.0,80.0,110.0,-97.19896,34.39424,False
+1594,OH,Fulton County,Archbold Local Schools Wind Turbine,2012.0,1,0.75,Aeronautica,54-750,65.0,54.0,-84.3159,41.51519,False
+1595,IL,Coles County,Arends Brothers,2009.0,1,0.1,Northern Power Systems,NW100,,,-88.02977,39.53131,False
+1596,NY,Chautauqua County,Arkwright Summit,2018.0,36,78.4,Vestas,V110-2.0,95.0,110.0,-79.25068,42.42048,False
+1632,OK,Garfield County,Armadillo Flats,2018.0,126,247.28,GE Wind,GE1.79-100,80.0,100.0,-97.53968,36.27013,False
+1743,PA,Tioga County,Armenia Mountain,2009.0,67,100.5,GE Wind,GE1.5-77,80.0,77.0,-76.9384,41.75589,False
+1810,MN,Nobles County,Arnold Wind Farm,2005.0,1,1.65,Vestas,V82-1.65,70.0,82.0,-95.84429,43.75269,False
+1811,ND,Steele County,Ashtabula II,2009.0,80,120.0,GE Wind,GE1.5-77,80.0,77.0,-97.93599,47.30269,False
+1891,ND,Barnes County,Ashtabula III,2010.0,39,62.4,GE Wind,GE1.6-82.5,80.0,82.5,-97.96419,47.10739,False
+1930,ND,Barnes County,Ashtabula Wind Center,2008.0,131,196.5,GE Wind,GE1.5-77,80.0,77.0,-97.88479,47.06949,False
+2061,IA,Taylor County,August Wind Energy LLC,2017.0,1,1.79,GE Wind,GE1.79-100,80.0,100.0,-94.47563,40.76495,False
+2062,SD,Aurora County,Aurora County Wind,2018.0,9,20.7,GE Wind,GE2.3-116,80.0,116.0,-98.75095,43.71789,False
+2071,CO,Adams County,Aurora Wal-Mart,2005.0,1,0.05,Bergey Energy,XL50,52.0,14.0,-104.77309,39.7608,False
+2072,HI,Maui County,Auwahi Wind,2012.0,8,24.0,Siemens,SWT-3.0-101,80.0,101.0,-156.31769,20.5898,False
+2080,TX,Coke County,Aviator Wind,2020.0,191,525.02,GE Wind,GE2.72-116,90.0,116.0,-100.7183,31.87441,False
+2271,WY,Carbon County,BLM-JCI,2010.0,1,0.1,Northern Power Systems,NPS-100,37.0,21.0,-107.24164,41.79748,False
+2272,KS,Kiowa County,BTI Wind,2010.0,2,0.07,Endurance,,,,-99.26979,37.6069,False
+2273,TX,Kenedy County,Baffin,2015.0,101,202.0,Gamesa,G97-2.0,90.0,97.0,-97.49314,27.19702,False
+2375,ND,Burleigh County,Baldwin,2010.0,64,102.4,GE Wind,GE1.6-82.5,80.0,82.5,-100.65719,47.07829,False
+2440,OK,Beaver County,Balko Wind,2015.0,162,299.7,GE Wind,GE1.85-87,80.0,87.0,-100.80332,36.54136,False
+2602,MA,Barnstable County,Barnstable Wastewater Treatment Facility,2010.0,2,0.2,Northern Power Systems,NW100,37.0,21.0,-70.3048,41.66429,False
+2604,CA,San Bernardino County,Barstow Marine Logistics Base,2009.0,1,1.5,AAER,A-1500,80.0,77.0,-116.95979,34.8624,False
+2605,IA,Worth County,Barton,2009.0,80,160.0,Gamesa,G87-2.0,78.0,87.0,-93.0919,43.37869,False
+2685,TX,Jack County,Barton Chapel,2009.0,60,120.0,Gamesa,G87-2.0,78.0,87.0,-98.37589,33.05729,False
+2745,NJ,Hudson County,Bayonne Wind Energy Project,2012.0,1,1.5,Leitner Poma,LTW-77,65.0,77.0,-74.1177,40.65279,False
+2746,PA,Luzerne County,Bear Creek,2006.0,12,24.0,Gamesa,G87-2.0,78.0,87.0,-75.75619,41.23592,False
+2758,TX,Glasscock County,Bearkat I,2017.0,57,196.65,Vestas,V126-3.45,87.0,126.0,-101.6262,31.75377,False
+2815,TX,Glasscock County,Bearkat II,2020.0,47,162.15,Vestas,V126-3.45,87.0,126.0,-101.68945,31.74357,False
+2863,IA,Boone County,Beaver Creek,2017.0,85,170.0,Vestas,V110-2.0,95.0,110.0,-94.16252,42.07365,False
+2949,IA,Greene County,Beaver Creek II,2018.0,85,170.0,Vestas,V110-2.0,95.0,110.0,-94.20839,42.11522,False
+3036,MI,Gratiot County,Beebe 1B,2014.0,21,50.4,Nordex,N117,91.0,117.0,-84.52315,43.31808,False
+3058,MI,Gratiot County,Beebe Community Wind,2012.0,34,81.6,Nordex,N117,91.0,117.0,-84.4623,43.28779,False
+3092,WV,Greenbrier County,Beech Ridge,2010.0,67,100.5,GE Wind,GE1.5-77,80.0,77.0,-80.5169,38.08219,False
+3159,WV,Greenbrier County,Beech Ridge II,2020.0,20,56.2,GE Wind,GE2.82-127,89.0,127.0,-80.61658,38.10968,False
+3180,SD,Hutchinson County,"Beethoven Wind, LLC",2015.0,43,79.55,GE Wind,GE1.85-87,80.0,87.0,-98.04273,43.2067,False
+3223,OH,Sandusky County,Bellevue High School,2010.0,1,0.1,Northern Power Systems,NPS-100,,,-82.84603,41.28242,False
+3224,OR,Baker County,Benson Creek,2017.0,5,10.0,GE Wind,GE2.0-116,80.0,116.0,-117.27673,44.42429,False
+3229,MN,Freeborn County,Bent Tree,2011.0,122,201.3,Vestas,V82-1.65,80.0,82.0,-93.49009,43.73699,False
+3351,MA,Franklin County,Berkshire East Ski Area,2010.0,1,0.9,PowerWind,PW56,59.0,56.0,-72.8668,42.61629,False
+3352,MA,Berkshire County,Berkshire Wind,2011.0,10,15.0,GE Wind,GE1.5-77,80.0,77.0,-73.2751,42.58489,False
+3362,MA,Berkshire County,Berkshire Wind Power Project Phase II,2019.0,2,4.6,GE Wind,GE2.3-116,80.0,116.0,-73.27258,42.59658,False
+3364,TX,Castro County,Bethel,2017.0,120,276.0,GE Wind,GE2.3-116,80.0,116.0,-102.45788,34.51184,False
+3484,AK,Bethel Census Area,Bethel Wind Turbine,2018.0,1,0.9,EWT,DW-52-900,50.0,52.0,-161.88445,60.78136,False
+3485,MN,Faribault County,Big Blue Wind Farm,2012.0,18,36.0,Gamesa,G97-2.0,90.0,97.0,-94.23349,43.61959,False
+3503,WA,Klickitat County,Big Horn,2006.0,133,199.5,GE Wind,GE1.5-77,80.0,77.0,-120.26318,45.90189,False
+3636,WA,Klickitat County,Big Horn 2,2010.0,25,50.0,Gamesa,G90-2.0,78.0,90.0,-120.30153,45.94672,False
+3660,PA,Potter County,Big Level,2019.0,25,90.0,GE Wind,GE3.6-137,131.0,137.0,-77.65854,41.8846,False
+3685,IL,Bureau County,Big Sky Wind,2011.0,114,239.4,Suzlon,S88,80.0,88.0,-89.49839,41.54809,False
+3799,OK,Roger Mills County,Big Smile Wind Farm at Dempsey Ridge,2012.0,66,132.0,Gamesa,G90-2.0,78.0,90.0,-99.84719,35.5327,False
+3865,MT,Sweet Grass County,Big Timber,2018.0,14,25.06,GE Wind,GE1.79-100,80.0,100.0,-109.64506,45.81893,False
+3879,MI,Huron County,Big Turtle,2014.0,10,20.0,Gamesa,G114-2.0,93.0,114.0,-82.75805,43.8707,False
+3889,MI,Huron County,Big Turtle II,2016.0,14,29.4,Gamesa,G114-2.1,93.0,114.0,-82.77428,43.91442,False
+3903,IL,Cook County,Big Windy,2009.0,1,0.11,NEG Micon,NM19,25.0,18.9,-87.86519,41.95546,False
+3904,OR,Sherman County,Biglow Canyon I,2007.0,76,125.4,Vestas,V82-1.65,80.0,82.0,-120.58518,45.66919,False
+3980,OR,Sherman County,Biglow Canyon II,2009.0,65,149.5,Siemens,SWT-2.3-93,80.0,93.0,-120.59669,45.6335,False
+4046,OR,Sherman County,Biglow Canyon III,2010.0,76,174.8,Siemens,SWT-2.3-93,80.0,93.0,-120.54809,45.6484,False
+4124,MN,Cottonwood County,Bingham Lake,2006.0,12,15.0,Suzlon,S64,63.0,64.0,-95.06849,43.96169,False
+4136,ME,Piscataquis County,Bingham Wind,2016.0,56,184.8,Vestas,V112-3.3,94.0,112.0,-69.64282,45.17936,False
+4192,IA,Taylor County,Birch Power LLC,2017.0,1,1.79,GE Wind,GE1.79-100,80.0,100.0,-94.4744,40.76769,False
+4193,IL,Henry County,Bishop Hill I,2012.0,133,211.38,GE Wind,GE1.62-100,100.0,100.0,-90.1732,41.22619,False
+4326,IL,Henry County,Bishop Hill II,2012.0,50,81.0,GE Wind,GE1.62-100,100.0,100.0,-90.15319,41.26289,False
+4376,IL,Henry County,Bishop Hill III,2018.0,53,132.1,GE Wind,GE2.5-116,90.0,116.0,-90.31043,41.24196,False
+4429,ND,Morton County,Bison 1B (2011),2011.0,7,21.0,Siemens,SWT-3.0-101,80.0,101.0,-101.54719,46.96489,False
+4436,ND,Morton County,Bison Wind 1A,2010.0,16,36.8,Siemens,SWT-2.3-101,80.0,101.0,-101.54889,46.97809,False
+4453,ND,Oliver County,Bison Wind 1B,2012.0,8,24.0,Siemens,SWT-3.0-101,80.0,101.0,-101.48759,47.00369,False
+4462,ND,Morton County,Bison Wind 2,2012.0,35,105.0,Siemens,SWT-3.0-101,80.0,101.0,-101.61369,46.93049,False
+4496,ND,Morton County,Bison Wind 3,2012.0,35,105.0,Siemens,SWT-3.0-101,80.0,101.0,-101.43599,46.96929,False
+4531,ND,Oliver County,Bison Wind 4,2014.0,64,204.8,Siemens,SWT-3.2-113,92.5,113.0,-101.67914,47.03717,False
+4597,IN,Jay County,Bitter Ridge,2020.0,52,146.64,GE Wind,GE2.82-127,89.0,127.0,-85.16214,40.31718,False
+4649,AR,Washington County,Bitworks,2003.0,1,0.1,NEG Micon,Micon 100,,,-94.334,35.97639,False
+4650,MN,Stearns County,Black Oak Getty,2016.0,39,78.0,Vestas,V110-2.0,80.0,110.0,-95.01148,45.64781,False
+4690,IL,LaSalle County,Blackstone (Top Crop),2009.0,68,102.0,GE Wind,GE1.5-77,80.0,77.0,-88.6001,41.14539,False
+4759,IL,Grundy County,Blackstone (Top Crop) II,2010.0,132,198.0,GE Wind,GE1.5-77,80.0,77.0,-88.5442,41.13189,False
+4891,OK,Kay County,Blackwell,2012.0,26,59.8,Siemens,SWT-2.3-108,80.0,108.0,-97.4251,36.86459,False
+4917,MN,Lincoln County,Blazing Star 1,2020.0,100,200.0,Vestas,V120-2.0,80.0,120.0,-96.31256,44.56853,False
+4963,CA,Kern County,unknown Tehachapi Wind Resource Area 3,2005.0,59,35.4,,,,,-118.27609,35.051,False
+5019,RI,Washington County,Block Island,2016.0,5,30.0,GE Wind,Haliade 150-6,106.0,150.0,-71.51395,41.11993,False
+5024,KS,Ford County,Bloom,2017.0,54,178.2,Vestas,V117-3.3,91.5,117.0,-99.97247,37.48224,False
+5078,IL,McLean County,Blooming Grove,2020.0,94,260.92,GE Wind,GE2.82-127,89.0,127.0,-88.84875,40.65735,False
+5172,MN,Faribault County,Blue Breezes I & II,2006.0,2,2.5,Suzlon,S64,78.0,64.0,-94.15639,43.65583,False
+5174,OK,Comanche County,Blue Canyon I,2003.0,45,74.25,NEG Micon,NM72,70.0,72.0,-98.56749,34.84689,False
+5220,OK,Kiowa County,Blue Canyon II,2005.0,84,151.2,Vestas,V80-1.8,67.0,80.0,-98.67379,34.8798,False
+5304,OK,Comanche County,Blue Canyon V,2009.0,66,99.0,GE Wind,GE1.5-77,80.0,77.0,-98.44619,34.79499,False
+5371,OK,Caddo County,Blue Canyon VI,2011.0,55,99.0,Vestas,V90-1.8,80.0,90.0,-98.5538,34.90699,False
+5427,TX,Bailey County,Blue Cloud I,2018.0,43,148.35,Vestas,V126-3.45,87.0,126.0,-102.62096,34.07409,False
+5470,OH,Van Wert County,Blue Creek,2012.0,152,304.0,Gamesa,G90-2.0,100.0,90.0,-84.63619,40.93539,False
+5623,WI,Fond du Lac County,Blue Sky - Green Field,2008.0,88,145.2,Vestas,V82-1.65,80.0,82.0,-88.2999,43.90479,False
+5711,TX,Wilbarger County,Blue Summit,2012.0,85,135.4,GE Wind,GE1.6-87,80.0,87.0,-99.38919,34.3486,False
+5796,TX,Hardeman County,Blue Summit II,2018.0,41,99.36,GE Wind,GE2.5-116,90.0,116.0,-99.47807,34.20541,False
+5824,TX,Hardeman County,Blue Summit III,2019.0,82,200.2,GE Wind,GE2.5-127,89.0,127.0,-99.53539,34.15688,False
+5906,MO,Gentry County,Bluegrass Ridge,2007.0,27,56.7,Suzlon,S88,80.0,88.0,-94.51399,40.08389,False
+5933,OK,Beaver County,Bluestem,2016.0,60,198.0,Vestas,V117-3.3,91.5,117.0,-100.58143,36.60811,False
+5993,IN,Randolph County,Bluff Point,2017.0,57,119.7,GE Wind,GE2.1-116,94.0,116.0,-84.93153,40.3029,False
+6050,TX,Archer County,Bobcat Bluff,2012.0,100,150.0,GE Wind,GE1.62-91,80.0,91.0,-98.58051,33.50364,False
+6150,OK,Woodward County,Boiling Springs,2020.0,60,148.4,GE Wind,GE2.3-116,90.0,116.0,-99.35055,36.5669,False
+6210,VT,Chittenden County,Bolton Valley Resort,2009.0,1,0.1,Northern Power Systems,NW100,37.0,21.0,-72.83472,44.41446,False
+6211,ND,Rolette County,Border Winds Project,2015.0,75,150.0,Vestas,V100-2.0,95.0,100.0,-99.64482,48.9743,False
+6288,OH,Wood County,Bowling Green Municipal,2003.0,2,3.6,Vestas,V80-1.8,78.0,80.0,-83.741,41.37429,False
+6290,OH,Columbiana County,Boyce Dairy Farm,2010.0,1,0.1,Northern Power Systems,NPS-100,,,-81.04547,40.8686,False
+6291,ND,Stark County,Brady Wind I,2016.0,87,149.73,GE Wind,GE1.715-103,80.0,103.0,-102.63613,46.68509,False
+6379,ND,Hettinger County,Brady Wind II,2016.0,72,149.03,GE Wind,GE2.0-116,80.0,116.0,-102.83884,46.62725,False
+6451,NM,Curry County,"Brahms Wind, LLC",2014.0,12,19.8,Vestas,V82-1.65,80.0,82.0,-103.26877,34.74783,False
+6463,TX,Scurry County,Brazos Wind Ranch,2003.0,160,160.0,Mitsubishi,MWT62/1.0,69.0,61.4,-101.09876,32.93903,False
+6624,OK,Garfield County,Breckinridge,2015.0,57,98.1,GE Wind,GE1.7-103,80.0,103.0,-97.62734,36.44956,False
+6681,IL,McLean County,Bright Stalk,2019.0,57,205.2,Vestas,V136-3.6,99.0,136.0,-88.66276,40.71753,False
+6739,TX,Briscoe County,Briscoe,2015.0,81,150.0,GE Wind,GE1.85-87,80.0,87.0,-101.30242,34.37063,False
+6821,IL,Douglas County,Broadlands,2020.0,228,496.4,Vestas,V150-4.3,105.0,150.0,-88.03143,39.82434,False
+6869,TX,Deaf Smith County,Broadview Energy JN LLC,2017.0,36,82.8,Siemens,SWT-2.3-108,80.0,108.0,-102.93607,34.83205,False
+6948,NM,Curry County,Broadview Energy KW LLC,2017.0,62,142.6,Siemens,SWT-2.3-108,80.0,108.0,-103.11195,34.74996,False
+7010,NE,Custer County,Broken Bow I,2012.0,50,80.0,GE Wind,GE1.6-82.5,80.0,82.5,-99.61089,41.50749,False
+7060,NE,Custer County,Broken Bow II,2014.0,43,75.0,GE Wind,GE1.7-100,80.0,100.0,-99.5533,41.5184,False
+7103,CO,Kit Carson County,Bronco Plains,2020.0,108,299.36,GE Wind,GE2.82-127,89.0,127.0,-102.94419,39.04627,False
+7213,CA,Kern County,Brookfield Tehachapi 1 (CCDLP),2012.0,34,102.0,Vestas,V90-3.0,80.0,90.0,-118.33479,35.0644,False
+7239,CA,Kern County,Brookfield Tehachapi 2,2012.0,7,21.0,Vestas,V90-3.0,80.0,90.0,-118.24449,35.0452,False
+7247,CA,Kern County,Brookfield Tehachapi 3,2004.0,9,13.5,GE Wind,GE 1.5-70.5,65.0,70.5,-118.32202,35.05753,False
+7248,MI,Huron County,Brookfield Wind Park,2014.0,44,74.8,GE Wind,GE1.7-100,80.0,100.0,-83.24809,43.74199,False
+7292,IL,Brown County,Brown County Wind Turbine,2011.0,1,1.5,Vensys,1.5_74,85.0,74.0,-90.69939,39.97349,False
+7293,TX,Willacy County,Bruenning's Breeze,2017.0,76,228.0,Nordex,AW125/3000,87.5,125.0,-97.63162,26.52479,False
+7369,SD,Brule County,Brule County Wind,2018.0,9,20.7,GE Wind,GE2.3-116,80.0,116.0,-98.91724,43.72578,False
+7378,KS,Ellis County,Buckeye,2015.0,112,200.0,GE Wind,GE1.79-100,80.0,100.0,-99.48023,39.01762,False
+7490,TX,Erath County,Buckthorn,2017.0,29,100.05,Vestas,V126-3.45,87.0,126.0,-98.3641,32.34509,False
+7519,CA,Contra Costa County,Buena Vista,2006.0,38,38.0,Mitsubishi,MWT62/1.0,55.0,61.4,-121.65459,37.8036,False
+7556,OK,Harper County,Buffalo Bear,2008.0,9,18.9,Suzlon,S88,79.0,88.0,-99.64089,36.7777,False
+7565,KS,Grant County,Buffalo Dunes,2013.0,135,249.75,GE Wind,GE1.85-87,80.0,87.0,-101.10209,37.64399,False
+7701,TX,Nolan County,Buffalo Gap 2,2007.0,155,232.5,GE Wind,GE1.5-77,80.0,77.0,-100.20339,32.33999,False
+7858,TX,Nolan County,Buffalo Gap 3,2008.0,74,170.2,Siemens,SWT-2.3-93,80.0,93.0,-100.17659,32.2868,False
+7932,TX,Taylor County,Buffalo Gap Wind Farm,2005.0,67,120.6,Vestas,V80-1.8,78.0,80.0,-100.09148,32.31256,False
+7996,TN,Anderson County,Buffalo Mountain,2004.0,15,27.0,Vestas,V80-1.8,80.0,80.0,-84.3583,36.13459,False
+8011,TN,Anderson County,Buffalo Mountain (Windrock),2000.0,3,1.98,Vestas,V47-0.66,65.0,47.0,-84.3391,36.1219,False
+8014,SD,Brookings County,Buffalo Ridge,2009.0,24,50.4,Suzlon,S88,79.0,88.0,-96.49489,44.41909,False
+8038,SD,Deuel County,Buffalo Ridge II,2010.0,105,210.0,Gamesa,G87-2.0,78.0,87.0,-96.67149,44.55409,False
+8145,TX,Borden County,Bull Creek,2008.0,180,180.0,Mitsubishi,MWT62/1.0,69.0,61.4,-101.5902,32.93409,False
+8325,ME,Hancock County,Bull Hill,2012.0,19,34.2,Vestas,V100-1.8,95.0,100.0,-68.1747,44.72569,False
+8344,IA,Adair County,Bulldog,2010.0,1,1.5,GE Wind,GE1.5-77,80.0,77.0,-94.44049,41.22569,False
+8345,IA,Buchanan County,Burco Farm & Feed,2010.0,1,0.1,Northern Power Systems,NPS-100,,,-91.88751,42.56381,False
+8346,IL,Bureau County,Bureau Valley School District,2004.0,1,0.66,Vestas,V47-0.66,66.0,47.0,-89.67819,41.45339,False
+8347,ID,Cassia County,Burley Butte,2011.0,13,19.5,GE Wind,GE1.5-82.5,80.0,82.5,-113.92569,42.48789,False
+8360,CO,Huerfano County,Busch Ranch,2012.0,16,28.8,Vestas,V100-1.8,80.0,100.0,-104.48749,37.7958,False
+8376,CO,Las Animas County,Busch Ranch II,2019.0,27,59.4,Vestas,V120-2.2,80.0,120.0,-104.38289,37.76114,False
+8403,WI,Dodge County,Butler Ridge,2009.0,36,54.0,GE Wind,GE1.5-82.5,80.0,82.5,-88.47769,43.40229,False
+8440,OH,Franklin County,Byers Auto,2010.0,1,0.1,Northern Power Systems,NPS-100,,,-83.08231,40.11075,False
+8441,IA,Winnebago County,CR Holland Crane Service,2017.0,1,0.1,Northern Power Systems,NPS-100,37.0,24.0,-93.63378,43.27931,False
+8442,CA,Riverside County,Cabazon,2002.0,62,40.92,Vestas,V47-0.66,65.0,47.0,-116.72929,33.9166,False
+8505,TX,Concho County,Cactus Flats,2018.0,43,148.35,Vestas,V126-3.45,87.0,126.0,-99.97665,31.10938,False
+8548,IL,Vermilion County,California Ridge,2012.0,134,217.08,GE Wind,GE1.62-100,100.0,100.0,-87.8654,40.18419,False
+8686,CA,Los Angeles County,California State Prison Los Angeles County,2017.0,1,1.85,GE Wind,GE1.85-82.5,80.0,82.5,-118.2216,34.69198,False
+8687,TX,Taylor County,Callahan Divide,2005.0,76,114.0,GE Wind,GE1.5-87,80.0,87.0,-100.02873,32.30754,False
+8765,MA,Plymouth County,Camelot Wind Project,2012.0,1,1.5,Goldwind,GW82,70.0,82.0,-70.6443,41.92549,False
+8766,TX,Cameron County,Cameron,2015.0,55,165.0,Acciona,AW125/3000,87.5,125.0,-97.52483,26.18819,False
+8821,IL,Marshall County,Camp Grove,2007.0,100,150.0,GE Wind,GE1.5-77,80.0,77.0,-89.6003,41.05979,False
+8921,ID,Elmore County,Camp Reed,2010.0,15,22.5,GE Wind,GE1.5-82.5,80.0,82.5,-115.06479,42.8173,False
+8936,TX,Scurry County,Camp Springs,2007.0,87,130.5,GE Wind,GE1.5-77,80.0,77.0,-100.82989,32.75599,False
+9023,TX,Scurry County,Camp Springs II,2007.0,21,31.5,GE Wind,GE1.5-77,80.0,77.0,-100.90749,32.80489,False
+9104,UT,Utah County,Camp Williams,2005.0,1,0.66,Vestas,V47-0.66,50.0,47.0,-111.91928,40.4396,False
+9106,SD,Campbell County,Campbell County,2015.0,55,95.0,GE Wind,GE1.7-103,80.0,103.0,-100.28356,45.81327,False
+9163,WY,Converse County,Campbell Hill,2009.0,66,99.0,GE Wind,GE1.5-77,80.0,77.0,-106.02099,42.99929,False
+9231,TX,Oldham County,Canadian Breaks,2019.0,87,200.1,Siemens,SWT-2.3-108,80.0,108.0,-102.31234,35.21755,False
+9316,OK,Canadian County,Canadian Hills,2012.0,135,298.45,Mitsubishi,MWT102/2.4,80.0,102.0,-98.09819,35.64629,False
+9451,KS,Elk County,Caney River,2011.0,111,199.8,Vestas,V90-1.8,80.0,90.0,-96.41689,37.43329,False
+9562,IA,Bremer County,Cannon 1,2009.0,1,0.95,EWT,DW-54-900,75.0,54.0,-92.3689,42.73275,False
+9563,IA,Bremer County,Cannon II,2012.0,1,0.9,EWT,DW-54-900,75.0,54.0,-92.3681,42.73549,False
+9564,ME,Oxford County,Canton Mountain,2017.0,8,22.8,GE Wind,GE2.85-103,85.0,103.0,-70.30089,44.52094,False
+9572,MA,Barnstable County,Cape Cod Regional Transit Authority,2010.0,1,0.1,Northern Power Systems,NW100,,21.0,-70.1444,41.69009,False
+9573,TX,Sterling County,Capricorn Ridge,2007.0,208,364.0,Siemens Gamesa Renewable Energy,SG-2.3-108,80.0,108.0,-100.9269,31.8627,False
+9785,TX,Sterling County,Capricorn Ridge expansion,2008.0,199,298.5,GE Wind,GE1.5-91,80.0,91.0,-100.96389,31.9281,False
+9982,NM,Quay County,Caprock Wind Ranch,2005.0,20,20.0,Mitsubishi,MWT62/1.0,69.0,61.4,-103.42459,34.98439,False
+10062,IL,McDonough County,Cardinal Point,2020.0,60,150.0,GE Wind,GE2.5-127,89.0,127.0,-90.75955,40.61642,False
+10123,MN,Rice County,Carleton College,2011.0,1,1.6,GE Wind,GE1.6-82.5,80.0,82.5,-93.12791,44.46874,False
+10125,CO,Kit Carson County,Carousel,2015.0,88,149.6,GE Wind,GE1.7-100,80.0,100.0,-102.15028,39.3384,False
+10213,IA,Carroll County,Carroll,2008.0,100,150.0,GE Wind,GE1.5-91.5,80.0,91.5,-94.97249,42.17469,False
+10316,IA,Carroll County,Carroll Area,2015.0,9,20.0,Siemens,SWT-2.3-108,80.0,108.0,-94.89042,41.93733,False
+10325,SD,Miner County,Carthage Wind Turbine,2002.0,1,0.11,Micon,M108,,,-97.74043,44.16902,False
+10326,NM,Quay County,Casa Mesa,2018.0,21,50.9,GE Wind,GE2.5-127,89.0,127.0,-103.97613,34.63078,False
+10346,OH,Cuyahoga County,Case Western University,2012.0,2,1.23,Nordex,N54,70.0,54.0,-81.49763,41.60219,False
+10349,WI,Monroe County,Cashton Greens,2012.0,2,5.0,Clipper,C96,100.0,96.0,-90.8047,43.73369,False
+10351,WY,Natrona County,Casper Wind Farm,2009.0,11,16.5,GE Wind,GE1.5-77,80.0,77.0,-106.21969,42.88329,False
+10362,PA,Somerset County,Casselman,2007.0,23,34.5,GE Wind,GE1.5-77,80.0,77.0,-79.1096,39.86059,False
+10385,ID,Twin Falls County,Cassia,2009.0,14,29.4,Suzlon,S88,79.0,88.0,-115.01749,42.8704,False
+10399,IL,Livingston County,Cayuga Ridge,2010.0,150,300.0,Gamesa,G87-2.0,78.0,87.0,-88.38,40.96879,False
+10549,KS,Ness County,Cedar Bluff,2015.0,111,198.7,GE Wind,GE1.79-100,80.0,100.0,-99.80352,38.63533,False
+10660,CO,Weld County,Cedar Creek,2007.0,274,300.5,Mitsubishi,MWT62/1.0,69.0,61.4,-104.06679,40.85769,False
+10937,CO,Weld County,Cedar Creek II,2011.0,123,250.8,Nordex,N90,80.0,90.0,-103.81449,40.91359,False
+11059,ND,Bowman County,Cedar Hills,2010.0,13,19.5,GE Wind,GE1.5-77,80.0,77.0,-103.77059,46.24299,False
+11072,CO,Lincoln County,Cedar Point,2011.0,139,250.2,Vestas,V90-1.8,80.0,90.0,-103.57029,39.5113,False
+11211,WI,Fond du Lac County,Cedar Ridge Wind Farm,2008.0,41,67.65,Vestas,V82-1.65,80.0,82.0,-88.3223,43.70819,False
+11253,WY,Converse County,Cedar Springs I,2020.0,72,199.4,GE Wind,GE2.82-127,89.0,127.0,-105.46204,43.12831,False
+11327,WY,Converse County,Cedar Springs II,2020.0,73,202.22,GE Wind,GE2.82-127,89.0,127.0,-105.32034,42.90396,False
+11401,WY,Converse County,Cedar Springs III,2020.0,48,133.28,GE Wind,GE2.82-127,89.0,127.0,-105.57016,43.06926,False
+11449,TX,Webb County,Cedro Hill,2010.0,100,150.0,GE Wind,GE1.5-82.5,80.0,82.5,-98.95269,27.5368,False
+11551,CA,San Bernardino County,Cemex Black Mountain Quarry,2012.0,2,3.0,GE Wind,GE1.5-77,80.0,77.0,-117.11113,34.62108,False
+11553,CA,Yolo County,Cemex Madison,2012.0,1,1.5,GE Wind,GE1.5-77,80.0,77.0,-121.93519,38.6876,False
+11554,CA,San Bernardino County,Cemex River Plant,2012.0,2,3.2,GE Wind,GE1.6-82.5,80.0,82.5,-117.30589,34.5601,False
+11556,OK,Harper County,Centennial Wind Farm,2006.0,40,60.0,GE Wind,GE1.5-77,80.0,77.0,-99.63324,36.64882,False
+11636,NE,Adams County,Central Community College-Hastings,2016.0,1,1.7,GE Wind,GE1.7-103,80.0,103.0,-98.3345,40.56924,False
+11637,KS,Wichita County,Central Plains,2009.0,33,99.0,Vestas,V90-3.0,80.0,90.0,-101.15849,38.54139,False
+11670,IA,Hamilton County,Century,2005.0,100,150.0,GE Wind,GE1.5-82.5,65.0,82.5,-93.6874,42.5537,False
+11772,IA,Hamilton County,Century Expansion,2005.0,35,35.0,Mitsubishi,MWT62/1.0,69.0,61.4,-93.66599,42.50369,False
+11818,IA,Cerro Gordo County,Cerro Gordo Repower,2020.0,48,199.8,GE Wind,GE2.3-116,80.0,116.0,-93.44816,43.05482,False
+11834,SD,Brule County,Chamberlain Wind Project,2001.0,2,2.6,Nordex,N60,60.0,60.0,-99.24869,43.84769,False
+11837,MN,Murray County,"Champepaden, Chandler Hills Phase II",2001.0,3,1.98,Vestas,V47-0.66,65.0,47.0,-95.95239,43.91929,False
+11840,TX,Nolan County,Champion,2008.0,55,126.5,Siemens,SWT-2.3-93,80.0,93.0,-100.61179,32.3836,False
+11895,MN,Murray County,Chanarambie,2003.0,57,85.5,GE Wind,GE1.5-70.5,80.0,70.5,-96.06023,44.03508,False
+11952,TX,Nueces County,Chapman Ranch,2017.0,81,249.08,Nordex,AW125/3000,87.5,125.0,-97.47771,27.56277,False
+12035,IA,Floyd County,Charles City,2008.0,50,75.0,GE Wind,GE1.5-91.5,80.0,91.5,-92.72649,43.00419,False
+12086,MA,Suffolk County,Charlestown Wind Turbine,2011.0,1,1.5,Sinovel,SL1500,70.0,82.0,-71.071,42.39149,False
+12087,PA,Blair County,Chestnut Flats,2011.0,19,38.0,Gamesa,G87-2.0,78.0,87.0,-78.48535,40.52028,False
+12106,AK,Wade Hampton Census Area,Chevak,2009.0,4,0.4,Northern Power Systems,NW100,32.0,21.0,-165.60606,61.52424,False
+12110,CO,Cheyenne County,Cheyenne Ridge,2020.0,16,36.8,Vestas,V120-2.2,80.0,120.0,-102.32264,38.97931,False
+12344,OK,Garfield County,Chisholm View,2012.0,140,235.2,GE Wind,GE1.68-82.5,80.0,82.5,-97.76779,36.58509,False
+12488,OK,Garfield County,Chisholm View II,2016.0,27,64.8,GE Wind,GE2.4-107,80.0,107.0,-97.69521,36.52554,False
+12516,OR,Umatilla County,Chopin,2016.0,6,9.9,GE Wind,GE1.7-103,80.0,103.0,-118.47427,45.89413,False
+12522,KS,Clark County,Cimarron Bend I,2016.0,100,200.0,Vestas,V110-2.0,80.0,110.0,-99.92653,37.37665,False
+12623,KS,Clark County,Cimarron Bend II,2017.0,100,200.0,Vestas,V110-2.0,80.0,110.0,-99.94676,37.37711,False
+12725,KS,Clark County,Cimarron Bend III,2020.0,74,198.84,GE Wind,GE2.82-127,89.0,127.0,-100.04388,37.41437,False
+12801,KS,Gray County,Cimarron I,2012.0,72,165.6,Siemens,SWT-2.3-108,80.0,108.0,-100.23499,37.86409,False
+12876,KS,Gray County,Cimarron II,2012.0,57,131.1,Siemens,SWT-2.3-108,80.0,108.0,-100.40309,37.87269,False
+12933,TX,Lynn County,Cirrus 1,2012.0,17,61.2,China Creative Wind Energy,CCWE3.60-116,82.0,116.0,-101.67259,33.03299,False
+12950,MN,Jackson County,Cisco,2008.0,4,8.4,Suzlon,S88,79.0,88.0,-95.3569,43.62589,False
+12954,SD,Miner County,City of Howard Wind Turbines,2001.0,2,0.22,Micon,M108,,,-97.53852,44.00956,False
+12956,MA,Middlesex County,City of Medford,2009.0,1,0.1,Northern Power Systems,NW100,30.0,21.0,-71.0991,42.40899,False
+12957,NE,Seward County,City of Seward,2017.0,1,1.7,GE Wind,GE1.7-103,80.0,103.0,-97.18768,40.89528,False
+12958,CA,Monterey County,City of Soledad Water Reclamation Facility,2014.0,1,1.85,GE Wind,GE1.85-82.5,80.0,82.5,-121.34016,36.42094,False
+12959,IA,Story County,Clark Thompson 1,2009.0,1,0.9,,,,,-93.59239,42.20809,False
+12960,OH,Lucas County,Clay High School,2012.0,1,0.9,PowerWind,PW56,71.0,56.0,-83.4135,41.65719,False
+12961,KS,Cloud County,Cloud County Community College,2010.0,2,0.2,Nordtank,NPS-100,,,-97.6638,39.54881,False
+12963,KS,Cloud County,Cloud Power,2010.0,3,0.35,Northern Power Systems,NW100,,21.0,-97.66431,39.54911,False
+12964,WA,Pacific County,Coastal Energy,2010.0,4,6.0,GE Wind,GE1.5-77,80.0,77.0,-124.06468,46.7925,False
+12968,VA,Northampton County,Coastal Virginia Offshore Wind,2020.0,2,12.0,Siemens Gamesa Renewable Energy,SWT-6.0-154,111.0,154.0,-75.49158,36.88684,False
+12970,ID,Elmore County,Cold Springs,2012.0,60,138.0,Siemens,SWT-2.3-101,80.0,101.0,-115.44269,43.00919,False
+13032,CO,Prowers County,Colorado Green Wind Project (Lamar),2003.0,108,162.0,GE Wind,GE1.5-70.5,80.0,70.5,-102.62024,37.71561,False
+13139,CO,Logan County,Colorado Highlands,2013.0,14,23.8,GE Wind,GE1.7-100,85.0,100.0,-102.80489,40.74379,False
+13195,OR,Umatilla County,Combine Hills I,2003.0,41,41.0,Mitsubishi,MWT62/1.0,55.0,61.4,-118.58139,45.92822,False
+13237,OR,Umatilla County,Combine Hills II,2009.0,63,63.0,Mitsubishi,MWT62/1.0,69.0,61.4,-118.54128,45.93189,False
+13301,MN,Lincoln County,Community Wind North,2011.0,12,30.0,Clipper,C96,80.0,96.0,-96.42929,44.26549,False
+13313,MN,Nobles County,Community Wind South,2012.0,15,30.75,REpower,MM92,100.0,92.5,-95.81529,43.72299,False
+13328,MO,Nodaway County,Conception Wind Project,2008.0,24,50.4,Suzlon,S88,79.0,88.0,-94.67139,40.23919,False
+13352,OR,Gilliam County,"Condon Wind Project, phase I",2001.0,41,24.6,Mitsubishi,MWT600,60.0,47.0,-120.28159,45.28019,False
+13393,OR,Gilliam County,"Condon Wind Project, phase II",2002.0,42,25.2,Mitsubishi,MWT600,60.0,47.0,-120.27189,45.28259,False
+13436,OH,Ashtabula County,Conneaut Middle School,2010.0,1,0.6,Turbowinds,T-600-48,65.0,48.0,-80.5594,41.92619,False
+13437,OH,Ashtabula County,Conneaut Waste Water Treatment,2010.0,1,0.4,Turbowinds,T-400-34,50.0,34.0,-80.55209,41.96879,False
+13438,IA,Taylor County,Contrail,2020.0,41,112.42,GE Wind,GE2.82-127,89.0,127.0,-94.90746,40.5934,False
+13479,OH,Van Wert County,Cooper Farms,2012.0,3,4.5,Goldwind,GW87,85.0,87.0,-84.5668,40.91499,False
+13481,OH,Van Wert County,Cooper Farms Amendment,2012.0,3,4.5,Goldwind,GW87,85.0,87.0,-84.5668,40.91089,False
+13482,NY,Lewis County,Copenhagen,2018.0,40,80.0,Vestas,V110-2.0,95.0,110.0,-75.63957,43.88184,False
+13522,CA,Kern County,Coram Energy LLC,2005.0,6,9.0,GE Wind,EW 1.5S,,,-118.32479,35.06559,False
+13530,MN,Faribault County,Corn Plus,2008.0,2,4.2,Suzlon,S88,79.0,88.0,-94.13929,43.76199,False
+13532,CA,Monterey County,Correctional Training Facility,2018.0,1,1.7,GE Wind,GE1.7-100,80.0,100.0,-121.38157,36.46617,False
+13533,WY,Laramie County,Corriedale Wind Energy Project,2020.0,21,59.22,GE Wind,GE2.82-127,89.0,127.0,-104.98985,41.12713,False
+13554,TX,Floyd County,Cotton Plains Wind,2017.0,21,50.4,GE Wind,GE2.4-107,80.0,107.0,-101.21465,34.00378,False
+13576,NE,Webster County,Cottonwood Wind,2017.0,40,89.96,GE Wind,GE2.3-116,80.0,116.0,-98.37452,40.27232,False
+13616,ND,Stutsman County,Courtenay,2016.0,100,200.0,Vestas,V100-2.0,80.0,100.0,-98.55656,47.18417,False
+13716,MO,Atchison County,Cow Branch Wind Project,2008.0,24,50.4,Suzlon,S88,79.0,88.0,-95.4577,40.48439,False
+13740,TX,Scurry County,Coyote,2020.0,28,103.07,Siemens Gamesa Renewable Energy,SG-4.5-145,107.5,145.0,-100.87734,32.83815,False
+13768,SD,Brookings County,Coyote Ridge,2019.0,39,96.7,GE Wind,GE2.5-127,89.0,127.0,-96.52407,44.45867,False
+13806,IA,Howard County,Crane Creek,2009.0,66,99.0,GE Wind,GE1.5-77,80.0,77.0,-92.51759,43.40989,False
+13872,TX,Refugio County,Cranell,2020.0,100,220.0,Vestas,V120-2.2,92.0,120.0,-97.39222,28.18416,False
+13972,IL,Bureau County,Crescent Ridge I,2005.0,33,54.45,NEG Micon,NM82,80.0,82.0,-89.57719,41.23009,False
+14005,NE,Platte County,Creston Ridge,2015.0,4,6.8,GE Wind,GE1.7-103,80.0,103.0,-97.38349,41.67759,False
+14009,NE,Platte County,Creston Ridge Expansion,2017.0,3,6.9,GE Wind,GE2.3-116,80.0,116.0,-97.40482,41.67749,False
+14012,MD,Somerset County,Crisfield Waste Water Treatment Plant,2017.0,1,0.75,Aeronautica,54-750,65.0,54.0,-75.85838,37.98283,False
+14013,MD,Garrett County,Criterion,2010.0,28,70.0,Clipper,C96,80.0,96.0,-79.3344,39.37429,False
+14041,SD,Clark County,Crocker,2019.0,77,209.44,GE Wind,GE2.72-116,90.0,116.0,-97.88677,45.0902,False
+14118,NE,Knox County,Crofton Bluffs,2012.0,22,42.0,Vestas,V90-1.8,80.0,90.0,-97.57449,42.70779,False
+14141,IA,Clay County,Cross Winds,2007.0,10,21.0,Suzlon,S88,79.0,88.0,-94.92289,43.04749,False
+14151,MI,Tuscola County,Cross Winds Energy Park,2014.0,62,110.98,GE Wind,GE1.79-100,96.0,100.0,-83.49323,43.64431,False
+14213,MI,Tuscola County,Cross Winds Energy Park II,2018.0,19,43.7,GE Wind,GE2.3-116,94.0,116.0,-83.4259,43.6308,False
+14232,MI,Tuscola County,Cross Winds Energy Park III,2019.0,33,75.9,GE Wind,GE2.3-116,94.0,116.0,-83.36009,43.66567,False
+14265,OK,Dewey County,Crossroads,2011.0,85,195.5,Siemens,SWT-2.3-101,80.0,101.0,-98.7553,36.0826,False
+14363,SD,Aurora County,Crow Lake,2011.0,43,64.5,GE Wind,GE1.5-77,80.0,77.0,-98.78342,43.86451,False
+14464,SD,Codington County,Crowned Ridge I,2019.0,87,200.1,GE Wind,GE2.3-116,90.0,116.0,-97.01067,45.08159,False
+14551,SD,Deuel County,Crowned Ridge II,2020.0,88,200.6,GE Wind,GE2.3-116,90.0,116.0,-96.87737,44.89888,False
+14641,IA,Hancock County,Crystal Lake I,2008.0,100,150.0,GE Wind,GE1.5-91,80.0,91.0,-93.86309,43.20709,False
+14741,IA,Winnebago County,Crystal Lake II,2008.0,76,190.0,GE Wind,GE2.5-116,80.0,116.0,-93.70709,43.31939,False
+14821,IA,Winnebago County,Crystal Lake III,2009.0,44,66.0,GE Wind,GE1.5-82.5,80.0,82.5,-93.88379,43.31919,False
+14865,IA,Adair County,Cumberland Rose,2012.0,1,1.6,GE Wind,GE1.6-82.5,80.0,82.5,-94.43489,41.22709,False
+14866,OH,Cuyahoga County,Cuyahoga County Fairgrounds,2012.0,1,0.5,Vestas,V39-0.5,61.0,39.0,-81.8392,41.36649,False
+14867,MN,Stearns County,DH Blattner Headquarters,2009.0,1,0.1,Northern Power Systems,NPS-100,,,-94.44567,45.59433,False
+14868,MN,Meeker County,Danielson,2011.0,12,19.8,Alstom,ECO 86,80.0,85.5,-94.74269,45.06619,False
+14880,SD,Day County,Day County Wind Project,2010.0,66,99.0,GE Wind,GE1.5-82.5,80.0,82.5,-97.91699,45.27429,False
+14947,TX,Hutchinson County,DeWind Little Pringle #1,2010.0,5,10.0,DeWind,D8.2,80.0,80.0,-101.54149,35.91089,False
+14952,TX,Hutchinson County,DeWind Little Pringle #2,2010.0,5,10.0,DeWind,D8.2,80.0,80.0,-101.53989,35.953,False
+14957,MI,Huron County,Deerfield,2017.0,72,149.0,Vestas,V110-2.0,95.0,110.0,-82.84779,43.94013,False
+15029,VT,Bennington County,Deerfield Wind,2017.0,15,30.0,Gamesa,G97-2.0,78.0,97.0,-72.96923,42.84916,False
+15044,AK,Southeast Fairbanks Census Area,Delta Junction,2009.0,1,0.1,Northern Power Systems,NW100,37.0,21.0,-145.59497,64.0144,False
+15047,MA,Worcester County,"Department of Correction, NCCI Gardner",2011.0,2,3.3,Vestas,V82-1.65,80.0,82.0,-71.9382,42.58169,False
+15049,TX,Pecos County,Desert Sky,2001.0,86,129.0,GE Wind,GE1.5-82.5,65.0,82.5,-102.12849,30.9279,False
+15125,TX,Pecos County,Desert Sky Repower,2001.0,21,38.67,GE Wind,GE1.85-87.5,80.0,87.5,-102.07634,30.916,False
+15140,CA,Alameda County,Diablo Winds,2004.0,31,20.46,Vestas,V47-0.66,60.0,47.0,-121.65819,37.77459,False
+15171,OK,Johnston County,Diamond Spring,2020.0,112,310.64,GE Wind,GE2.82-127,89.0,127.0,-96.7504,34.47909,False
+15283,IA,Iowa County,Diamond Trail,2020.0,46,168.8,Vestas,V136-4.3,105.0,136.0,-92.14601,41.67981,False
+15329,IA,Iowa County,Diamond Trail Expansion,2020.0,31,83.7,Vestas,V110-2.2,95.0,110.0,-92.14018,41.72224,False
+15360,KS,Marion County,Diamond Vista,2018.0,95,299.25,Nordex,AW125/3150,87.5,125.0,-97.25205,38.55489,False
+15455,MT,Fallon County,Diamond Willow Wind,2008.0,12,18.0,GE Wind,GE1.5-77,80.0,77.0,-104.19209,46.27389,False
+15467,MT,Fallon County,Diamond Willow extension,2010.0,7,10.5,GE Wind,GE1.5-77,80.0,77.0,-104.15989,46.27429,False
+15475,CA,Riverside County,Dillon,2008.0,45,45.0,Mitsubishi,MWT62/1.0,69.0,61.4,-116.56869,33.9166,False
+15520,OR,Marion County,Doerfler Farms,2011.0,1,0.25,Siva,SI.250,30.0,30.0,-122.80687,44.86757,False
+15521,MN,Nobles County,Don Sneve Wind Farms,2003.0,1,0.95,NEG Micon,NM54,70.0,54.0,-95.84367,43.74775,False
+15522,OK,Grady County,Drift Sand,2016.0,54,108.0,Vestas,V110-2.0,80.0,110.0,-97.97049,34.83623,False
+15576,AZ,Navajo County,Dry Lake,2009.0,30,63.0,Suzlon,S88,79.0,88.0,-110.25839,34.67059,False
+15606,AZ,Navajo County,Dry Lake II,2010.0,31,65.1,Suzlon,S88,79.0,88.0,-110.15979,34.5984,False
+15637,WY,Carbon County,Dunlap,2010.0,74,111.0,GE Wind,GE1.5-77,80.0,77.0,-106.15289,42.02319,False
+15711,OR,Baker County,Durbin Creek,2017.0,5,10.0,GE Wind,GE2.0-116,80.0,116.0,-117.32028,44.3527,False
+15716,NY,Steuben County,Dutch Hill/Cohocton,2009.0,50,125.0,Clipper,C96,80.0,96.0,-77.4145,42.55229,False
+15766,VT,Chittenden County,Dynapower,2010.0,1,0.1,Northern Power Systems,NPS-100,,,-73.1551,44.44299,False
+15767,KS,Thomas County,East Fork,2020.0,72,195.84,GE Wind,GE2.72-116,90.0,116.0,-100.86164,39.31855,False
+15839,TX,Cameron County,East Raymond,2020.0,91,200.0,Vestas,V120-2.2,92.0,120.0,-97.80113,26.30656,False
+15929,MN,Murray County,East Ridge,2006.0,8,10.0,Suzlon,S64-1.25,,64.0,-95.92217,43.93918,False
+15937,MI,Huron County,Echo,2014.0,70,112.0,GE Wind,GE1.6-100,96.0,100.0,-83.1886,43.92589,False
+16007,OR,Umatilla County,Echo 1-7,2009.0,27,44.55,Vestas,V82-1.65,80.0,82.0,-119.40508,45.7063,False
+16034,OR,Umatilla County,Echo 8-9,2009.0,10,20.0,REpower,MM92,80.0,92.5,-119.40768,45.71809,False
+16044,IA,Guthrie County,Eclipse,2012.0,87,200.1,Siemens,SWT-2.3-108,80.0,108.0,-94.65989,41.54269,False
+16118,WY,Carbon County,Ekola Flats,2020.0,63,250.9,Vestas,V136-4.3,82.0,136.0,-106.35397,41.96127,False
+16132,IL,Stephenson County,EcoGrove,2009.0,67,100.5,Acciona,AW82/1500,80.0,82.0,-89.89739,42.45569,False
+16199,CA,Riverside County,Edom Hills (repower),2008.0,8,20.0,Clipper,C93,80.0,93.0,-116.46769,33.8845,False
+16269,NM,Torrance County,El Cabo,2017.0,142,298.2,Gamesa,G114-2.1,80.0,114.0,-105.64476,34.82195,False
+16411,TX,Knox County,El Campo,2020.0,67,242.8,Vestas,V150-4.2,105.0,150.0,-99.79149,33.73614,False
+16478,TX,Hidalgo County,El Cortijo,2018.0,1,3.0,Nordex,AW116/3000,120.0,116.0,-98.19639,26.77917,False
+16479,KS,Butler County,El Dorado Wind Power,2012.0,1,1.0,Nordic,N1000,70.0,59.0,-96.85109,37.79699,False
+16480,TX,Howard County,Elbow Creek Wind Farm,2008.0,53,121.9,Siemens Gamesa Renewable Energy,SG-2.3-108,80.0,108.0,-101.41619,32.1325,False
+16481,TX,Wilbarger County,Electra Wind,2016.0,100,230.0,GE Wind,GE2.3-116,80.0,116.0,-99.0405,34.06809,False
+16534,IA,Hardin County,Eldora-New Providence Schools,2002.0,1,0.75,NEG Micon,NM48,55.0,48.0,-93.1156,42.35476,False
+16634,IA,Delaware County,Elk,2011.0,17,42.5,Nordex,N100,100.0,100.0,-91.3635,42.61939,False
+16651,OK,Roger Mills County,Elk City,2009.0,43,98.9,Siemens,SWT-2.3-93,80.0,93.0,-99.88879,35.47549,False
+16694,OK,Roger Mills County,Elk City II,2010.0,66,101.16,GE Wind,GE1.5-91,80.0,91.0,-99.65869,35.49849,False
+16760,KS,Butler County,Elk River,2005.0,100,150.0,GE Wind,GE1.5-77,80.0,77.0,-96.53939,37.56209,False
+16860,NE,Knox County,Elkhorn Ridge,2009.0,27,81.0,Vestas,V90-3.0,80.0,90.0,-97.62519,42.69089,False
+16887,OR,Union County,Elkhorn Valley (08),2008.0,2,3.3,Vestas,V82-1.65,70.0,82.0,-117.78909,45.10939,False
+16888,OR,Union County,Elkhorn Valley (La Grande),2007.0,59,97.35,Vestas,V82-1.65,70.0,82.0,-117.80039,45.11799,False
+16902,MN,Jackson County,Elm Creek,2008.0,66,99.0,GE Wind,GE1.5-77,80.0,77.0,-94.95049,43.77119,False
+17014,MN,Jackson County,Elm Creek II,2010.0,62,148.8,Mitsubishi,MWT95/2.4,80.0,95.0,-94.86589,43.70089,False
+17076,AK,Wade Hampton Census Area,Emmonak 1,2011.0,4,0.4,Northern Power Systems,NW100,37.0,21.0,-164.56198,62.7838,False
+17080,ND,Logan County,Emmons-Logan,2019.0,102,216.44,GE Wind,GE1.72-103,80.0,103.0,-99.90744,46.40194,False
+17183,IA,Osceola County,Endeavor,2008.0,30,75.0,GE Wind,GE2.5-116,80.0,116.0,-95.40249,43.38909,False
+17223,IA,Osceola County,Endeavor II,2008.0,20,50.0,GE Wind,GE2.5-116,80.0,116.0,-95.4567,43.43229,False
+17243,IA,Poweshiek County,English Farms,2019.0,69,170.3,GE Wind,GE2.5-127,89.0,127.0,-92.36263,41.5695,False
+17312,KS,Gray County,Ensign,2012.0,43,98.9,Siemens,SWT-2.3-108,80.0,108.0,-100.28489,37.61449,False
+17355,MN,Dakota County,Eolos,2011.0,1,2.5,Clipper,C96,80.0,96.0,-93.04807,44.7283,False
+17356,MA,Essex County,Equity Industrial Partners,2012.0,2,4.0,Gamesa,G90-2.0,78.0,90.0,-70.6558,42.62519,False
+17358,IL,Whiteside County,Erie Community School District 1,2008.0,1,1.2,Vensys,Vensys64,70.0,64.0,-90.07919,41.64764,False
+17359,OH,Ottawa County,Erie Industrial Park,2014.0,1,0.9,PowerWind,PW56,59.0,56.0,-83.03546,41.54543,False
+17360,IL,Ogle County,Eswood School,2012.0,1,0.23,NEG Micon,M530,,,-89.0332,42.05679,False
+17361,AK,Denali Borough,Eva Creek,2012.0,12,24.6,REpower,MM92,78.5,92.5,-148.91228,64.0617,False
+17373,WY,Uinta County,Evanston (Wyoming Wind Energy Center),2003.0,80,144.0,Vestas,V80-1.8,67.0,80.0,-110.80097,41.32633,False
+17454,WI,Rock County,Evansville WWTP,2010.0,1,0.1,Northern Power Systems,NW100,37.0,21.0,-89.28005,42.77765,False
+17455,MN,Jackson County,Ewington,2008.0,10,21.0,Suzlon,S88,79.0,88.0,-95.43188,43.61726,False
+17465,TX,Moore County,Exelon Wind 11,2009.0,8,10.0,Suzlon,S64-1.25,73.0,64.0,-101.98993,35.80818,False
+17466,WY,Laramie County,F.E. Warren Air Force Base,2005.0,2,1.32,Vestas,V47-0.66,50.0,47.0,-104.88299,41.176,False
+17468,KS,Ellis County,FHSU Wind,2013.0,2,4.0,Vestas,V100-2.0,80.0,110.0,-99.40569,38.87389,False
+17469,MD,Garrett County,Fair Wind,2015.0,12,30.0,Nordex,N100,100.0,100.0,-79.39831,39.31517,False
+17481,MI,Delta County,Fairbanks Wind Park,2020.0,21,72.45,Siemens Gamesa Renewable Energy,SG-3.4-132,84.0,132.0,-86.6395,45.69103,False
+17501,MT,Teton County,Fairfield Wind Farm,2014.0,6,10.0,GE Wind,GE1.7-100,80.0,100.0,-111.96532,47.72327,False
+17507,MA,Bristol County,Fairhaven Wind,2012.0,2,3.0,Sinovel,SL1500,80.0,82.0,-70.8734,41.63909,False
+17509,MN,Martin County,Fairmont Wind (SMMPA),2004.0,2,3.3,Vestas,V82-1.65,70.0,82.0,-94.44119,43.57929,False
+17511,MA,Barnstable County,Falmouth II,2012.0,1,1.65,Vestas,V82-1.65,80.0,82.0,-70.6215,41.60929,False
+17512,MA,Barnstable County,Falmouth Notus,2010.0,1,1.65,Vestas,V82-1.65,80.0,82.0,-70.6089,41.60849,False
+17513,MA,Barnstable County,Falmouth Wastewater,2010.0,1,1.65,Vestas,V82-1.65,80.0,82.0,-70.6208,41.60589,False
+17514,TX,Randall County,Falvez Astra,2017.0,68,163.2,GE Wind,GE2.4-107,80.0,107.0,-102.08437,34.76146,False
+17583,MN,Jackson County,Farmer's,2004.0,6,5.7,NEG Micon,NM54,70.0,54.0,-95.37032,43.65133,False
+17589,MO,Atchison County,Farmers City,2009.0,73,146.0,Gamesa,G87-2.0,78.0,87.0,-95.39549,40.57329,False
+17662,MN,Pipestone County,Farmers' coops/Westridge,2003.0,18,17.1,Suzlon,S64,63.0,64.0,-96.2234,43.9846,False
+17681,MN,Martin County,Federated Rural Electric,2008.0,1,2.1,Suzlon,S88,79.0,88.0,-94.592,43.67679,False
+17682,NY,Madison County,Fenner Wind Power Project,2001.0,20,30.0,GE Wind,GE1.5-70.5,65.0,70.5,-75.7603,42.97689,False
+17701,NY,Madison County,Fenner Wind Power Project - Repower,2012.0,1,1.5,Goldwind,GW82,85.0,82.0,-75.76788,42.97552,False
+17702,MN,Murray County,Fenton,2007.0,137,205.5,GE Wind,GE1.5-77,80.0,77.0,-96.00279,43.89599,False
+17840,RI,Providence County,Field's Point Wastewater Treatment Facilit,2012.0,3,4.5,Goldwind,GW82,70.0,82.0,-71.3901,41.79539,False
+17843,AK,Matanuska-Susitna Borough,Fire Island Project,2012.0,11,17.6,GE Wind,GE1.6-82.5,80.0,82.5,-150.21597,61.1395,False
+17854,KS,Harper County,Flat Ridge 2,2012.0,294,470.4,GE Wind,GE1.6-100,80.0,100.0,-98.31639,37.35209,False
+18116,KS,Harper County,Flat Ridge 2 Expansion,2012.0,294,470.4,GE Wind,GE1.6-87,80.0,87.0,-98.32119,37.32299,False
+18148,KS,Barber County,Flat Ridge Wind Farm,2009.0,40,100.0,Clipper,C96,80.0,96.0,-98.44229,37.3654,False
+18188,TX,Mills County,Flat Top,2018.0,100,200.0,Vestas,V110-2.0,95.0,110.0,-98.53696,31.55235,False
+18289,NE,Richardson County,Flat Water,2010.0,40,60.0,GE Wind,GE1.5-82.5,80.0,82.5,-95.88269,40.00169,False
+18329,TX,Scurry County,Fluvanna I,2017.0,74,155.4,Gamesa,G114-2.1,80.0,114.0,-101.13757,32.93055,False
+18403,IA,Dickinson County,Flying Cloud,2003.0,29,43.5,GE Wind,GE1.5-70.5,80.0,70.5,-95.33709,43.39889,False
+18432,TX,Foard County,Foard City,2019.0,139,350.28,GE Wind,GE2.5-127,89.0,127.0,-99.80611,33.92095,False
+18573,WY,Carbon County,Foote Creek 4,2000.0,28,16.8,Mitsubishi,MHI600,50.0,45.0,-106.18039,41.67352,False
+18602,MA,Suffolk County,Forbes Park,2008.0,1,0.6,RRB,PS-600,50.0,47.0,-71.0133,42.39959,False
+18603,TX,Sterling County,Forest Creek Wind Project,2006.0,54,124.2,Siemens,SWT-2.3-93,80.0,93.0,-101.22939,32.0145,False
+18658,KS,Ellis County,Fort Hays State University,2013.0,2,4.0,Vestas,V100-2.0,80.0,100.0,-99.40558,38.87479,False
+18660,AZ,Cochise County,Fort Huachuca,2011.0,1,1.0,Nordic,N1000/59,70.0,59.0,-110.31749,31.5054,False
+18661,PA,Somerset County,Forward,2008.0,14,29.4,Suzlon,S88,79.0,88.0,-78.8649,40.09829,False
+18675,IA,Adair County,Forward Fontanelle,2012.0,1,1.6,GE Wind,GE1.6-82.5,80.0,82.5,-94.57069,41.33959,False
+18676,WI,Fond du Lac County,Forward Wind Project,2008.0,86,129.0,GE Wind,GE1.5-77,80.0,77.0,-88.5096,43.65839,False
+18762,ID,Twin Falls County,Fossil Gulch,2005.0,7,10.5,GE Wind,GE1.5-77,80.0,77.0,-114.94959,42.85439,False
+18769,MD,Garrett County,Fourmile Ridge,2014.0,16,40.0,Nordex,N100,100.0,100.0,-79.01804,39.62943,False
+18785,IN,Benton County,Fowler Ridge I,2009.0,222,400.3,Vestas,V82-1.65,80.0,82.0,-87.2402,40.59739,False
+19011,IN,Benton County,Fowler Ridge II,2009.0,133,199.5,GE Wind,GE1.5-77,80.0,77.0,-87.4277,40.58199,False
+19144,ME,Knox County,Fox Islands,2009.0,3,4.5,GE Wind,GE1.5-77,80.0,77.0,-68.8663,44.09259,False
+19147,ND,Dickey County,Foxtail Wind,2019.0,75,150.0,Vestas,V120-2.0,80.0,120.0,-98.89549,46.12945,False
+19223,IA,Franklin County,Franklin County,2012.0,60,99.0,Vestas,V82-1.65,80.0,82.0,-93.30679,42.60409,False
+19284,TX,Hansford County,Frisco,2012.0,10,20.0,DeWind,D8.2,80.0,80.0,-101.61829,36.49849,False
+19294,OK,Kay County,Frontier I,2016.0,61,199.8,Vestas,V126-3.3,87.0,126.0,-97.2494,36.83566,False
+19355,PR,Bayamon Municipio,Ft Buchanan Energy Savings Performance Con,2013.0,3,0.83,Vergnet,GEV MP,55.0,32.0,-66.12863,18.416,False
+19358,MA,Plymouth County,Future Generation Wind,2016.0,4,8.0,Gamesa,G97-2.0,100.0,97.0,-70.62341,41.78165,False
+19362,MN,Mower County,G. McNeilus Wind Farm,2003.0,9,13.5,GE Wind,GE1.5-77,65.0,77.0,-92.71729,43.55159,False
+19371,MN,Winona County,GL Wind,2011.0,2,5.0,Clipper,C96,80.0,96.0,-91.86639,43.99499,False
+19374,ME,Somerset County,GSA,2010.0,2,0.2,Northern Power Systems,NPS-100,,,-70.39626,45.80381,False
+19376,IL,Lee County,GSG Wind Farm,2007.0,40,80.0,Gamesa,G87-2.0,78.0,87.0,-89.1982,41.66259,False
+19416,IA,Story County,"GWE, LLC",2012.0,2,4.0,HZ Windpower,H93-2000,80.0,93.0,-93.47801,42.00063,False
+19418,TX,Gaines County,Gaines Cavern Wind Project,2012.0,1,2.0,Gamesa,G97-2.0,78.0,97.0,-103.06245,32.68855,False
+19419,WI,Dane County,Galactic Wind,2012.0,6,9.9,Vestas,V82-1.65,80.0,82.0,-89.57169,43.17259,False
+19425,AK,Nome Census Area,Gambell Wind,2010.0,3,0.3,Northern Power Systems,NPS-100,37.0,21.0,-171.71158,63.7788,False
+19428,CA,Riverside County,Garnet Wind Project,2009.0,13,6.5,NedWind,40/500,39.5,40.0,-116.58249,33.90229,False
+19441,IL,Henry County,Geneseo Wind Farm,2009.0,2,3.0,Vensys,1.5-77,65.0,77.0,-90.15658,41.42616,False
+19443,VT,Franklin County,Georgia Mountain,2012.0,4,10.0,Goldwind,GW100,80.0,100.0,-73.07316,44.6654,False
+19447,WI,Columbia County,Glacier Hills,2011.0,90,162.0,Vestas,V90-1.8,80.0,90.0,-89.0351,43.56139,False
+19537,MT,Toole County,Glacier I,2008.0,71,106.5,Acciona,AW77/1500,80.0,77.0,-112.11309,48.51719,False
+19608,MT,Toole County,Glacier Wind II,2009.0,69,103.5,Acciona,AW77/1500,80.0,77.0,-112.16988,48.55359,False
+19677,IA,Cherokee County,Glaciers Edge,2019.0,82,212.04,GE Wind,GE2.82-127,89.0,127.0,-95.748,42.86111,False
+19759,ND,Morton County,Glen Ullin Energy Center (Clean Energy 1),2019.0,43,106.7,GE Wind,GE2.5-116,90.0,116.0,-101.80534,46.96579,False
+19802,WY,Converse County,Glenrock,2008.0,66,99.0,GE Wind,GE1.85-91,80.0,91.0,-105.81969,43.04669,False
+19868,WY,Converse County,Glenrock III,2009.0,26,39.0,GE Wind,GE1.85-91,80.0,91.0,-105.80819,43.01459,False
+19894,TX,Coke County,Goat Phase I,2008.0,80,80.0,Mitsubishi,MWT62/1.0,69.0,61.4,-100.8038,31.96779,False
+19974,TX,Coke County,Goat Phase II,2009.0,29,69.6,Mitsubishi,MWT92/2.4,80.0,92.0,-100.78859,31.9616,False
+20003,IL,Montgomery County,GobNob,2009.0,1,0.9,EWT,DW-52-900,70.0,52.0,-89.62859,39.43849,False
+20004,CA,San Diego County,Golden Acorn Casino,2014.0,1,1.85,GE Wind,GE1.85-82.5,80.0,82.5,-116.35132,32.7015,False
+20005,CA,Alameda County,Golden Hills,2015.0,48,85.9,GE Wind,GE1.7-100,80.0,100.0,-121.64851,37.71866,False
+20055,CA,Alameda County,Golden Hills North,2017.0,20,46.0,GE Wind,GE2.3-116,80.0,116.0,-121.61597,37.74636,False
+20074,IA,Kossuth County,Golden Plains,2020.0,82,199.82,GE Wind,GE2.3-116,80.0,116.0,-94.03507,43.35181,False
+20157,TX,Oldham County,Golden Spread Panhandle Wind Ranch,2011.0,34,78.2,Siemens,SWT-2.3-101,80.0,101.0,-102.22249,35.22669,False
+20192,ID,Cassia County,Golden Valley,2011.0,8,12.0,GE Wind,GE1.5-82.5,80.0,82.5,-113.90689,42.4404,False
+20200,CO,El Paso County,Golden West Wind Farm,2015.0,145,249.2,GE Wind,GE1.7-103,80.0,103.0,-104.22425,38.92436,False
+20346,TX,Mills County,Goldthwaite,2013.0,83,141.1,GE Wind,GE1.7-100,80.0,100.0,-98.55705,31.41848,False
+20432,IN,Benton County,Goodland I,2008.0,87,130.5,GE Wind,GE1.5-77,80.0,77.0,-87.50359,40.69109,False
+20519,WA,Klickitat County,Goodnoe Hills,2008.0,47,94.0,Vestas,V110-2.2,85.0,110.0,-120.47688,45.7799,False
+20566,OK,Texas County,Goodwell,2015.0,100,200.0,Vestas,V110-2.0,80.0,110.0,-101.66177,36.50798,False
+20666,TX,Borden County,Gopher Creek Wind Farm,2019.0,79,158.0,Vestas,V116-2.0,94.0,116.0,-101.18178,32.86657,False
+20746,MT,Meagher County,Gordon Butte,2012.0,6,9.0,GE Wind,GE1.5-77,80.0,77.0,-110.33419,46.41069,False
+20752,ID,Bonneville County,Goshen North,2010.0,83,124.5,GE Wind,GE1.5-82.5,80.0,82.5,-111.83079,43.46169,False
+20837,NM,Curry County,Grady,2019.0,84,220.5,Siemens Gamesa Renewable Energy,SG-2.625-120,85.0,120.0,-103.20804,34.74743,False
+20921,MN,Mower County,Grand Meadow,2008.0,67,100.5,GE Wind,GE1.5-77,80.0,77.0,-92.6954,43.70659,False
+20989,IL,LaSalle County,Grand Ridge,2008.0,66,99.0,GE Wind,GE1.5-77,80.0,77.0,-88.71999,41.19627,False
+21055,IL,LaSalle County,Grand Ridge II,2009.0,34,51.0,GE Wind,GE1.5-77,80.0,77.0,-88.69949,41.18769,False
+21096,IL,LaSalle County,Grand Ridge III/IV,2009.0,40,60.0,GE Wind,GE1.5-77,80.0,77.0,-88.7503,41.16229,False
+21129,NE,Holt County,Grande Prairie,2016.0,200,400.0,Vestas,V110-2.0,80.0,110.0,-98.44428,42.56068,False
+21330,TX,Carson County,Grandview I,2014.0,118,211.22,GE Wind,GE1.79-100,80.0,100.0,-101.24855,35.25328,False
+21448,TX,Gray County,Grandview II (Colbeck's Corner),2016.0,112,200.48,GE Wind,GE1.79-100,80.0,100.0,-101.03691,35.30382,False
+21469,NH,Coos County,Granite Reliable Power,2012.0,33,99.0,Vestas,V90-3.0,80.0,90.0,-71.3118,44.84229,False
+21595,MN,Grant County,Grant County,2010.0,10,20.0,Suzlon,S88,79.0,88.0,-95.89691,45.80704,False
+21605,OK,Grant County,Grant Plains,2016.0,64,147.2,Siemens,SWT-2.3-108,80.0,108.0,-97.70924,36.96423,False
+21670,OK,Grant County,Grant Wind,2016.0,66,151.8,Siemens,SWT-2.3-108,80.0,108.0,-97.73437,36.94461,False
+21736,MI,Gratiot County,Gratiot,2011.0,64,102.4,GE Wind,GE1.6-82.5,100.0,82.5,-84.4184,43.39579,False
+21797,MI,Gratiot County,Gratiot County,2012.0,69,110.4,GE Wind,GE1.6-82.5,100.0,82.5,-84.50169,43.40249,False
+21869,MI,Gratiot County,Gratiot Farms,2020.0,60,149.66,GE Wind,GE2.5-127,89.0,127.0,-84.80474,43.16669,False
+21925,KS,Gray County,Gray County Wind Farm Montezuma),2001.0,170,112.2,Vestas,V47-0.66,65.0,47.0,-100.35459,37.61329,False
+22095,OH,Cuyahoga County,Great Lakes Science Center,2006.0,1,0.23,Vestas,V27,30.0,27.0,-81.69679,41.50669,False
+22096,MN,Hennepin County,Great River Energy Headquarters,2008.0,1,0.23,NEG Micon,M700/225,30.0,30.0,-93.43524,45.09507,False
+22097,OK,Ellis County,Great Western,2016.0,93,225.0,Vestas,V117-3.3,80.0,117.0,-99.62985,36.14777,False
+22190,IA,Cass County,Green Energy Machine,2016.0,1,1.79,GE Wind,GE 1.7-100,80.0,100.0,-94.75351,41.37022,False
+22191,TX,Baylor County,Green Pastures I,2015.0,50,150.0,Acciona,AW116/3000,92.0,116.0,-99.38783,33.67466,False
+22241,TX,Knox County,Green Pastures II,2015.0,50,150.0,Acciona,AW116/3000,92.0,116.0,-99.47942,33.63416,False
+22291,IL,Lee County,Green River,2019.0,74,194.25,Siemens Gamesa Renewable Energy,SG-2.625-126,84.0,126.0,-89.50053,41.60833,False
+22365,IA,Adair County,Greenfield Wind,2012.0,1,1.6,GE Wind,GE1.6-82.5,80.0,82.5,-94.48858,41.29052,False
+22366,MT,Teton County,Greenfield Wind Farm,2016.0,13,29.9,GE Wind,GE2.3-107,80.0,107.0,-111.91174,47.70849,False
+22379,KS,Kiowa County,Greensburg,2010.0,10,12.5,Suzlon,S64,72.0,64.0,-99.34149,37.5496,False
+22389,NH,Grafton County,Groton,2012.0,24,48.0,Gamesa,G87-2.0,78.0,87.0,-71.8232,43.76459,False
+22413,GU,Guam,Guam Power Authority Wind Turbine,2016.0,1,0.28,Vergnet,GEV MP-C,55.0,32.0,144.72266,13.38938,False
+22414,TX,Kenedy County,Gulf Wind,2009.0,118,283.2,Mitsubishi,MWT92/2.4,80.0,92.0,-97.5808,26.9118,False
+22459,TX,Howard County,Gunsight,2016.0,67,119.93,GE Wind,GE1.79-100,80.0,100.0,-101.42912,32.48118,False
+22526,OK,Logan County,Guthrie WWTP,2001.0,1,0.1,Northern Power Systems,NW100,37.0,21.0,-97.4353,35.90249,False
+22527,TX,Shackelford County,Hackberry,2008.0,72,165.6,Siemens,SWT-2.3-93,80.0,93.0,-99.47109,32.7664,False
+22599,TX,Hale County,Hale Wind,2019.0,239,478.0,Vestas,V116-2.0,94.0,116.0,-101.62815,33.91194,False
+22839,NY,Suffolk County,Half Hollow Nursery,2010.0,1,0.1,Northern Power Systems,NPS-100,,,-72.57085,40.96906,False
+22840,ME,Hancock County,Hancock,2016.0,17,51.0,Vestas,V117-3.3,116.5,117.0,-68.13335,44.73624,False
+22857,WY,Carbon County,Hancock County Wind Farm,2002.0,148,97.68,Siemens Gamesa Renewable Energy,G47-0.676,65.0,47.0,-106.10352,42.17608,False
+22873,TX,Nueces County,Harbor Wind,2012.0,6,9.0,Guodian,UP1500,80.0,82.0,-97.44019,27.83206,False
+23006,WY,Laramie County,Happy Jack,2008.0,14,29.4,Suzlon,S88,79.0,88.0,-105.00889,41.14129,False
+23020,NY,Wayne County,Harbec Plastics,2002.0,2,1.1,Fuhrlander,FL250,40.0,29.0,-77.36174,43.22609,False
+23027,IA,Greene County,Hardin-Hilltop,2007.0,7,14.7,Suzlon,S88,79.0,88.0,-94.33579,42.08899,False
+23034,NY,Herkimer County,Hardscrabble,2011.0,37,74.0,Gamesa,G90-2.0,100.0,90.0,-74.902,43.19729,False
+23071,OH,Wyandot County,Harpster Wind,2016.0,1,1.5,Goldwind,GW87,80.0,87.0,-83.22858,40.71829,False
+23072,MI,Huron County,Harvest II,2012.0,33,59.4,Vestas,V100-1.8,95.0,100.0,-83.2105,43.78389,False
+23105,WA,Klickitat County,Harvest Wind Farm,2009.0,43,98.9,Siemens,SWT-2.3-93,80.0,93.0,-120.41158,45.7874,False
+23133,CA,Shasta County,Hatchett Ridge,2010.0,44,101.2,Siemens,SWT-2.3-93,80.0,93.0,-121.76809,40.8741,False
+23183,OH,Erie County,Hasslebach Meats,2010.0,1,0.1,Northern Power Systems,NPS-100,,,-82.57275,41.38952,False
+23227,OH,Paulding County,Haviland Wind Project,2012.0,3,4.5,Goldwind,GW87,85.0,87.0,-84.58759,41.01599,False
+23230,HI,Hawaii County,Hawi Renewable,2006.0,16,10.56,Vestas,V47-0.66,37.0,47.0,-155.85089,20.2515,False
+23246,IA,Fayette County,Hawkeye,2012.0,15,37.5,Nordex,N100,100.0,100.0,-92.05719,42.93939,False
+23261,OR,Sherman County,Hay Canyon,2009.0,48,100.8,Suzlon,S88,79.0,88.0,-120.60159,45.5164,False
+23309,IN,Randolph County,Headwaters,2014.0,100,200.0,Vestas,V100-2.0,95.0,100.0,-84.995,40.10972,False
+23347,CA,Solano County,High Winds,2003.0,90,162.0,Vestas,V80-1.8,60.0,80.0,-121.80292,38.09908,False
+23411,TX,McCulloch County,Heart of Texas,2020.0,64,179.88,GE Wind,GE2.82-127,89.0,127.0,-99.41715,31.21854,False
+23475,IL,McLean County,Heartland Community College,2012.0,1,1.65,Vestas,V82-1.65,80.0,82.0,-89.01879,40.53669,False
+23476,IA,Audubon County,Heartland Divide,2018.0,43,103.5,GE Wind,GE2.5-127,89.0,127.0,-94.79506,41.75879,False
+23512,TX,Deaf Smith County,Hereford 1,2014.0,104,199.9,GE Wind,GE1.85-87,80.0,87.0,-102.26037,34.74863,False
+23616,VT,Chittenden County,Heritage Flight,2009.0,1,0.1,Northern Power Systems,NW100,37.0,21.0,-73.146,44.46309,False
+23617,MI,Delta County,Heritage Garden,2012.0,14,28.0,Gamesa,G97-2.0,90.0,97.0,-86.55886,45.78521,False
+23631,TX,Starr County,Hidalgo,2016.0,75,150.0,Vestas,V110-2.0,80.0,110.0,-98.48129,26.49379,False
+23706,TX,Hidalgo County,Hidalgo II,2016.0,50,100.0,Vestas,V110-2.0,80.0,110.0,-98.33746,26.53808,False
+23770,TX,Crockett County,High Lonesome,2019.0,142,449.94,GE Wind,GE2.3-116,80.0,116.0,-101.898,31.06121,False
+23955,TX,Upton County,High Lonesome Expansion,2020.0,22,50.6,GE Wind,GE2.3-116,80.0,116.0,-101.91593,31.10813,False
+23975,ID,Twin Falls County,High Mesa,2012.0,19,39.9,Suzlon,S97,90.0,97.0,-115.03569,42.88549,False
+23994,WY,Albany County,High Plains,2009.0,66,99.0,GE Wind,GE1.85-91,80.0,91.0,-106.03999,41.67979,False
+24060,OK,Woodward County,High Plains Tech Center,2010.0,1,0.1,Northern Power Systems,NPS-100,,,-99.42819,36.40646,False
+24061,MO,Adair County,High Prairie,2020.0,175,400.0,Vestas,V120-2.2,92.0,120.0,-92.40849,40.25015,False
+24238,NY,Wyoming County,High Sheldon,2009.0,75,112.5,GE Wind,GE1.5-77,80.0,77.0,-78.4076,42.72449,False
+24402,IA,O'Brien County,Highland I,2015.0,211,495.01,Siemens,SWT-2.346-108,80.0,108.0,-95.69534,43.03171,False
+24613,IA,O'Brien County,Highland II,2015.0,3,7.04,Siemens,SWT-2.346-108,80.0,108.0,-95.62053,43.1121,False
+24616,PA,Cambria County,Highland North,2012.0,30,75.0,Nordex,N100,100.0,100.0,-78.6596,40.33209,False
+24646,PA,Cambria County,Highland Wind Project,2009.0,25,62.5,Nordex,N90,80.0,90.0,-78.70969,40.28519,False
+24671,IL,Logan County,HillTopper,2018.0,74,185.0,GE Wind,GE2.5-116,90.0,116.0,-89.38647,40.01681,False
+24745,MN,Pipestone County,Hilltop Power,2009.0,1,2.0,DeWind,D8.2,80.0,80.0,-96.19309,43.9128,False
+24746,RI,Newport County,Hodges Badge,2012.0,1,0.25,Siva,Siva 250/50,30.0,30.0,-71.25494,41.56642,False
+24747,OH,Hardin County,Hog Creek,2017.0,30,66.0,Vestas,V110-2.0,95.0,110.0,-83.71467,40.76654,False
+24777,OH,Paulding County,Holcim - Paulding Wind Project,2019.0,3,4.5,Goldwind,GW87,80.0,87.0,-84.61276,41.19231,False
+24780,MA,Hampden County,Holiday Hill Community Wind,2019.0,2,5.0,Goldwind,GW109,90.0,109.0,-72.87183,42.21027,False
+24782,MA,Worcester County,Holy Name Catholic High School,2008.0,1,0.6,Vestas,V47-0.6,50.0,47.0,-71.7839,42.24089,False
+24783,MN,Anoka County,Hometown WindPower Anoka,2010.0,1,0.16,,Danwind 23/160,23.0,23.0,-93.38369,45.22728,False
+24784,MN,Sibley County,Hometown WindPower Arlington,2010.0,1,0.16,,Danwind 23/160,23.0,23.0,-94.0649,44.61282,False
+24785,MN,McLeod County,Hometown WindPower Brownton,2010.0,1,0.16,,Danwind 23/160,23.0,23.0,-94.34216,44.73349,False
+24786,MN,Wright County,Hometown WindPower Buffalo,2010.0,1,0.16,,Danwind 23/160,23.0,23.0,-93.83524,45.18597,False
+24787,MN,Carver County,Hometown WindPower Chaska,2010.0,1,0.16,,Danwind 23/160,23.0,23.0,-93.57957,44.82164,False
+24788,MN,Polk County,Hometown WindPower East Grand Forks,2010.0,1,0.16,,Danwind 23/160,23.0,23.0,-96.98714,47.93767,False
+24790,MN,Rice County,Hometown WindPower Faribault,2010.0,1,0.16,,Danwind 23/160,23.0,23.0,-93.29176,44.33598,False
+24791,MN,Ramsey County,Hometown WindPower North St. Paul,2010.0,1,0.16,,Danwind 23/160,23.0,23.0,-92.99838,45.01143,False
+24792,MN,Scott County,Hometown WindPower Shakopee,2010.0,1,0.16,,Danwind 23/160,23.0,23.0,-93.49978,44.79951,False
+24793,MN,Sibley County,Hometown WindPower Winthrop,2010.0,1,0.16,,Danwind 23/160,23.0,23.0,-94.3599,44.53787,False
+24794,OH,Logan County,Honda Plant,2013.0,2,3.4,GE Wind,GE1.7-100,80.0,100.0,-83.89192,40.44607,False
+24796,AK,Wade Hampton Census Area,Hooper Bay,2008.0,3,0.3,Northern Power Systems,NW100,32.0,21.0,-166.09547,61.5357,False
+24799,IL,Vermilion County,Hoopeston Wind,2015.0,49,98.0,Vestas,V100-2.0,95.0,100.0,-87.7915,40.38536,False
+24849,MA,Berkshire County,Hoosac,2012.0,19,28.5,GE Wind,GE1.5-77,65.0,77.0,-73.0466,42.72849,False
+24868,IN,Benton County,Hoosier,2009.0,53,106.0,REpower,MM92,80.0,92.5,-87.2637,40.69789,False
+24921,WA,Columbia County,Hopkins Ridge I,2005.0,83,149.4,Vestas,V80-1.8,67.0,80.0,-117.78507,46.42329,False
+24922,WA,Columbia County,Hopkins Ridge II,2008.0,4,7.2,Vestas,V80-1.8,67.0,80.0,-117.80849,46.43369,False
+24926,WA,Columbia County,Hopkins Ridge Wind Project,2005.0,83,149.4,Vestas,V80-1.8,67.0,80.0,-117.85439,46.4502,False
+25009,ID,Bonneville County,Horse Butte,2012.0,32,57.6,Vestas,V100-1.8,80.0,100.0,-111.74109,43.4026,False
+25041,TX,Knox County,Horse Creek Wind,2016.0,100,230.0,GE Wind,GE2.3-116,80.0,116.0,-99.5359,33.40928,False
+25143,TX,Taylor County,Horse Hollow Expansion,2005.0,140,210.0,GE Wind,GE1.5-87,80.0,87.0,-100.02579,32.24302,False
+25145,TX,Taylor County,Horse Hollow II,2006.0,130,299.0,Siemens Gamesa Renewable Energy,SG-2.3-108,80.0,108.0,-100.14843,32.25261,False
+25275,TX,Nolan County,Horse Hollow III,2006.0,149,223.5,GE Wind,GE1.5-87,80.0,87.0,-100.29353,32.26258,False
+25426,TX,Taylor County,Horse Hollow Wind Energy Center,2005.0,140,210.0,GE Wind,GE1.5-87,80.0,87.0,-100.11633,32.2619,False
+25566,OR,Morrow County,Horseshoe Bend,2012.0,116,290.0,GE Wind,GE2.5-100,85.0,100.0,-119.96169,45.56429,False
+25682,MT,Cascade County,Horseshoe Bend/ranch pit,2006.0,6,9.0,GE Wind,GE1.5-77,80.0,77.0,-111.43709,47.49729,False
+25688,NY,Steuben County,Howard,2011.0,25,51.25,REpower,MM92,78.5,92.5,-77.50311,42.33143,False
+25715,CO,Huerfano County,Huerfano River,2013.0,4,8.0,Sany,SE10520E,103.0,80.0,-104.83219,37.77219,False
+25719,MA,Plymouth County,Hull I,2001.0,1,0.66,Vestas,V47-0.66,50.0,47.0,-70.9222,42.30439,False
+25720,MA,Plymouth County,Hull Wind Phase II,2006.0,1,1.8,Vestas,V80-1.8,60.0,80.0,-70.8566,42.26119,False
+25721,OH,Erie County,Huron Schools,2010.0,1,0.1,Northern Power Systems,NPS-100,,,-82.58558,41.40416,False
+25722,MA,Barnstable County,Hyannis Country Garden,2008.0,1,0.1,Northern Power Systems,NPS 100-21,37.0,21.0,-70.3108,41.65129,False
+25723,MA,Suffolk County,IBEW local 103,2005.0,1,0.1,Fuhrlander,FL100,39.0,21.0,-71.0541,42.30469,False
+25724,IA,Ida County,Ida Grove,2016.0,134,301.06,GE Wind,GE2.3-116,80.0,116.0,-95.35574,42.26433,False
+25858,IA,Ida County,Ida Grove II,2019.0,81,202.36,GE Wind,GE2.5-127,89.0,127.0,-95.35406,42.46571,False
+25939,IL,Pike County,Illinois Rural Electric Cooperative,2005.0,1,1.65,NEG Micon,NM82,70.0,82.0,-90.84619,39.61879,False
+25940,TX,Fisher County,Inadale (Roscoe IV),2009.0,197,197.0,Mitsubishi,MWT62/1.0,69.0,61.4,-100.62709,32.53909,False
+26137,TX,Pecos County,Indian Mesa,2001.0,125,82.5,Gamesa,G47-0.66,50.0,47.0,-102.16349,30.95149,False
+26255,WI,Manitowoc County,Lakeshore Technical College,2010.0,3,0.15,Entegrity,,,,-87.7571,43.92569,False
+26263,TX,Hansford County,Indian Mesa / Aeolus,2003.0,1,3.0,Vestas,V90-3.0,80.0,90.0,-101.32789,36.47269,False
+26264,CA,San Bernardino County,Inland Empire Utility Agency,2011.0,1,1.0,Mitsubishi,MWT62/1.0,55.0,61.4,-117.52639,34.0849,False
+26265,IA,Buena Vista County,Intrepid,2004.0,107,160.5,GE Wind,GE1.5-82.5,65.0,82.5,-95.32708,42.57119,False
+26372,IA,Sac County,Intrepid Expansion,2005.0,15,15.0,Mitsubishi,MWT62/1.0,69.0,61.4,-95.37009,42.53019,False
+26387,IA,Emmet County,Iowa Lakes Community College,2005.0,1,1.65,Vestas,V82-1.65,70.0,82.0,-94.81562,43.3854,False
+26388,IA,Kossuth County,Iowa Lakes Lakota Wind,2009.0,7,10.5,GE Wind,GE1.5-77,80.0,77.0,-94.14399,43.37619,False
+26395,IA,Dickinson County,Iowa Lakes Superior Wind,2009.0,7,10.5,GE Wind,GE1.5-77,80.0,77.0,-94.982,43.44119,False
+26402,IA,Polk County,Iowa State Fair Wind Project,2007.0,1,0.66,Vestas,V47,50.0,47.0,-93.5489,41.59509,False
+26403,MA,Essex County,Ipswich,2011.0,1,1.6,GE Wind,GE1.6-82.5,80.0,82.5,-70.8411,42.71609,False
+26404,MA,Essex County,Ipswich II,2012.0,1,2.0,Hyundai,HQ2000,80.0,82.5,-70.8464,42.71729,False
+26405,KS,Ford County,Ironwood I,2012.0,73,167.9,Siemens,SWT-2.3-101,80.0,101.0,-99.77399,37.83859,False
+26478,IA,Grundy County,Ivester,2018.0,35,90.83,Siemens Gamesa Renewable Energy,SG-2.625-120,85.0,120.0,-92.96592,42.33217,False
+26500,TX,Hansford County,JD Wind 4,2008.0,38,79.8,Suzlon,S88,79.0,88.0,-101.37149,36.3971,False
+26514,TX,Moore County,JD WInd 9,2008.0,8,10.0,Suzlon,S64,72.0,64.0,-101.99459,35.81139,False
+26520,TX,Moore County,JD Wind 10,2008.0,8,10.0,Suzlon,S64,72.0,64.0,-101.79489,35.9614,False
+26528,TX,Moore County,JD Wind 11,2009.0,8,10.0,Suzlon,S64,74.5,64.0,-101.97709,35.8117,False
+26573,TX,Moore County,JD Wind 7,2009.0,8,10.0,Suzlon,S64,74.5,64.0,-101.84969,35.9955,False
+26581,TX,Moore County,JD Wind 8,2009.0,8,10.0,Suzlon,S64,74.5,64.0,-101.88329,36.02519,False
+26589,TX,Sherman County,JD Wind Phase V,2006.0,8,10.0,Suzlon,S64,73.0,64.0,-101.86969,36.4455,False
+26597,TX,Sherman County,JD Wind VI,2007.0,8,10.0,Suzlon,S64,72.0,64.0,-101.81459,36.46709,False
+26605,MN,Lincoln County,JJN Wind Farm,2004.0,1,1.5,NEG Micon,NM72,70.0,72.0,-96.39189,44.28089,False
+26606,TX,Webb County,Javelina,2015.0,126,249.69,GE Wind,GE2.0-116,94.0,116.0,-98.97721,27.31154,False
+26733,TX,Webb County,Javelina II,2016.0,100,200.0,GE Wind,GE2.0-116,94.0,116.0,-98.90282,27.50559,False
+26834,MN,Cottonwood County,Jeffers,2008.0,20,50.0,Clipper,C96,80.0,96.0,-95.23899,44.06099,False
+26854,NH,Coos County,Jericho Mountain,2015.0,5,14.25,GE Wind,GE2.85-103,85.0,103.0,-71.22566,44.46895,False
+26859,NY,Franklin County,Jericho Rise,2016.0,37,77.7,Gamesa,G114-2.1,93.0,114.0,-74.10395,44.88879,False
+26897,NJ,Atlantic County,Jersey Atlantic Wind Farm,2005.0,5,7.5,GE Wind,GE1.5-77,80.0,77.0,-74.4496,39.37999,False
+26902,OR,Baker County,Jett Creek,2017.0,5,10.0,GE Wind,GE2.0-116,80.0,116.0,-117.27428,44.42536,False
+26907,MA,Berkshire County,Jiminy Peak Ski Resort,2007.0,1,1.5,GE Wind,GE1.5-77,80.0,77.0,-73.2928,42.54379,False
+26908,IN,Warren County,Jordan Creek,2020.0,150,401.92,GE Wind,GE2.82-127,89.0,127.0,-87.38303,40.45784,False
+27059,MT,Wheatland County,Judith Gap,2005.0,90,135.0,GE Wind,GE1.5-77,80.0,77.0,-109.74348,46.58719,False
+27150,TX,Andrews County,Jumbo Hill,2020.0,57,160.74,GE Wind,GE2.82-127,89.0,127.0,-102.91017,32.38178,False
+27203,TX,Castro County,Jumbo Road,2015.0,162,299.7,GE Wind,GE1.85-87,80.0,87.0,-102.2973,34.71183,False
+27365,IA,Greene County,Junction Hilltop Wind,2012.0,5,8.0,GE Wind,GE1.6-82.5,80.0,82.5,-94.2776,42.09309,False
+27370,WA,Klickitat County,Juniper Canyon,2011.0,63,151.2,Mitsubishi,MWT95/2.4,80.0,95.0,-120.22909,45.94449,False
+27434,OK,Texas County,KODE Novus I,2012.0,40,80.0,DeWind,D9.2,80.0,93.0,-101.36939,36.52699,False
+27474,OK,Texas County,KODE Novus II,2012.0,20,40.0,DeWind,D9.2,80.0,93.0,-101.49559,36.55439,False
+27494,HI,Maui County,Kaheawa (Maalaea),2006.0,20,30.0,GE Wind,GE1.5sle,55.0,70.5,-156.54518,20.8047,False
+27514,HI,Maui County,Kaheawa Wind II,2012.0,14,21.0,GE Wind,GE1.5-77,65.0,77.0,-156.53938,20.8001,False
+27528,HI,Honolulu County,Kahuku,2011.0,12,30.0,Clipper,C96,80.0,96.0,-157.98229,21.6804,False
+27540,TX,San Patricio County,Karankawa,2019.0,124,307.46,GE Wind,GE2.3-116,90.0,116.0,-97.81095,28.17382,False
+27555,OK,Kay County,Kay Wind,2015.0,130,299.0,Siemens,SWT-2.3-108,80.0,108.0,-97.13213,36.93149,False
+27666,CA,Riverside County,Karen Avenue Windfarm,2003.0,12,11.7,GE Wind,1.5-70.5,56.5,77.0,-116.56059,33.9186,False
+27672,MN,Pipestone County,Kas Farms,2001.0,2,1.5,NEG Micon,NM48,55.0,48.0,-96.11275,44.01204,False
+27674,AK,Bethel Census Area,Kasigluk,2006.0,3,0.3,Northern Power Systems,NW100,37.0,21.0,-162.51428,60.8712,False
+27677,HI,Honolulu County,Kawailoa Wind,2012.0,30,69.0,Siemens,SWT-2.3-101,99.5,101.0,-158.02708,21.6115,False
+27836,TX,Jack County,Keechi,2015.0,55,110.0,Vestas,V100-2.0,95.0,100.0,-98.14798,33.15315,False
+27891,OK,Woodward County,Keenan II,2010.0,66,151.8,Siemens,SWT-2.3-101,80.0,101.0,-99.50309,36.28079,False
+27957,IL,Ford County,Kelly Creek,2016.0,92,184.0,Vestas,V100-2.0,80.0,100.0,-88.23586,40.97483,False
+28050,OH,Geauga County,Kenston School District,2012.0,1,0.75,Aeronautica,54-750,65.0,54.0,-81.3053,41.39389,False
+28051,ME,Franklin County,Kibby Mountain II,2010.0,22,66.0,Vestas,V90-3.0,80.0,90.0,-70.549,45.32619,False
+28073,ME,Franklin County,"Kibby Mountain, phase I",2009.0,22,66.0,Vestas,V90-3.0,80.0,90.0,-70.5368,45.39359,False
+28095,NE,Kimball County,Kimball Wind Farm,2018.0,12,30.0,GE Wind,GE2.5-116,90.0,116.0,-103.69518,41.27613,False
+28107,TX,Upton County,King Mtn. Wind Ranch,2001.0,214,278.2,Siemens Gamesa Renewable Energy,SG-1.3-65,60.0,65.0,-102.18949,31.27099,False
+28185,OK,Kingfisher County,Kingfisher Wind,2015.0,90,180.0,Vestas,V100-2.0,80.0,100.0,-97.9363,35.74614,False
+28324,VT,Orleans County,Kingdom Community Wind,2012.0,21,63.0,Vestas,V112-3.0,84.0,112.0,-72.4249,44.75089,False
+28452,OR,Sherman County,Klondike II,2005.0,50,75.0,GE Wind,GE1.5-77,80.0,77.0,-120.55869,45.58889,False
+28494,AZ,Mohave County,Kingman,2011.0,5,10.0,Gamesa,G90-2.0,78.0,90.0,-114.06939,35.1465,False
+28499,KS,Kingman County,Kingman Wind Energy Center,2016.0,120,206.55,GE Wind,GE1.715-103,80.0,103.0,-98.17684,37.57723,False
+28619,MA,Plymouth County,Kingston,2012.0,1,2.0,Hyundai,HQ2000,80.0,86.0,-70.7159,41.97879,False
+28620,IA,Linn County,Kirkwood Community College,2012.0,1,2.5,Clipper,C96,80.0,96.0,-91.65089,41.91659,False
+28621,CO,Kit Carson County,Kit Carson Project,2010.0,34,51.0,GE Wind,GE1.5-77,80.0,77.0,-102.30519,39.35399,False
+28655,OR,Sherman County,Klondike I,2001.0,16,24.0,GE Wind,GE1.5-70.5,65.0,70.5,-120.55065,45.56059,False
+28722,OR,Sherman County,Klondike III,2007.0,124,221.2,GE Wind,GE1.5-77,80.0,77.0,-120.62128,45.55819,False
+28725,IL,Coles County,LLC 2,2012.0,2,0.2,Bora,,,,-88.38674,39.41716,False
+28847,OR,Sherman County,Klondike IIIA,2008.0,51,76.5,GE Wind,GE1.5-77,80.0,77.0,-120.58688,45.53639,False
+28900,AK,Kodiak Island Borough,Kodiak Island Wind Project,2009.0,3,4.5,GE Wind,GE1.5-77,80.0,77.0,-152.44058,57.7871,False
+28903,IA,Kossuth County,Kossuth,2020.0,56,152.2,GE Wind,GE2.82-127,89.0,127.0,-94.05219,42.9892,False
+28959,AK,Northwest Arctic Borough,Kotzebue Wind Project,2012.0,2,1.8,EWT,DW-54-900,75.0,54.0,-162.56337,66.83659,False
+28962,AK,Northwest Arctic Borough,Kotzebue Wind Project2,2006.0,3,0.15,Seaforth,AOC15/65,30.5,15.0,-162.55734,66.83502,False
+28965,CA,San Diego County,Kumeyaay Phase I,2005.0,25,50.0,Gamesa,G87-2.0,67.0,87.0,-116.34369,32.7217,False
+28992,MA,Essex County,LWSC Wind Turbine,2014.0,1,0.6,RRB,PS-600,58.0,47.0,-70.95669,42.45269,False
+28993,MN,Pipestone County,Lake Benton II Repower,2019.0,44,100.2,GE Wind,GE2.3-116,90.0,116.0,-96.19194,44.17094,False
+29037,CA,Los Angeles County,Lake Palmdale,2004.0,1,0.95,Vestas,NM54,,,-118.11829,34.5559,False
+29038,ND,Ramsey County,Lake Region State College Wind Turbine,2013.0,1,1.6,GE Wind,GE1.6-82.5,80.0,82.5,-98.88809,48.16639,False
+29039,MI,Mason County,Lake Winds,2012.0,56,100.8,Vestas,V100-1.8,80.0,100.0,-86.33099,43.88679,False
+29096,MN,Jackson County,Lakefield,2011.0,137,205.5,GE Wind,GE1.5-77,80.0,77.0,-95.14969,43.66339,False
+29235,MN,Clay County,Lakeswind,2014.0,32,48.0,GE Wind,GE1.5-82.5,80.0,82.5,-96.27158,46.67735,False
+29267,MN,Lincoln County,Lakeview Ridge,2001.0,1,0.9,NEG Micon,NM52,72.0,52.0,-96.45059,44.52039,False
+29268,MN,Martin County,Lakota Wind,2005.0,2,1.9,NEG Micon,NM54/950,70.0,54.0,-94.4493,43.57171,False
+29270,HI,Hawaii County,Lalamilo Wells Repowering,2017.0,5,3.3,Vestas,V47-0.66,37.0,47.0,-155.76527,19.98926,False
+29275,CO,Baca County,Lamar III,2004.0,2,3.0,GE Wind,GE1.5-70.5,80.0,70.5,-102.65089,37.36229,False
+29276,CO,Prowers County,Lamar Municipal,2004.0,3,4.5,GE Wind,GE1.5-70.5,80.0,70.5,-102.52899,38.03209,False
+29280,ND,Cavalier County,Langdon,2007.0,79,126.42,GE Wind,GE1.62-91,80.0,91.0,-98.25549,48.58289,False
+29362,ND,Cavalier County,Langdon - OTP,2008.0,27,40.5,GE Wind,GE1.5-77,80.0,77.0,-98.25939,48.73089,False
+29389,ND,Cavalier County,Langdon II,2008.0,27,43.74,GE Wind,GE1.62-91,80.0,91.0,-98.25699,48.62239,False
+29413,TX,Schleicher County,Langford,2009.0,100,150.0,GE Wind,GE1.5-77,80.0,77.0,-100.68509,31.0696,False
+29513,NE,Boone County,Laredo Ridge,2011.0,54,81.0,GE Wind,GE1.5-82.5,80.0,82.5,-98.00259,41.89599,False
+29567,TX,Zapata County,Las Lomas,2020.0,48,201.6,Goldwind Americas,GW155 - 4.2S,110.0,155.0,-99.09006,26.66136,False
+29615,TX,Willacy County,Las Majadas,2020.0,64,139.8,Vestas,V120-2.2,92.0,120.0,-97.58002,26.38067,False
+29674,UT,San Juan County,Latigo,2016.0,27,62.1,GE Wind,GE2.3-116,80.0,116.0,-109.36099,37.88908,False
+29702,IA,Marshall County,Laurel,2011.0,52,119.6,Siemens,SWT-2.3-101,80.0,101.0,-92.9566,41.91909,False
+29754,PA,Lycoming County,Laurel Hill,2012.0,30,69.0,Siemens,SWT-2.3-101,80.0,101.0,-77.0462,41.52689,False
+29784,WV,Barbour County,Laurel Mountain,2011.0,61,97.6,GE Wind,GE1.6-82.5,80.0,82.5,-79.8784,39.02499,False
+29845,OR,Gilliam County,Leaning Juniper,2006.0,67,100.5,GE Wind,GE1.6-91,80.0,91.0,-120.24059,45.66179,False
+29912,OR,Gilliam County,Leaning Juniper II,2011.0,117,201.3,GE Wind,GE1.5-77,80.0,77.0,-120.17764,45.57811,False
+30029,IL,DeKalb County,Lee/DeKalb,2009.0,145,217.5,GE Wind,GE1.5-77,80.0,77.0,-88.785,41.82239,False
+30174,NH,Sullivan County,Lempster,2008.0,12,24.0,Gamesa,G87-2.0,78.0,87.0,-72.1388,43.24569,False
+30186,IA,Taylor County,Lenox Municipal Utilities,2003.0,1,0.75,NEG Micon,NM48,55.0,48.0,-94.53809,40.89669,False
+30187,OR,Baker County,Lime Wind,2011.0,6,3.0,Nordtank,500/41,40.0,41.0,-117.27171,44.398,False
+30193,CO,Lincoln County,Limon I,2012.0,125,200.0,GE Wind,GE1.6-100,80.0,100.0,-103.55969,39.3836,False
+30318,CO,Lincoln County,Limon II,2012.0,125,200.0,GE Wind,GE1.6-87,80.0,87.0,-103.52019,39.37489,False
+30443,CO,Lincoln County,Limon III,2014.0,118,200.6,GE Wind,GE1.7-100,85.0,100.0,-103.36902,39.35856,False
+30561,MN,Lincoln County,Lincoln County,2003.0,1,0.9,NEG Micon,NM52/900,70.5,52.2,-96.45049,44.52467,False
+30562,OH,Cuyahoga County,Lincoln Electric,2011.0,1,2.5,Kenersys,K100,85.0,100.0,-81.5257,41.58469,False
+30563,ND,Williams County,Lindahl,2017.0,75,150.0,Vestas,V100-2.0,80.0,100.0,-102.98961,48.47027,False
+30638,WA,Klickitat County,Linden,2010.0,25,50.0,REpower,MM92,78.5,92.5,-120.76179,45.75089,False
+30663,IA,Mitchell County,Little Cedar,2011.0,1,1.5,Goldwind,GW82,85.0,82.0,-92.7607,43.38439,False
+30664,OK,Washita County,Little Elk,2015.0,37,74.0,Vestas,V110-2.0,80.0,110.0,-98.8868,35.18823,False
+30702,TX,Schleicher County,Live Oak,2018.0,76,199.5,Siemens Gamesa Renewable Energy,SG-2.625-120,85.0,120.0,-100.59543,31.05847,False
+30730,TX,Wilbarger County,Lockett,2019.0,75,183.75,GE Wind,GE2.5-127,89.0,127.0,-99.26766,34.05826,False
+30779,NM,Curry County,Llano Estacado Wind Ranch at Texico II,2003.0,2,1.32,Vestas,V47-0.66,65.0,47.0,-103.05695,34.35471,False
+30781,TX,Carson County,Llano Estacado Wind Ranch at White Deer,2001.0,80,80.0,Mitsubishi,MWT1000,69.0,57.0,-101.23579,35.4778,False
+30934,PA,Schuylkill County,Locust Ridge,2006.0,13,26.0,Gamesa,G87-2.0,78.0,87.0,-76.29079,40.81699,False
+30948,PA,Schuylkill County,Locust Ridge II,2009.0,51,102.0,Gamesa,G83-2.0,78.0,83.0,-76.2095,40.83979,False
+31000,MO,Atchison County,Loess Hills Wind Project,2008.0,4,5.0,Suzlon,S64,72.0,64.0,-95.54029,40.41149,False
+31004,TX,Comanche County,Logan's Gap Wind,2015.0,87,200.1,Siemens,SWT-2.3-108,80.0,108.0,-98.67275,31.76214,False
+31091,TX,Shackelford County,Lone Star I,2007.0,100,200.0,Gamesa,G83-2.0,78.0,83.0,-99.45539,32.63569,False
+31191,TX,Shackelford County,Lone Star II,2008.0,78,156.0,Gamesa,G87-2.0,78.0,87.0,-99.50669,32.5557,False
+31291,IL,Bureau County,Lone Tree,2020.0,32,88.1,GE Wind,GE2.8-127,89.0,127.0,-89.57642,41.21746,False
+31324,TX,Floyd County,Longhorn,2015.0,100,200.0,Vestas,V100-2.0,80.0,100.0,-101.18919,34.27715,False
+31424,PA,Somerset County,Lookout,2008.0,18,37.8,Suzlon,S88,79.0,88.0,-78.9404,39.85519,False
+31442,TX,Mitchell County,Loraine,2010.0,67,100.5,GE Wind,GE1.5-77,80.0,77.0,-100.68669,32.46729,False
+31510,TX,Mitchell County,Loraine II,2011.0,33,49.5,GE Wind,GE1.5-82.5,80.0,82.5,-100.66959,32.41079,False
+31543,TX,Crosby County,Lorenzo Winds,2018.0,36,80.46,GE Wind,GE2.3-116,80.0,116.0,-101.42421,33.76151,False
+31577,TX,Willacy County,Los Vientos I,2012.0,87,200.1,Siemens,SWT-2.3-108,98.1,108.0,-97.58199,26.3082,False
+31665,TX,Willacy County,Los Vientos II,2012.0,84,201.6,Mitsubishi,MWT102/2.4,90.0,102.0,-97.69,26.3488,False
+31749,TX,Starr County,Los Vientos III,2015.0,100,200.0,Vestas,V110-2.0,95.0,110.0,-98.60321,26.4281,False
+31849,TX,Starr County,Los Vientos IV,2016.0,100,200.0,Vestas,V110-2.0,95.0,110.0,-98.71005,26.54822,False
+31950,TX,Starr County,Los Vientos V,2015.0,55,110.0,Vestas,V110-2.0,95.0,110.0,-98.57835,26.40558,False
+32006,MO,DeKalb County,Lost Creek Ridge Wind Farm,2010.0,99,148.5,GE Wind,GE1.5-82.5,80.0,82.5,-94.55199,39.97439,False
+32106,IA,Dickinson County,Lost Lakes Wind Farm,2009.0,61,100.65,Vestas,V82-1.65,80.0,82.0,-95.23649,43.36419,False
+32167,WA,Garfield County,Lower Snake River Phase I,2011.0,94,216.2,Siemens,SWT-2.3-101,80.0,101.0,-117.85909,46.5542,False
+32317,TX,Lubbock County,Lubbock Wind Ranch,2010.0,1,2.5,Samsung,S2.5-90,80.0,90.0,-101.75889,33.56929,False
+32320,IA,Webster County,Lundgren,2014.0,107,251.02,Siemens,SWT-2.346-108,80.0,108.0,-94.13893,42.34168,False
+32427,IA,Winneshiek County,Luther College,2011.0,1,1.6,GE Wind,GE1.6-82.5,80.0,82.5,-91.8177,43.30909,False
+32428,ND,Steele County,Luverne,2009.0,33,49.5,GE Wind,GE1.5-82.5,80.0,82.5,-97.95089,47.35049,False
+32461,IL,Champaign County,MUTI,2010.0,1,0.1,Northern Power Systems,NW100,,,-88.29142,40.1502,False
+32462,IL,Kankakee County,MUTI Wind Turbine,2010.0,1,0.1,Endurance,E-3120,,,-87.8514,41.09539,False
+32463,MA,Suffolk County,MWRA Deer Island,2009.0,2,1.2,RRB,PS-600,34.5,47.0,-70.9573,42.34709,False
+32465,NM,Luna County,Macho Springs Wind Farm I,2011.0,28,50.4,Vestas,V100-1.8,80.0,100.0,-107.52119,32.5602,False
+32493,MI,Emmet County,Mackinaw City,2001.0,2,1.8,NEG Micon,NM52/900,70.0,52.0,-84.74157,45.7618,False
+32494,MI,Emmet County,Mackinaw City (Bay Windpower I),2001.0,2,1.8,NEG Micon,NM52,72.0,52.0,-84.73831,45.76181,False
+32495,IA,Madison County,Macksburg,2014.0,51,119.65,Siemens,SWT-2.346-108,80.0,108.0,-94.11974,41.17404,False
+32546,NY,Madison County,Madison Windpower,2000.0,7,11.55,Vestas,V66-1.65,67.0,66.0,-75.4534,42.89289,False
+32553,TX,Willacy County,Magic Valley,2012.0,112,203.28,Vestas,V100-1.82,80.0,100.0,-97.75029,26.4309,False
+32666,TX,Carson County,Majestic,2009.0,53,79.5,GE Wind,GE1.5-77,80.0,77.0,-101.53619,35.3765,False
+32720,TX,Carson County,Majestic II,2012.0,51,79.6,GE Wind,GE1.6-82.5,80.0,82.5,-101.57859,35.38599,False
+32771,OK,Dewey County,Mammoth Plains,2014.0,117,198.9,GE Wind,GE1.7-100,80.0,100.0,-98.75417,36.02712,False
+32803,CA,Kern County,Manzana Winds,2012.0,126,189.0,GE Wind,GE1.5-77,65.0,77.0,-118.44719,34.9225,False
+32890,CA,Monterey County,Mann Packing,2019.0,1,1.7,GE Wind,GE1.7-100,80.0,100.0,-121.45358,36.50396,False
+33018,NY,Lewis County,Maple Ridge,2006.0,112,184.8,Vestas,V82-1.65,80.0,82.0,-75.5129,43.71759,False
+33133,NY,Lewis County,Maple Ridge (Lowville),2005.0,83,136.95,Vestas,V82-1.65,80.0,82.0,-75.5962,43.82629,False
+33216,NY,Clinton County,Marble River,2012.0,70,215.25,Vestas,V112-3.075,94.0,112.0,-73.9402,44.97389,False
+33286,WA,Columbia County,Marengo I,2007.0,78,140.4,Vestas,V80-1.8,67.0,80.0,-117.76209,46.38469,False
+33364,WA,Columbia County,Marengo II,2008.0,39,70.2,Vestas,V80-1.8,67.0,80.0,-117.85769,46.36369,False
+33403,OH,Erie County,Margaretta Elementary School,2010.0,1,0.1,Northern Power Systems,NPS-100,,,-82.78713,41.39634,False
+33404,TX,Parmer County,Mariah North Wind,2016.0,96,230.4,GE Wind,GE2.4-107,80.0,107.0,-102.66559,34.71565,False
+33500,MA,Essex County,Mark Richey Woodworking,2009.0,1,0.6,Elecon,T-600-48DS,65.0,48.0,-70.8807,42.80289,False
+33501,ME,Aroostook County,Mars Hill,2007.0,22,33.0,GE Wind,GE1.5-77,80.0,77.0,-67.8085,46.55219,False
+33529,NY,Steuben County,Marsh Hill,2014.0,10,16.2,GE Wind,GE1.62-103,80.0,103.0,-77.50868,42.17688,False
+33539,MN,Lyon County,Marshall,2008.0,9,18.9,Suzlon,S88,79.0,88.0,-95.82969,44.33079,False
+33548,KS,Marshall County,Marshall Wind Energy,2016.0,36,72.0,Vestas,V110-2.0,95.0,110.0,-96.37238,39.86112,False
+33584,MT,Wheatland County,Martinsdale Colony South,2007.0,8,2.0,Mitsubishi,250KW,,,-110.27179,46.49611,False
+33592,MT,Wheatland County,Martinsdale Wind Farm,2005.0,11,0.72,Nordtank,65kW,22.8,16.5,-110.27178,46.4987,False
+33603,IA,Cerro Gordo County,Mason City Wind,2020.0,3,7.94,GE Wind,GE 2.3-116,80.0,116.0,-93.10042,43.14458,False
+33606,IA,Delaware County,Mason Wind LLC Dyersville,2017.0,3,6.0,HZ Windpower,H111-2000,80.0,111.0,-91.22488,42.49394,False
+33609,IA,Fayette County,Mason Wind LLC Fairbank,2017.0,3,6.0,HZ Windpower,H111-2000,80.0,111.0,-92.02094,42.64363,False
+33612,IA,Cerro Gordo County,Mason Wind LLC Mason City,2017.0,5,10.0,HZ Windpower,H111-2000,80.0,111.0,-93.22913,43.09909,False
+33617,IA,Dallas County,Mason Wind LLC Perry,2017.0,3,6.0,HZ Windpower,H111-2000,80.0,111.0,-94.08063,41.81881,False
+33620,MA,Barnstable County,Massachusetts Maritime Academy,2006.0,1,0.66,Vestas,V47-0.66,50.0,47.0,-70.6238,41.74139,False
+33621,MA,Barnstable County,Massachusetts National Cemetery,2010.0,1,0.05,Endurance,E-3120,,,-70.5846,41.67309,False
+33622,TX,Concho County,Maverick Creek,2020.0,127,491.6,Vestas,V150-4.2,105.0,150.0,-99.84844,31.25972,False
+33749,TX,Dickens County,McAdoo,2008.0,100,150.0,GE Wind,GE1.5-77,80.0,77.0,-101.02199,33.80219,False
+33849,CA,Marin County,McEvoy Ranch,2009.0,1,0.23,Norwin,29-STALL-225,30.0,29.1,-122.67967,38.15757,False
+33850,WY,Albany County,McFadden Ridge,2009.0,19,28.5,GE Wind,GE1.85-91,80.0,91.0,-106.02749,41.65599,False
+33866,MN,Dodge County,McNeilus,2003.0,24,22.8,NEG Micon,NM54,70.0,54.0,-92.85474,43.97206,False
+33870,MI,Huron County,McKinley Wind Park,2012.0,9,14.4,GE Wind,GE1.6-100,100.0,100.0,-83.26513,43.88063,False
+33925,ID,Bonneville County,Meadow Creek,2012.0,57,119.7,Suzlon,S97,90.0,97.0,-111.81289,43.5585,False
+33983,IN,White County,Meadow Lake,2009.0,121,199.65,Vestas,V82-1.65,80.0,82.0,-86.94969,40.69039,False
+34104,IN,White County,Meadow Lake II,2010.0,66,99.0,Acciona,AW82/1500,80.0,82.0,-87.0833,40.63009,False
+34170,IN,White County,Meadow Lake III,2010.0,69,103.5,GE Wind,GE1.5-77,80.0,77.0,-87.0453,40.61419,False
+34239,IN,White County,Meadow Lake IV,2010.0,47,98.7,Suzlon,S88,79.0,88.0,-87.0844,40.67139,False
+34287,IN,White County,Meadow Lake V,2017.0,50,100.0,Vestas,V110-2.0,95.0,110.0,-86.99719,40.69691,False
+34337,IN,Benton County,Meadow Lake VI,2018.0,61,200.4,Vestas,V136-3.6,105.0,136.0,-87.11344,40.73235,False
+34398,IA,Adair County,Meadow Ridge,2012.0,1,1.6,GE Wind,GE1.6-82.5,80.0,82.5,-94.44629,41.3901,False
+34399,WY,Carbon County,Medicine Bow,2000.0,2,1.32,Vestas,V47-0.71,50.0,47.0,-106.23991,41.82945,False
+34401,PA,Wyoming County,Mehoopany,2012.0,88,140.8,GE Wind,GE1.6-82.5,80.0,82.5,-76.0705,41.51919,False
+34490,IL,Lee County,Mendota Hills Repowering,2019.0,29,76.13,Siemens Gamesa Renewable Energy,SG-2.625-126,84.0,126.0,-89.08776,41.70278,False
+34519,KS,Cloud County,Meridian Way,2008.0,35,105.0,Vestas,V90-3.0,80.0,90.0,-97.5622,39.42629,False
+34554,KS,Cloud County,Meridian Way II,2008.0,32,96.0,Vestas,V90-3.0,80.0,90.0,-97.74669,39.43369,False
+34586,ND,McIntosh County,Merricourt,2020.0,75,150.0,Vestas,V110-2.0,80.0,110.0,-99.00593,46.10541,False
+34661,NM,Quay County,Mesalands,2008.0,1,1.5,GE Wind,GE1.5-77,80.0,77.0,-103.73899,35.16969,False
+34662,TX,Dawson County,Mesquite Creek,2015.0,118,211.22,GE Wind,GE1.79-100,80.0,100.0,-101.69639,32.6928,False
+34688,TX,Starr County,Mesteño,2019.0,56,201.6,Vestas,V136-3.6,112.0,136.0,-98.71173,26.51774,False
+34781,TX,Fisher County,Mesquite Star,2020.0,118,418.9,Siemens Gamesa Renewable Energy,SG-3.465-132,101.5,132.0,-100.56873,32.55005,False
+34888,IL,Cook County,Method Manufacturing Plant,2015.0,1,0.6,NEG Micon,NM48,45.0,48.0,-87.60146,41.69806,False
+34889,MN,Sherburne County,"Metro Wind, LLC",2001.0,1,0.66,Vestas,V47-0.66,65.0,47.0,-93.56069,45.37879,False
+34890,PA,Somerset County,Meyersdale,2003.0,20,30.0,GE Wind,GE1.5-70.5,80.0,70.5,-79.0055,39.78659,False
+34910,TX,Roberts County,Miami,2014.0,156,288.6,GE Wind,GE1.85-87,80.0,87.0,-100.54297,35.64813,False
+35068,MI,Huron County,Michigan Wind I,2008.0,46,69.0,GE Wind,GE1.5-77,80.0,77.0,-82.9815,43.71259,False
+35114,MI,Sanilac County,Michigan Wind II,2011.0,50,90.0,Vestas,V100-1.8,95.0,100.0,-82.7151,43.65139,False
+35164,TX,San Patricio County,Midway,2019.0,47,162.86,Siemens Gamesa Renewable Energy,SG-3.465-132,84.0,132.0,-97.33358,27.95301,False
+35211,UT,Beaver County,Milford Phase I,2009.0,97,203.5,Clipper,C99,80.0,99.0,-112.92259,38.53149,False
+35308,UT,Millard County,Milford Phase II,2011.0,68,102.0,GE Wind,GE1.5-77,80.0,77.0,-112.89928,38.59819,False
+35376,PA,Fayette County,Mill Run Wind,2001.0,10,15.0,Enron,E1.5-70.5,70.0,70.5,-79.38557,39.92973,False
+35377,PA,Fayette County,Mill Run Windpower LLC,2001.0,10,15.0,GE Wind,GE1.5-70.5,65.0,70.5,-79.3918,39.91819,False
+35386,NE,Saline County,Milligan 1,2020.0,68,162.25,Siemens Gamesa Renewable Energy,SG-2.75-129,87.0,129.0,-97.25078,40.47529,False
+35452,NM,Roosevelt County,Milo,2016.0,16,31.65,Vestas,V100-2.0,80.0,100.0,-103.30729,33.89631,False
+35455,ID,Cassia County,Milner Dam,2011.0,13,19.5,GE Wind,GE1.5-82.5,80.0,82.5,-114.01909,42.4562,False
+35492,MN,Rock County,MinWind I & II,2002.0,4,3.8,NEG Micon,NM54,70.0,54.0,-96.30679,43.55679,False
+35496,MN,Rock County,MinWind III-IX,2004.0,7,11.55,NEG Micon,NM82,70.0,82.0,-96.39379,43.64769,False
+35503,OK,Grady County,Minco II,2011.0,63,100.8,GE Wind,GE1.6-82.5,80.0,82.5,-98.07369,35.32369,False
+35566,OK,Canadian County,Minco III,2012.0,63,100.8,GE Wind,GE1.6-100,80.0,100.0,-98.11959,35.40509,False
+35629,OK,Canadian County,Minco IV,2018.0,61,129.88,GE Wind,GE2.3-116,90.0,116.0,-98.26059,35.39527,False
+35688,OK,Grady County,Minco Wind,2010.0,62,99.2,GE Wind,GE1.6-82.5,80.0,82.5,-98.03589,35.2823,False
+35750,MI,Sanilac County,Minden Wind Park,2012.0,20,32.0,GE Wind,GE1.6-100,96.0,100.0,-82.8071,43.62189,False
+35770,SD,Brookings County,Minn-Dakota,2007.0,36,54.0,GE Wind,GE1.5-77,80.0,77.0,-96.47679,44.32829,False
+35871,MN,Murray County,Minnesota Wind Share,2006.0,3,5.4,Suzlon,S88,79.0,88.0,-95.97669,43.95739,False
+35874,ND,Nelson County,Minnkota Power Cooperative,2002.0,1,0.9,NEG Micon,,,,-97.93099,48.00879,False
+35875,IL,Woodford County,Minonk,2012.0,100,200.0,Gamesa,G90-2.0,100.0,90.0,-88.95589,40.85149,False
+35977,MN,Nobles County,Missouri River Energy Services (MRES),2002.0,4,3.6,NEG Micon,NM52,70.0,52.0,-95.67889,43.62269,False
+35983,OR,Gilliam County,Montague,2019.0,56,200.85,Vestas,V126-3.45,87.0,126.0,-120.11301,45.57554,False
+36039,CA,Solano County,Montezuma,2010.0,16,36.8,Siemens,SWT-2.3-93,80.0,93.0,-121.79279,38.16259,False
+36055,CA,Solano County,Montezuma Winds II,2012.0,34,78.2,Siemens,SWT-2.3-93,80.0,93.0,-121.80959,38.11689,False
+36090,WI,Iowa County,Montfort Wind Farm,2001.0,20,30.0,GE Wind,GE1.5-70.5,65.0,70.5,-90.36797,42.96304,False
+36110,MN,Clay County,Moorhead,2001.0,2,1.5,NEG Micon,NM48/750,55.0,48.0,-96.72736,46.89516,False
+36111,MN,Murray County,Moraine II,2009.0,33,49.5,GE Wind,GE1.5-77,80.0,77.0,-96.05589,44.12649,False
+36144,MN,Murray County,Moraine Wind Power project,2003.0,34,51.0,GE Wind,GE1.5-70.5,65.0,70.5,-96.06289,44.08859,False
+36178,IA,Adair County,Morning Light,2012.0,44,101.2,Siemens,SWT-2.3-108,80.0,108.0,-94.57769,41.40789,False
+36222,MN,Murray County,"Moulton, Chandler Hills Wind Farm Phase II",2001.0,3,1.98,Vestas,V47-0.66,65.0,47.0,-95.95059,43.89969,False
+36225,MA,Norfolk County,Mount St. Mary's Abbey,2009.0,1,0.1,,,,,-71.3937,42.04249,False
+36226,MA,Worcester County,Mount Wachusett Wind Farm,2009.0,2,3.0,Fuhrlander,FL1500,70.0,77.0,-71.9842,42.58859,False
+36228,CO,Weld County,Mountain Breeze,2020.0,62,171.72,GE Wind,GE2.82-127,89.0,127.0,-103.99306,40.99707,False
+36290,ID,Elmore County,Mountain Home,2009.0,20,42.0,Suzlon,S88,79.0,88.0,-115.46779,43.02449,False
+36310,MN,Cottonwood County,Mountain Lake Wind,2007.0,1,1.25,Suzlon,S64-1.25,,64.0,-94.94338,43.94055,False
+36311,TX,Ellis County,Mountain Peak Special Utility District,2010.0,1,0.1,Northern Power Systems,NPS-100,,,-97.02425,32.42145,False
+36312,NH,Coos County,Mountain View Grand,2009.0,1,0.1,Northern Power Systems,NW100,37.0,21.0,-71.5903,44.39879,False
+36313,CA,Riverside County,Mountain View IV,2012.0,49,49.0,Mitsubishi,MWT62/1.0,60.0,61.4,-116.56449,33.8773,False
+36362,CA,Riverside County,Mountain View Power Partners I & II,2001.0,111,66.6,Mitsubishi,MWT600,55.0,45.0,-116.60037,33.90549,False
+36471,CA,Riverside County,Mountain View Power Partners III,2003.0,34,22.44,Vestas,V47-0.66,60.0,47.0,-116.59159,33.9141,False
+36504,WY,Uinta County,Mountain Wind I,2008.0,29,60.9,Suzlon,S88,79.0,88.0,-110.51859,41.2847,False
+36533,WY,Uinta County,Mountain Wind II,2008.0,38,79.8,Suzlon,S88,79.0,88.0,-110.56179,41.27609,False
+36571,WV,Tucker County,Mountaineer Wind Energy Center (Thomas),2002.0,44,66.0,NEG Micon,NM72,70.0,72.0,-79.515,39.20759,False
+36615,MN,Mower County,Mower County Wind Energy Center,2006.0,43,98.9,Siemens,SWT-2.3-93,80.0,93.0,-92.53456,43.62732,False
+36659,TX,Kent County,Mozart,2012.0,12,30.0,Nordex,N100,80.0,100.0,-100.52149,32.9946,False
+36671,NY,Madison County,Munnsville,2007.0,23,34.5,GE Wind,GE1.5-77,80.0,77.0,-75.5704,42.89749,False
+36694,MT,Wheatland County,Musselshell I,2012.0,7,10.0,Goldwind,GW87,75.0,87.0,-109.47179,46.28699,False
+36701,MT,Wheatland County,Musselshell II,2012.0,7,10.0,Goldwind,GW87,75.0,87.0,-109.49489,46.26619,False
+36708,CA,Kern County,Mustang Hills,2012.0,6,18.0,Vestas,V90-3.0,80.0,90.0,-118.24119,35.0303,False
+36714,OH,Richland County,NEXGEN,2010.0,1,0.1,Northern Power Systems,NPS-100,,,-82.64322,40.76377,False
+36715,TX,Howard County,NORESCO,2009.0,1,0.1,Northern Power Systems,NPS-100,,,-101.50759,32.2276,False
+36716,CO,Jefferson County,NREL - NWTC,2011.0,6,7.1,Gamesa,G97-2.0,90.0,97.0,-105.22704,39.90507,False
+36719,HI,Honolulu County,Na Pua Makani,2020.0,8,27.6,Vestas,V136-3.45,105.0,136.0,-157.95004,21.66922,False
+36726,MA,Nantucket County,Nantucket High School,2010.0,1,0.1,Northern Power Systems,NW100,37.0,21.0,-70.09777,41.27214,False
+36727,MA,Worcester County,Nature's Classroom Wind Turbine,2009.0,1,0.1,Northern Power Systems,NW100,,21.0,-72.0039,42.11089,False
+36728,WV,Grant County,"NedPower Mount Storm, Phase I",2008.0,82,164.0,Gamesa,G80-2.0,78.0,80.0,-79.1983,39.22559,False
+36813,WV,Grant County,"NedPower Mount Storm, Phase II",2008.0,50,100.0,Gamesa,G80-2.0,78.0,80.0,-79.2037,39.23169,False
+36860,IA,Emmet County,Neppel Wind Power Project,2004.0,1,1.5,NEG Micon,NM72/1500,70.0,72.0,-94.57902,43.40199,False
+36861,CA,Riverside County,Nestle Waters,2012.0,2,3.0,GE Wind,GE1.5-82.5,80.0,82.5,-116.75129,33.9176,False
+36863,CA,Riverside County,Nestle Waters II,2018.0,1,1.85,GE Wind,GE1.85-82.5,80.0,82.5,-116.7531,33.91169,False
+36864,WV,Grant County,New Creek Wind,2016.0,49,102.5,Gamesa,G97-2.1,78.0,97.0,-79.1303,39.22595,False
+36913,RI,Kent County,New England Tech,2009.0,1,0.1,Northern Power Systems,NPS-100,37.0,21.0,-71.4664,41.72439,False
+36915,ND,McHenry County,New Frontier,2018.0,29,100.05,Vestas,V126-3.45,87.0,126.0,-100.93276,47.87184,False
+36944,IA,Crawford County,New Harvest,2012.0,50,100.0,Gamesa,G87-2.0,78.0,87.0,-95.46399,42.176,False
+36994,IA,Henry County,New London,2011.0,1,1.5,Vensys,Vensys82,85.0,82.3,-91.39517,40.95477,False
+36995,NM,De Baca County,New Mexico Wind Energy Center,2003.0,136,204.0,GE Wind,GE1.5-87,80.0,87.0,-104.08092,34.53738,False
+37132,NY,Chautauqua County,New York State Thruway Authority,2015.0,4,1.1,Vergnet,GEV MP-R,32.0,29.0,-79.30969,42.46044,False
+37136,WA,Benton County,Nine Canyon,2002.0,37,48.1,Bonus,B62,60.0,62.0,-119.07335,46.10563,False
+37173,WA,Benton County,Nine Canyon II,2003.0,12,15.6,Bonus,B62,60.0,62.0,-119.14088,46.10399,False
+37185,WA,Benton County,Nine Canyon III,2008.0,14,32.2,Siemens,SWT-2.3-93,80.0,93.0,-119.13619,46.09539,False
+37200,KS,Pratt County,Ninnescah,2016.0,121,208.27,GE Wind,GE1.715-103,80.0,103.0,-98.55418,37.62292,False
+37322,MA,Plymouth County,No Fossil Fuel - Kingston,2012.0,3,6.0,Gamesa,G90-2.0,90.0,90.0,-70.7251,41.97159,False
+37325,NY,Clinton County,Noble Altona,2009.0,65,97.5,GE Wind,GE1.5-77,80.0,77.0,-73.6594,44.80539,False
+37390,NY,Wyoming County,Noble Bliss,2008.0,67,100.5,GE Wind,GE1.5-77,80.0,77.0,-78.2916,42.54129,False
+37457,NY,Franklin County,Noble Chateaugay,2009.0,71,106.5,GE Wind,GE1.5-77,80.0,77.0,-74.0245,44.92469,False
+37528,NY,Clinton County,Noble Clinton,2008.0,67,100.5,GE Wind,GE1.5-77,80.0,77.0,-73.9902,44.93799,False
+37595,NY,Clinton County,Noble Ellenburg,2008.0,54,81.0,GE Wind,GE1.5-77,80.0,77.0,-74.0031,44.85989,False
+37649,TX,Hansford County,Noble Great Plains,2009.0,76,114.0,GE Wind,GE1.5-77,80.0,77.0,-101.36749,36.4884,False
+37725,NY,Wyoming County,Noble Wethersfield,2009.0,84,126.0,GE Wind,GE1.5-77,80.0,77.0,-78.2454,42.65719,False
+37809,MN,Nobles County,Nobles,2010.0,134,201.0,GE Wind,GE1.5-77,80.0,77.0,-95.83699,43.72769,False
+37944,MN,Nobles County,Nobles 2 Power Partners,2020.0,74,250.4,Vestas,V136-3.6,82.0,136.0,-95.89832,43.78494,False
+38019,MN,Jackson County,Nobles Cooperative Electric,2008.0,1,2.1,Suzlon,S88,79.0,88.0,-95.43729,43.71859,False
+38020,AK,Nome Census Area,Nome,2008.0,18,0.9,Entegrity,EW50,31.1,15.0,-165.42728,64.5684,False
+38035,AK,Nome Census Area,Nome Newton Peak,2013.0,2,1.8,EWT,DW-54-900,50.0,54.0,-165.43127,64.5667,False
+38037,MN,Lincoln County,Norgaard,2006.0,7,8.75,Suzlon,S64,74.0,64.0,-96.33139,44.31539,False
+38039,MN,Lincoln County,Norgaard (7 Projects),2006.0,7,8.75,Suzlon,S64,73.0,64.0,-96.3318,44.31963,False
+38044,PA,Cambria County,North Allegheny,2009.0,35,70.0,Gamesa,G87,78.0,87.0,-78.62862,40.37655,False
+38077,ND,LaMoure County,North Dakota Wind I,2003.0,27,40.5,GE Wind,GE1.5-70.5,65.0,70.5,-98.89959,46.35409,False
+38104,ND,LaMoure County,North Dakota Wind II,2003.0,14,21.0,GE Wind,GE1.5-70.5,65.0,70.5,-98.87319,46.31799,False
+38118,IA,Poweshiek County,North English,2018.0,100,200.0,Vestas,V110-2.0,95.0,110.0,-92.52505,41.62207,False
+38218,IA,Poweshiek County,North English II,2019.0,70,140.0,Vestas,V110-2.0,95.0,110.0,-92.43336,41.63279,False
+38288,MO,Barton County,North Fork Ridge,2020.0,69,149.4,Vestas,V120-2.2,122.0,120.0,-94.48968,37.43851,False
+38359,OR,Gilliam County,North Hurlburt,2012.0,24,60.0,GE Wind,GE2.5-100,85.0,100.0,-120.07568,45.7408,False
+38380,RI,Washington County,North Kingstown Green,2012.0,1,1.5,Goldwind,GW82,85.0,82.0,-71.4869,41.58159,False
+38381,IN,Newton County,North Newton School Corporation,2012.0,1,0.9,PowerWind,PW56-900,70.0,56.0,-87.42627,41.03259,False
+38382,MN,Lincoln County,North Shaokatan Wind Farm,2000.0,18,11.88,Vestas,V47-0.66,65.0,47.0,-96.42609,44.42609,False
+38400,CA,Kern County,North Sky River,2012.0,100,162.0,GE Wind,GE1.62-100,80.0,100.0,-118.22629,35.3064,False
+38500,CO,Logan County,Northeast Colorado Wind,2009.0,81,174.3,Siemens,SWT-2.3-93,80.0,93.0,-102.80439,40.98079,False
+38581,ND,Burke County,Northern Divide (Burke),2020.0,74,193.24,GE Wind,GE2.72-116,90.0,116.0,-102.89906,48.81584,False
+38656,OH,Paulding County,Northwest Ohio,2018.0,42,105.0,GE Wind,GE2.5-116,90.0,116.0,-84.65253,41.04416,False
+38698,IN,Howard County,Northwestern School Corporation,2012.0,1,0.9,PowerWind,PW56,71.0,56.0,-86.2045,40.52319,False
+38699,TX,Winkler County,Notrees,2009.0,96,152.61,GE Wind,GE1.5-77,80.0,77.0,-102.80919,31.9667,False
+38795,IA,O'Brien County,O'Brien,2016.0,104,250.26,Siemens,SWT-2.3-108,80.0,108.0,-95.55122,43.2157,False
+38898,OK,Woodward County,OK Wind Energy Center(mooreland),2003.0,68,102.0,GE Wind,GE1.5-70.5,65.0,70.5,-99.28304,36.58009,False
+38967,OH,Hardin County,ONU Wind,2010.0,3,1.2,Turbowinds,T-400-34,50.0,34.0,-83.84329,40.76369,False
+38971,OK,Woodward County,OU Spirit,2009.0,44,101.2,Siemens,SWT-2.3-93,80.0,93.0,-99.4315,36.33159,False
+39015,CA,Kern County,Oak Creek Energy Systems,2002.0,8,5.95,GE Wind,1.5SLE,80.0,77.0,-118.36439,35.03429,False
+39016,MN,Steele County,Oak Glen Wind Project,2011.0,24,43.2,Vestas,V90-1.8,80.0,90.0,-93.12819,43.91059,False
+39040,SD,Clark County,Oak Tree,2014.0,11,19.5,GE Wind,GE1.85-87,80.0,87.0,-97.76702,44.94055,False
+39051,ME,Aroostook County,Oakfield Wind,2015.0,48,147.6,Vestas,V112-3.075,84.0,112.0,-68.11326,46.08439,False
+39052,OK,Murray County,Origin,2014.0,75,150.0,Vestas,V100-2.0,80.0,100.0,-97.22157,34.41591,False
+39100,CA,Kern County,Oasis,2004.0,1,1.0,Mitsubishi,MWT57/1.0,60.0,57.0,-118.27615,35.06097,False
+39101,CA,Kern County,Oasis Repowering,2020.0,21,72.0,Vestas,V136-3.6,82.0,136.0,-118.28214,35.05705,False
+39122,TX,Howard County,Ocotillo,2008.0,28,58.8,Suzlon,S88,79.0,88.0,-101.39679,32.1576,False
+39150,CA,Imperial County,Ocotillo Wind I,2012.0,94,222.78,Siemens,SWT-2.37-108,80.0,108.0,-116.07019,32.7427,False
+39262,MN,Jackson County,Odell,2016.0,100,200.0,Vestas,V110-2.0,80.0,110.0,-94.95293,43.83895,False
+39362,MN,Cottonwood County,Odin,2008.0,10,20.0,Suzlon,S88,79.0,88.0,-94.86118,43.86102,False
+39372,TX,Floyd County,Old Settler Wind,2017.0,63,151.2,GE Wind,GE2.4-107,80.0,107.0,-101.19158,33.99525,False
+39436,ND,Oliver County,Oliver County Wind Energy Center,2006.0,22,50.6,Siemens,SWT-2.3-93,80.0,93.0,-101.22589,47.14139,False
+39458,ND,Oliver County,Oliver II,2007.0,32,48.0,GE Wind,GE1.5-77,80.0,77.0,-101.28739,47.15819,False
+39490,ND,Morton County,Oliver III,2017.0,48,99.25,GE Wind,GE2.0-116,80.0,116.0,-101.15334,46.96744,False
+39536,MN,Pipestone County,Olsen Farms,2001.0,2,1.5,NEG Micon,NM48/750,55.0,48.0,-96.3401,43.89454,False
+39538,NE,Douglas County,Omaha Public,2001.0,1,0.66,Vestas,V47-0.66,60.0,47.0,-96.37525,41.33141,False
+39539,NY,Wyoming County,Orangeville Wind,2013.0,52,84.24,GE Wind,GE1.62-100,80.0,100.0,-78.2019,42.74379,False
+39598,ID,Twin Falls County,Oregon Trail,2011.0,9,13.5,GE Wind,GE1.5-82.5,80.0,82.5,-114.99029,42.8494,False
+39607,IA,Adair County,Orient 2019,2019.0,193,398.8,Vestas,V120-2.2,95.0,120.0,-94.40613,41.25677,False
+39805,IA,Adair County,Orient I,2018.0,51,102.0,Vestas,V110-2.0,95.0,110.0,-94.46133,41.19255,False
+39929,IA,Mitchell County,Osage Utilities,2009.0,1,1.5,GE Wind,GE1.5-77,80.0,77.0,-92.84059,43.29249,False
+39930,OK,Osage County,Osage Wind,2015.0,84,150.36,GE Wind,GE1.79-100,80.0,100.0,-96.66126,36.72236,False
+40015,MO,DeKalb County,Osborn,2016.0,97,200.91,GE Wind,GE2.1-116,94.0,116.0,-94.47968,39.89323,False
+40091,NM,Lea County,Oso Grande,2020.0,61,247.4,Siemens Gamesa Renewable Energy,SG-4.5-145,107.5,145.0,-103.74265,33.10202,False
+40152,IL,McHenry County,Other World Computing,2009.0,1,0.5,Vestas,V39-0.5,40.5,39.0,-88.41733,42.28112,False
+40153,MA,Berkshire County,Otis Wind Energy Project,2017.0,1,1.5,Vensys,V82,85.0,82.0,-73.02576,42.22577,False
+40154,IL,LaSalle County,Otter Creek,2020.0,42,158.2,Vestas,V136-3.8,82.0,136.0,-88.70477,41.14088,False
+40196,TX,Lubbock County,PYCO Soaring Wind Farm,2008.0,10,10.0,Fuhrlander,FL1000,70.0,54.0,-101.80019,33.55249,False
+40206,OR,Sherman County,PaTu Wind Farm,2010.0,6,9.0,GE Wind,GE1.5-77,80.0,77.0,-120.61729,45.60449,False
+40212,CA,Kern County,Pacific Wind,2012.0,70,143.5,REpower,MM92,78.5,92.5,-118.45689,34.89959,False
+40282,CA,Riverside County,Painted Hills Repower,2020.0,13,39.0,Vestas,V112-3.0,,112.0,-116.61912,33.94339,False
+40295,HI,Hawaii County,Pakini Nui (KA'ALUALU),2007.0,14,21.0,GE Wind,GE1.5-70.5,65.0,70.5,-155.6884,18.97799,False
+40309,CA,Riverside County,Palm Springs (repower),2011.0,33,49.5,GE Wind,GE1.5-77,65.0,77.0,-116.57439,33.9109,False
+40342,TX,Cameron County,Palmas Altas,2019.0,46,144.9,Nordex,AW125/3150,87.5,125.0,-97.49607,26.2736,False
+40388,MN,Chippewa County,Palmer's Creek,2018.0,18,44.6,GE Wind,GE2.5-116,90.0,116.0,-95.57402,44.86485,False
+40405,IA,Palo Alto County,Palo Alto,2019.0,125,250.0,Vestas,V110-2.0,95.0,110.0,-94.58273,43.21782,False
+40531,IA,Palo Alto County,Palo Alto II,2020.0,45,90.0,Vestas,V110-2.0,95.0,110.0,-94.51971,43.14983,False
+40576,TX,Ochiltree County,Palo Duro,2014.0,147,249.9,GE Wind,GE1.7-100,80.0,100.0,-101.00103,36.45672,False
+40723,WA,Whitman County,Palouse,2012.0,58,104.4,Vestas,V100-1.8,80.0,100.0,-117.30259,47.10529,False
+40781,TX,Carson County,Panhandle Wind 1,2014.0,118,218.3,GE Wind,GE1.85-87,80.0,87.0,-101.20105,35.43345,False
+40899,TX,Carson County,Panhandle Wind 2,2014.0,79,181.7,Siemens,SWT-2.3-108,80.0,108.0,-101.41873,35.43972,False
+40979,TX,Carson County,Pantex Renewable Energy Project,2014.0,5,11.5,Siemens,SWT-2.3-101,80.0,101.0,-101.53599,35.32269,False
+40984,TX,Glasscock County,Panther Creek I,2008.0,95,142.5,GE Wind,GE1.62-91,80.0,91.0,-101.38069,31.96549,False
+41079,TX,Glasscock County,Panther Creek II,2009.0,77,115.5,GE Wind,GE1.62-91,80.0,91.0,-101.34549,31.9378,False
+41156,TX,Sterling County,Panther Creek III,2009.0,133,199.5,GE Wind,GE1.5-77,80.0,77.0,-101.14689,31.997,False
+41290,TX,San Patricio County,Papalote Creek,2009.0,109,179.85,Vestas,V82-1.65,80.0,82.0,-97.41919,27.9033,False
+41399,TX,San Patricio County,Papalote Creek II,2010.0,87,200.1,Siemens,SWT-2.3-101,80.0,101.0,-97.3215,27.97949,False
+41486,ME,Penobscot County,Passadumkeag,2016.0,13,42.9,Vestas,V112-3.3,84.0,112.0,-68.34334,45.12727,False
+41499,ME,Waldo County,Patriot,2008.0,3,4.5,GE Wind,GE1.5-77,80.0,77.0,-69.33829,44.49161,False
+41502,TX,Nueces County,Patriot Wind,2019.0,63,226.05,Vestas,V136-3.6,82.0,136.0,-97.67221,27.56189,False
+41565,PA,Cambria County,Patton Wind Farm,2012.0,15,30.0,Gamesa,G97-2.0,100.0,97.0,-78.70879,40.61989,False
+41580,ID,Twin Falls County,Payne's Ferry,2010.0,14,21.0,GE Wind,GE1.5-82.5,80.0,82.5,-115.01099,42.83489,False
+41594,CO,Las Animas County,Peak View Wind,2016.0,34,60.86,GE Wind,GE1.79-100,80.0,100.0,-104.49392,37.66225,False
+41628,OR,Gilliam County,Pebble Springs,2009.0,47,98.7,Suzlon,S88,79.0,88.0,-120.09599,45.68689,False
+41675,CO,Logan County,Peetz Table,2007.0,267,400.5,GE Wind,GE1.5-77,80.0,77.0,-103.37499,40.9988,False
+41943,CO,Logan County,Peetz Table Wind Farm,2001.0,33,29.7,NEG Micon,NM52,72.0,52.0,-103.17817,40.93539,False
+41976,MI,Tuscola County,Pegasus,2019.0,19,48.8,GE Wind,GE2.52-116,90.0,116.0,-83.57057,43.48899,False
+41995,MI,Tuscola County,Pegasus II,2020.0,41,102.5,GE Wind,GE2.5-116,80.0,116.0,-83.61295,43.51762,False
+42036,ND,Pembina County,Pembina Border Station,2012.0,1,1.0,Nordic,N1000,70.0,59.0,-97.24159,48.99689,False
+42037,TX,Kenedy County,Penescal,2009.0,84,201.6,Mitsubishi,MWT92/2.4,80.0,92.0,-97.4706,27.1246,False
+42121,TX,Kenedy County,Penescal II,2010.0,84,201.6,Mitsubishi,MWT92/2.4,80.0,92.0,-97.57839,27.1255,False
+42205,NE,Fillmore County,Perennial Wind,2018.0,3,6.9,GE Wind,GE2.3-116,90.0,116.0,-97.6243,40.63305,False
+42208,AZ,Coconino County,Perrin Ranch,2012.0,62,99.2,GE Wind,GE1.6-82.5,80.0,82.5,-112.2203,35.45347,False
+42270,OK,Woodward County,Persimmon Creek I,2018.0,80,198.6,GE Wind,GE2.5-116,90.0,116.0,-99.34086,36.17939,False
+42351,NE,Boone County,Petersburg,2011.0,27,40.5,GE Wind,GE1.5-82.5,80.0,82.5,-97.96119,41.86459,False
+42379,OH,Fulton County,Pettisville Local Schools,2012.0,1,0.75,Aeronautica,54-750,65.0,54.0,-84.2254,41.52799,False
+42380,TX,Matagorda County,Peyton Creek,2020.0,48,151.2,Nordex,AW125/3150,87.5,125.0,-95.91679,28.86776,False
+42428,MI,Huron County,Pheasant Run I,2013.0,44,74.8,GE Wind,GE1.7-100,80.0,100.0,-83.28345,43.76284,False
+42472,MA,Bristol County,Philips Lightolier,2012.0,1,2.0,Sany,SE9320IIIE,80.0,93.0,-71.117,41.74609,False
+42473,CT,New Haven County,Phoenix Press,2010.0,1,0.1,Northern Power Systems,NPS-100,,,-72.90193,41.30121,False
+42474,OH,Lorain County,Pick-a-Part Turbine,2012.0,1,0.1,,,,,-81.9469,41.32689,False
+42475,IL,Adams County,Pigeon Creek,2009.0,1,0.9,EWT,DW-54-900,75.0,54.0,-91.19227,39.83328,False
+42476,ID,Twin Falls County,Pilgrim Stage Station,2011.0,7,10.5,GE Wind,GE1.5-82.5,80.0,82.5,-115.00089,42.78639,False
+42483,AK,Kodiak Island Borough,Pillar Mountain II,2012.0,3,4.5,GE Wind,GE1.5-77,80.0,77.0,-152.45027,57.7858,False
+42486,IL,Iroquois County,Pilot Hill,2015.0,103,175.1,GE Wind,GE1.7-100,80.0,100.0,-88.0799,40.99335,False
+42589,NE,Dawes County,Pine Ridge Job Corp,2010.0,1,0.1,Northern Power Systems,NPS-100,,,-102.98329,42.67973,False
+42590,MI,Isabella County,Pine River,2019.0,65,161.3,GE Wind,GE2.5-116,90.0,116.0,-84.67272,43.49765,False
+42655,CA,Kern County,Pine Tree Wind Farm,2009.0,80,120.0,GE Wind,GE1.5-77,65.0,77.0,-118.17709,35.25079,False
+42735,CA,Kern County,Pine Tree extension,2010.0,10,15.0,GE Wind,GE1.5-77,80.0,77.0,-118.19819,35.27679,False
+42745,WV,Mineral County,Pinnacle,2011.0,15,36.0,Mitsubishi,MWT95/2.4,80.0,95.0,-79.0374,39.43749,False
+42768,MI,Huron County,Pinnebog,2016.0,30,51.0,GE Wind,GE1.7-100,96.0,100.0,-83.10747,43.82863,False
+42798,CA,Kern County,Pinyon Pines I,2012.0,56,168.0,Vestas,V90-3.0,80.0,90.0,-118.21659,35.0594,False
+42857,CA,Kern County,Pinyon Pines II,2012.0,44,132.0,Vestas,V90-3.0,80.0,90.0,-118.21349,35.0221,False
+42894,IA,Cedar County,Pioneer Grove,2012.0,2,6.0,Acciona,AW116/3000,100.0,116.0,-91.23419,41.85089,False
+42896,IA,Mitchell County,Pioneer Prairie I,2008.0,120,198.0,Vestas,V82-1.65,80.0,82.0,-92.62,43.49159,False
+43020,IA,Mitchell County,Pioneer Prairie II,2009.0,43,70.95,Vestas,V82-1.65,80.0,82.0,-92.661,43.4531,False
+43078,IL,Ford County,Pioneer Trail,2011.0,94,150.4,GE Wind,GE1.6-82.5,80.0,82.5,-88.01479,40.45439,False
+43172,WY,Converse County,Pioneer Wind Park,2016.0,46,80.0,GE Wind,GE1.85-87,80.0,87.0,-105.87828,42.68375,False
+43218,MN,Pipestone County,Pipestone School District,2003.0,1,0.75,NEG Micon,NM48,55.0,48.0,-96.34039,44.00089,False
+43219,ME,Penobscot County,Pisgah Mountain,2016.0,5,9.0,Vestas,V100-1.8,95.0,100.0,-68.52788,44.778,False
+43224,TX,Crosby County,Pleasant Hill,2015.0,11,19.8,Sany,SE10020E,80.0,102.0,-101.48386,33.7441,False
+43235,MN,Mower County,Pleasant Valley,2015.0,100,200.0,Vestas,V100-2.0,95.0,100.0,-92.79596,43.79947,False
+43335,NE,Wayne County,Plum Creek,2020.0,82,231.24,GE Wind,GE2.82-127,89.0,127.0,-97.13754,42.14405,False
+43417,IA,Pocahontas County,Pocahontas Prairie,2012.0,40,80.0,Gamesa,G90-2.0,100.0,90.0,-94.56579,42.60499,False
+43457,MI,Gratiot County,Polaris,2020.0,68,168.6,GE Wind,GE2.5-127,89.0,127.0,-84.45899,43.31149,False
+43525,IA,Pocahontas County,Pomeroy (expansion),2011.0,13,29.9,Siemens,SWT-2.3-101,80.0,101.0,-94.76519,42.56179,False
+43539,IA,Pocahontas County,Pomeroy I,2007.0,82,123.0,GE Wind,GE1.5-91.5,80.0,91.5,-94.73089,42.56429,False
+43621,IA,Pocahontas County,Pomeroy II,2007.0,49,73.5,GE Wind,GE1.5-91.5,80.0,91.5,-94.758,42.57049,False
+43670,IA,Pocahontas County,Pomeroy III,2008.0,39,58.5,GE Wind,GE1.62-91.5,80.0,91.5,-94.79329,42.57599,False
+43710,OK,Beaver County,Ponderosa,2020.0,100,203.57,GE Wind,GE1.7-103,80.0,103.0,-100.7079,36.62462,False
+43810,CO,Weld County,Ponnequin (PSCo),2001.0,15,9.9,Vestas,V47-0.66,65.0,47.0,-104.79609,40.99729,False
+43825,WI,Milwaukee County,Port of Milwaukee,2012.0,1,0.1,Northern Power Systems,NW100,37.0,21.0,-87.89084,43.00337,False
+43826,IL,Menard County,Porta High School,2009.0,1,0.6,RRB,PS-600,50.0,47.0,-89.86362,40.01672,False
+43827,RI,Newport County,Portsmouth Abbey School,2006.0,1,0.66,Vestas,V47-0.66,50.0,47.0,-71.2687,41.59909,False
+43828,KS,Lincoln County,Post Rock,2012.0,134,201.0,GE Wind,GE1.5-82.5,80.0,82.5,-98.33569,38.89679,False
+43962,ID,Power County,Power County,2011.0,18,45.0,Nordex,N100,80.0,100.0,-112.76099,42.70829,False
+43980,IA,Mahaska County,Prairie,2017.0,82,164.0,Vestas,V110-2.0,95.0,110.0,-92.72513,41.44355,False
+44062,NE,Antelope County,Prairie Breeze,2014.0,118,200.6,GE Wind,GE1.7-100,80.0,100.0,-98.11649,41.95169,False
+44180,NE,Antelope County,Prairie Breeze II,2015.0,41,73.5,GE Wind,GE1.79-100,80.0,100.0,-97.87352,41.97286,False
+44221,NE,Antelope County,Prairie Breeze III,2016.0,20,35.8,GE Wind,GE1.79-100,80.0,100.0,-97.85195,41.97358,False
+44241,TX,McLennan County,Prairie Hill,2020.0,100,300.0,Nordex,AW140/3000,82.0,140.0,-96.85007,31.57063,False
+44342,IA,Mahaska County,Prairie II,2018.0,2,4.0,Vestas,V110-2.0,95.0,110.0,-92.72919,41.46164,False
+44344,KS,Allen County,Prairie Queen,2019.0,59,199.28,Siemens Gamesa Renewable Energy,SG-3.55-132,114.0,132.0,-95.27824,37.99183,False
+44350,MN,Rock County,Prairie Rose,2012.0,119,199.92,GE Wind,GE1.68-82.5,80.0,82.5,-96.22509,43.80879,False
+44522,MN,Mower County,Prairie Star,2007.0,60,99.0,Vestas,V82-1.65,80.0,82.0,-92.57949,43.66329,False
+44584,ND,Ward County,Prairie Winds Minot Wind 2,2009.0,3,4.5,GE Wind,GE1.5-82.5,80.0,82.5,-101.30357,47.92597,False
+44587,ND,Ward County,Prairie Winds ND 1,2009.0,77,115.5,GE Wind,GE1.5-77,80.0,77.0,-101.24359,47.95559,False
+44664,ND,Ward County,PrairieWinds Minot Wind 1,2002.0,2,2.6,Nordex,N60,60.0,60.0,-101.29079,48.02389,False
+44666,KS,Pratt County,Pratt Wind Energy Center,2018.0,106,243.8,Siemens Gamesa Renewable Energy,SG-2.3-108,80.0,108.0,-98.93726,37.56617,False
+44689,IL,Bureau County,Providence Heights,2008.0,36,72.0,Gamesa,G87-2.0,80.0,87.0,-89.61452,41.18838,False
+44776,ME,Aroostook County,Presque Isle,2009.0,1,0.6,RRB,PS-600,65.0,47.0,-68.0202,46.66739,False
+44777,SD,Charles Mix County,Prevailing Wind,2020.0,57,216.6,GE Wind,GE3.8-137,110.0,137.0,-98.11269,43.12253,False
+44834,MA,Worcester County,Princeton Municipal Light and Water Plant,2009.0,2,3.0,Fuhrlander,FL1500,65.0,77.0,-71.8996,42.47699,False
+44836,OR,Baker County,Prospector,2017.0,5,10.0,GE Wind,GE2.0-116,80.0,116.0,-117.26229,44.41499,False
+44876,CO,Pueblo County,Pueblo Towers,2010.0,1,1.8,Vestas,V100-1.8,80.0,100.0,-104.62139,38.1634,False
+44877,PR,Naguabo Municipio,Punta Lima,2012.0,13,23.4,Vestas,V100-1.8,80.0,100.0,-65.69817,18.19778,False
+44891,TX,Fisher County,Pyron (Roscoe III),2009.0,166,249.0,GE Wind,GE1.5-77,80.0,77.0,-100.62619,32.56039,False
+45057,WI,Lafayette County,Quilt Block,2017.0,49,98.0,Vestas,V110-2.0,95.0,110.0,-90.25282,42.66439,False
+45106,AK,Bethel Census Area,Quinhagak,2010.0,3,0.3,Northern Power Systems,NW100,37.0,21.0,-161.91568,59.7396,False
+45109,IL,Macon County,Radford's Run,2017.0,139,305.8,Vestas,V110-2.0,95.0,110.0,-89.09652,39.99857,False
+45250,IL,Logan County,Rail Splitter,2009.0,67,100.5,GE Wind,GE1.5-77,80.0,77.0,-89.40229,40.3038,False
+45316,TX,Crosby County,Ralls Wind Farm,2011.0,5,10.0,Sany,SE8720IIIE,80.0,86.8,-101.38557,33.66127,False
+45321,TX,Crockett County,Ranchero,2019.0,120,300.0,GE Wind,GE2.5-127,89.0,127.0,-101.6294,31.0362,False
+45440,IN,Randolph County,Randolph Eastern School Corporation,2010.0,1,1.0,Nordic,N1000/59,70.0,59.0,-84.82208,40.21027,False
+45441,TX,Glasscock County,Rattlesnake,2015.0,118,207.0,GE Wind,GE1.79-100,80.0,100.0,-101.38561,31.69498,False
+45560,NE,Dixon County,Rattlesnake Creek,2018.0,101,318.15,Nordex,AW125/3150,87.5,125.0,-96.80941,42.40709,False
+45661,WA,Adams County,Rattlesnake Flat,2020.0,57,149.9,Siemens Gamesa Renewable Energy,SG-2.3-108,80.0,108.0,-118.4128,46.86918,False
+45719,OR,Gilliam County,Rattlesnake Road,2008.0,49,102.9,Suzlon,S88,79.0,88.0,-120.23988,45.6839,False
+45768,TX,McCulloch County,Rattlesnake Wind,2018.0,64,160.0,Goldwind,GW109,90.0,109.0,-99.50036,31.25102,False
+45833,KS,Lyon County,Reading Wind Facility,2020.0,62,200.13,Siemens Gamesa Renewable Energy,SG-2.415-108,80.0,108.0,-96.08851,38.50324,False
+45894,ME,Oxford County,Record Hill,2011.0,22,50.6,Siemens,SWT-2.3-93,80.0,93.0,-70.6301,44.65899,False
+45916,TX,Garza County,Red Canyon Wind Energy,2006.0,56,84.0,GE Wind,GE1.5-87,80.0,87.0,-101.24637,32.98364,False
+45972,OK,Kingfisher County,Red Dirt,2017.0,95,299.25,Nordex,AW125/3150,87.5,125.0,-97.75835,36.03677,False
+46067,OK,Roger Mills County,Red Hills,2008.0,82,123.0,Acciona,AW77/1500,80.0,77.0,-99.4166,35.52939,False
+46150,AZ,Cochise County,Red Horse 2,2015.0,15,30.0,Vestas,V110-2.0,80.0,110.0,-110.08649,32.30959,False
+46165,NM,Cibola County,Red Mesa,2010.0,64,102.4,GE Wind,GE1.6-82.5,80.0,82.5,-107.38129,35.2627,False
+46230,MN,Lincoln County,Red Pine,2017.0,100,200.0,Vestas,V100-2.0,80.0,100.0,-96.15371,44.4273,False
+46330,OK,Grady County,Redbed Plains,2017.0,48,99.1,Gamesa,G114-2.0,93.0,114.0,-97.8765,35.28181,False
+46378,MN,Redwood County,Redwood Falls (SMMPA),2005.0,2,3.3,Vestas,V82-1.65,70.0,82.0,-95.1759,44.50449,False
+46380,IA,Sac County,Richland,2020.0,53,130.92,GE Wind,GE2.3-116,80.0,116.0,-95.23816,42.37434,False
+46434,IL,Macon County,Richland Community College,2009.0,1,0.1,Northern Power Systems,NW100,36.7,20.0,-88.89536,39.88662,False
+46435,MN,Murray County,Ridgewind,2010.0,11,25.3,Siemens,SWT-2.3-93,80.0,93.0,-96.01859,44.03839,False
+46446,MT,Toole County,Rim Rock,2012.0,126,189.0,Acciona,AW77/1500,80.0,77.0,-112.07109,48.88769,False
+46572,PA,Somerset County,Ringer Hill,2016.0,14,39.9,GE Wind,GE2.85-103,98.3,103.0,-79.20066,39.73124,False
+46586,TX,Starr County,Rio Bravo,2019.0,66,237.6,Vestas,V136-3.6,105.0,136.0,-99.01881,26.64564,False
+46653,IA,Greene County,Rippey,2012.0,20,50.0,Nordex,N100,100.0,100.0,-94.22469,41.98999,False
+46673,CA,Kern County,Rising Tree North,2014.0,30,99.0,Vestas,V112-3.3,84.0,112.0,-118.20659,35.08875,False
+46704,CA,Kern County,Rising Tree South,2015.0,30,99.0,Vestas,V112-3.3,84.0,112.0,-118.25942,35.06119,False
+46734,CA,Riverside County,Robertsons Ready Mix,2012.0,2,3.2,GE Wind,GE1.6-82.5,80.0,82.5,-116.81509,33.91719,False
+46736,MN,Rock County,Rock County Wind Fuel Project,2020.0,2,5.0,GE Wind,GE2.5-116,80.0,116.0,-96.27779,43.63045,False
+46738,MO,Atchison County,Rock Creek,2017.0,150,300.0,Vestas,V110-2.0,95.0,110.0,-95.26862,40.4775,False
+46889,OK,Kay County,Rock Falls,2017.0,60,154.58,Siemens,SWT-2.625-120,85.0,120.0,-97.41682,36.91429,False
+46949,WY,Carbon County,Rock River I,2001.0,50,50.0,Mitsubishi,MWT1000,60.0,57.0,-106.09499,41.72018,False
+46998,VT,Washington County,Rock of Ages,2010.0,1,0.1,Northern Power Systems,NW100,37.0,21.0,-72.477,44.15349,False
+46999,ID,Power County,Rockland,2011.0,44,79.2,Vestas,V100-1.8,80.0,100.0,-112.91819,42.70329,False
+47043,TX,Val Verde County,Rocksprings,2017.0,69,149.34,GE Wind,GE1.715-103,80.0,103.0,-100.78354,29.74486,False
+47112,OK,Washita County,Rocky Ridge I,2012.0,93,148.8,GE Wind,GE1.6-82.5,80.0,82.5,-98.9782,35.18029,False
+47205,IA,Worth County,Roeder Farms,2011.0,1,1.6,GE Wind,GE1.6-82.5,80.0,82.5,-93.2832,43.29729,False
+47206,WY,Converse County,Rolling Hills,2009.0,66,99.0,GE Wind,GE1.85-91,80.0,91.0,-105.81919,43.1345,False
+47467,ME,Penobscot County,Rollins,2011.0,40,60.0,GE Wind,GE1.5-77,80.0,77.0,-68.3977,45.32499,False
+47507,NM,Roosevelt County,Roosevelt,2015.0,125,250.0,Vestas,V100-2.0,80.0,100.0,-103.43589,33.88557,False
+47632,TX,Nolan County,Roscoe,2008.0,209,209.0,Mitsubishi,MWT62/1.0,69.0,61.4,-100.5995,32.439,False
+47842,SD,Todd County,Rosebud Sioux,2003.0,1,0.75,NEG Micon,NM48,55.0,48.0,-100.57849,43.00269,False
+47843,IA,Cass County,Roseman Energy LLC,2017.0,1,1.79,GE Wind,GE1.79-100,80.0,100.0,-94.75392,41.37314,False
+47844,IN,White County,Rosewater,2020.0,25,102.0,Vestas,V150-4.2,105.0,150.0,-86.99281,40.78879,False
+47869,MD,Garrett County,Roth Rock,2011.0,20,50.0,Nordex,N90,80.0,90.0,-79.4451,39.27759,False
+47889,WY,Laramie County,Roundhouse,2020.0,82,226.56,GE Wind,GE2.82-127,89.0,127.0,-105.11701,41.07515,False
+47971,TX,Armstrong County,Route 66,2015.0,75,150.0,Vestas,V110-2.0,80.0,110.0,-101.38611,35.15585,False
+48046,ND,Pierce County,Rugby,2009.0,71,149.1,Suzlon,S88,79.0,88.0,-99.92569,48.52429,False
+48117,CO,Lincoln County,Rush Creek I,2018.0,200,400.0,Vestas,V110-2.0,80.0,110.0,-103.22688,39.10358,False
+48316,CO,Lincoln County,Rush Creek II,2018.0,100,200.0,Vestas,V110-2.0,80.0,110.0,-103.17935,39.09216,False
+48418,OK,Grady County,Rush Springs Wind Energy Center,2016.0,120,249.0,GE Wind,GE2.0-116,80.0,116.0,-97.86681,34.73052,False
+48537,MN,Lincoln County,Ruthton Wind Farm,2001.0,24,15.84,Vestas,V47-0.66,65.0,47.0,-96.19879,44.20479,False
+48561,WI,Racine County,SC Johnson Waxdale Plant,2012.0,2,3.0,Vensys,Vensys82,85.0,82.3,-87.88804,42.71324,False
+48563,ME,Franklin County,Saddleback Ridge,2015.0,9,25.65,GE Wind,GE2.85-103,85.0,103.0,-70.37309,44.60784,False
+48575,CA,San Joaquin County,Safeway Tracy,2011.0,2,2.0,Mitsubishi,MWT62/1.0,55.0,61.4,-121.52189,37.71429,False
+48577,NM,Roosevelt County,Sagamore Wind,2020.0,240,522.8,Vestas,V120-2.2,80.0,120.0,-103.31087,33.83204,False
+48817,TX,Garza County,Sage Draw,2020.0,120,338.4,GE Wind,GE2.82-127,89.0,127.0,-101.49635,33.31185,False
+48937,WA,Kittitas County,Sagebrush (Kittitas Valley),2010.0,48,100.8,Suzlon,S88,80.0,88.0,-120.71509,47.14249,False
+48985,CA,Monterey County,Salinas Valley State Prison,2018.0,1,1.7,GE Wind,GE1.7-100,80.0,100.0,-121.37075,36.47424,False
+48986,ID,Twin Falls County,Salmon Falls,2011.0,14,21.0,GE Wind,GE1.5-82.5,80.0,82.5,-114.98988,42.6848,False
+49001,TX,Donley County,Salt Fork,2016.0,87,174.0,Vestas,V100-2.0,80.0,100.0,-100.93153,35.17594,False
+49065,CA,Riverside County,San Gorgonio Farms Wind Farm,2015.0,69,31.0,Vestas,V44,40.0,42.0,-116.63034,33.92807,False
+49096,NM,Roosevelt County,San Juan Mesa,2005.0,120,120.0,Mitsubishi,MWT62/1.0,69.0,61.4,-103.80229,33.9232,False
+49216,TX,Cameron County,San Roman,2016.0,31,93.0,Nordex,AW125/3000,87.5,125.0,-97.3431,26.11887,False
+49247,TX,Sterling County,Sand Bluff,2007.0,45,90.0,Gamesa,G87-2.0,78.0,87.0,-101.25459,31.9537,False
+49292,AK,Aleutians East Borough,Sand Point,2012.0,2,1.0,Vestas,V39,40.0,39.0,-160.49059,55.3448,False
+49294,PA,Blair County,Sandy Ridge,2012.0,25,50.0,Gamesa,G90-2.0,100.0,90.0,-78.2976,40.72489,False
+49319,RI,Newport County,Sandywoods,2012.0,1,0.28,Vergnet,GEV MP,55.0,32.0,-71.1539,41.62049,False
+49320,PR,Santa Isabel Municipio,Santa Isabel,2012.0,44,101.2,Siemens,SWT-2.3-108,80.0,108.0,-66.374,17.99844,False
+49364,TX,Reagan County,Santa Rita,2018.0,120,300.0,GE Wind,GE2.5-116,90.0,116.0,-101.37087,31.18562,False
+49484,TX,Irion County,Santa Rita East,2019.0,120,302.4,GE Wind,GE2.5-127,89.0,127.0,-101.14459,31.23577,False
+49604,IA,Howard County,Saratoga,2019.0,33,66.0,Vestas,V116-2.0,94.0,116.0,-92.33415,43.39286,False
+49637,AK,Nome Census Area,Savoonga,2008.0,2,0.2,Northern Power Systems,NW100,30.0,21.0,-170.49828,63.6915,False
+49639,ID,Elmore County,Sawtooth,2011.0,14,22.4,GE Wind,GE1.6-82.5,80.0,82.5,-115.39979,42.9856,False
+49653,CA,Monterey County,Scheid Vineyards,2017.0,1,1.85,GE Wind,GE1.85-82.5,80.0,82.5,-121.19159,36.27451,False
+49728,MA,Plymouth County,Scituate Wind,2012.0,1,1.5,Sinovel,SL1500,80.0,82.0,-70.7285,42.17509,False
+49729,OK,Dewey County,Seiling,2014.0,117,198.9,GE Wind,GE1.7-100,80.0,100.0,-99.03465,36.14187,False
+49846,OK,Woodward County,Seiling 2,2014.0,59,100.3,GE Wind,GE1.7-100,80.0,100.0,-98.95886,36.18173,False
+49905,AK,Northwest Arctic Borough,Selawik Wind Project,2004.0,3,0.15,AOC,AOC15/50,24.0,15.0,-160.01959,66.60891,False
+49909,TX,Jack County,Senate,2012.0,75,150.0,Gamesa,G90-2.0,100.0,90.0,-98.35569,33.21079,False
+49984,TX,Jim Hogg County,Sendero,2015.0,39,78.0,GE Wind,GE2.0-116,80.0,116.0,-98.94627,27.17733,False
+50023,NY,Erie County,Seneca Nation,2017.0,1,1.5,Vensys,Vensys82,85.0,82.3,-79.10269,42.58089,False
+50024,IL,Iroquois County,Settler's Trail,2011.0,94,150.4,GE Wind,GE1.6-82.5,80.0,82.5,-87.5787,40.75289,False
+50118,WY,Carbon County,Seven Mile Hill I & II,2008.0,79,118.5,GE Wind,GE1.85-91,80.0,91.0,-106.36559,41.95219,False
+50197,TX,Baylor County,Seymour Hills,2019.0,12,30.24,GE Wind,GE2.5-127,89.0,127.0,-99.18745,33.5923,False
+50209,IL,Lee County,Shady Oaks,2012.0,71,109.5,Goldwind,GW82,85.0,82.0,-89.0687,41.65789,False
+50280,MN,Scott County,Shakopee Mdewakanton Sioux,2009.0,1,1.5,Changzhou Railcar Propulsion Engineering Research and Development Center,FD-77-1500,80.0,77.0,-93.48299,44.73609,False
+50281,AK,Nome Census Area,Shaktoolik,2012.0,2,0.2,Northern Power Systems,NW100,37.0,21.0,-161.20207,64.36019,False
+50283,TX,Clay County,Shannon,2015.0,119,204.09,GE Wind,GE1.715-103,80.0,103.0,-98.3928,33.47778,False
+50402,MN,Lincoln County,Shaokatan Power Partners,2003.0,2,1.6,Gamesa,G52-0.8,65.0,52.0,-96.41859,44.39669,False
+50404,VT,Caledonia County,Sheffield,2011.0,16,40.0,Clipper,C93,80.0,93.0,-72.096,44.67949,False
+50420,IN,Henry County,Shenandoah School Corporation,2013.0,1,0.9,PowerWind,PW56,71.0,56.0,-85.52367,40.01024,False
+50421,OR,Gilliam County,Shepherds Flat,2011.0,82,205.0,GE Wind,GE2.5-100,85.0,100.0,-120.11588,45.7511,False
+50506,TX,Pecos County,Sherbino I,2008.0,50,150.0,Vestas,V90-3.0,80.0,90.0,-102.37639,30.8077,False
+50556,TX,Pecos County,Sherbino II,2011.0,60,150.0,Clipper,C96,80.0,96.0,-102.52599,30.7835,False
+50614,IL,Rock Island County,Sherrard High School,2009.0,1,0.66,RRB,PS-600,50.0,47.0,-90.52823,41.34452,False
+50615,CA,Solano County,Shiloh II,2009.0,75,150.0,REpower,MM92,80.0,92.5,-121.76629,38.1671,False
+50690,CA,Solano County,Shiloh III,2011.0,50,102.5,REpower,MM92,78.5,92.5,-121.75169,38.17559,False
+50740,CA,Solano County,Shiloh IV,2012.0,50,102.5,REpower,MM92,78.5,92.5,-121.85499,38.141,False
+50790,CA,Solano County,Shiloh Wind Project,2006.0,100,150.0,GE Wind,GE1.5-77,80.0,77.0,-121.82758,38.1624,False
+50896,WI,Brown County,Shirley,2010.0,8,20.0,Nordex,N100,100.0,100.0,-87.91969,44.34749,False
+50904,NE,Wayne County,Sholes,2019.0,71,160.02,GE Wind,GE2.3-116,90.0,116.0,-97.36384,42.29951,False
+50975,KS,Kiowa County,Shooting Star,2012.0,65,104.0,GE Wind,GE1.6-82.5,80.0,82.5,-99.43859,37.53529,False
+51040,IA,Osceola County,Sibley Hills,2003.0,1,0.66,Vestas,V47,45.0,47.0,-95.65109,43.40459,False
+51041,MI,Huron County,Sigel Wind Park,2012.0,40,64.0,GE Wind,GE1.6-100,100.0,100.0,-82.81975,43.84652,False
+51081,WY,Laramie County,Silver Sage,2009.0,20,42.0,Suzlon,S88,79.0,88.0,-105.02909,41.13699,False
+51101,TX,Eastland County,Silver Star I,2008.0,24,60.0,Clipper,C96,80.0,96.0,-98.48399,32.34539,False
+51125,OK,Alfalfa County,Skeleton Creek,2020.0,91,250.9,GE Wind,GE2.82-127,89.0,127.0,-98.227,36.53368,False
+51216,WA,Lewis County,Skookumchuck,2020.0,38,136.8,Vestas,V136-3.6,82.0,136.0,-122.62898,46.7329,False
+51254,IA,Adair County,Sky Volt,2012.0,1,1.68,GE Wind,GE1.68-82.5,80.0,82.5,-94.48525,41.29078,False
+51255,KS,Sumner County,Slate Creek,2015.0,75,150.0,Vestas,V110-2.0,80.0,110.0,-97.25997,37.11325,False
+51330,OK,Harper County,Sleeping Bear,2007.0,45,94.5,Suzlon,S88,79.0,88.0,-99.50299,36.63929,False
+51376,KS,Lincoln County,Smoky Hills,2008.0,56,100.8,Vestas,V80-1.8,80.0,80.0,-98.04609,38.87919,False
+51432,KS,Lincoln County,Smoky Hills II,2008.0,99,148.5,GE Wind,GE1.5-77,80.0,77.0,-98.19169,38.90979,False
+51531,TX,Scurry County,Snyder,2007.0,21,63.0,Vestas,V90-3.0,105.0,90.0,-100.75399,32.7431,False
+51552,CA,Solano County,Solano Phase 3,2012.0,55,127.8,Vestas,V90-1.8,80.0,90.0,-121.80089,38.0845,False
+51607,CA,Solano County,Solano Phase IIA,2006.0,12,24.0,Vestas,V90-3.0,80.0,90.0,-121.77489,38.0989,False
+51615,CA,Solano County,Solano Wind Project,2007.0,21,63.0,Vestas,V90-3.0,80.0,90.0,-121.77189,38.0938,False
+51636,CA,Solano County,"Solano Wind Project, Phase I",2003.0,16,10.56,Vestas,V47-0.66,50.0,47.0,-121.76719,38.1265,False
+51651,CA,Solano County,"Solano Wind Project, Phase IA",2004.0,7,4.62,Vestas,V47-0.66,65.0,47.0,-121.77389,38.1218,False
+51659,KS,Nemaha County,Soldier Creek Wind Energy Center,2020.0,120,300.96,GE Wind,GE2.3-116,90.0,116.0,-96.08309,39.59385,False
+51779,KS,Thomas County,Solomon Forks,2019.0,105,275.63,Siemens Gamesa Renewable Energy,SG-2.625-120,85.0,120.0,-101.09061,39.29743,False
+51796,PA,Fayette County,South Chestnut,2012.0,23,46.0,Gamesa,G87-2.0,78.0,87.0,-79.7477,39.73669,False
+51883,PA,Somerset County,Somerset,2001.0,6,9.0,GE Wind,GE1.5-70.5,65.0,70.5,-79.0126,39.97989,False
+51911,SD,Hyde County,South Dakota,2003.0,27,40.5,GE Wind,GE1.5-70.5,65.0,70.5,-99.44308,44.36861,False
+51926,OR,Gilliam County,South Hurlburt,2012.0,116,290.0,GE Wind,GE2.5-100,85.0,100.0,-120.07919,45.7012,False
+51939,SD,Brule County,South Dakota Wind Partners,2011.0,7,10.5,GE Wind,GE1.5-77,80.0,77.0,-98.83119,43.92209,False
+51946,MN,Jackson County,South Fork,2016.0,6,13.0,GE Wind,GE2.3-116,80.0,116.0,-95.39951,43.59978,False
+52068,MT,Judith Basin County,South Peak,2020.0,29,79.9,GE Wind,GE2.82-127,90.0,127.0,-110.69119,47.30269,False
+52097,TX,Floyd County,South Plains,2015.0,100,200.0,Vestas,V100-2.0,80.0,100.0,-101.37445,34.10827,False
+52197,TX,Floyd County,South Plains II,2016.0,91,300.3,Vestas,V117-3.3,91.5,117.0,-101.39264,34.19064,False
+52288,TX,Taylor County,South Trent Mesa,2009.0,44,101.2,Siemens,SWT-2.3-82,80.0,82.0,-100.14319,32.40159,False
+52332,IA,Union County,Southern Hills,2020.0,36,131.3,Vestas,V110-2.2,95.0,110.0,-94.46372,41.10652,False
+52368,IA,Union County,Southern Hills Expansion,2020.0,31,122.8,Siemens Gamesa Renewable Energy,SG-4.8-145,107.5,145.0,-94.44154,41.13557,False
+52395,UT,Utah County,Spanish Fork,2008.0,9,18.9,Suzlon,S88,79.0,88.0,-111.58729,40.0739,False
+52404,KS,Ford County,Spearville,2006.0,67,100.5,GE Wind,GE1.5-77,80.0,77.0,-99.74181,37.88751,False
+52471,KS,Ford County,Spearville 3,2012.0,63,100.8,GE Wind,GE1.6-82.5,80.0,82.5,-99.79219,37.8793,False
+52534,KS,Ford County,Spearville II,2010.0,32,48.0,GE Wind,GE1.5-77,80.0,77.0,-99.74329,37.86079,False
+52566,TX,Oldham County,Spinning Spur 2,2014.0,87,160.95,GE Wind,GE1.85-87,80.0,87.0,-102.55089,35.2819,False
+52654,TX,Oldham County,Spinning Spur 3,2015.0,97,194.0,Vestas,V100-2.0,80.0,100.0,-102.68245,35.2812,False
+52751,TX,Oldham County,Spinning Spur Wind Ranch,2012.0,70,161.0,Siemens,SWT-2.3-108,80.0,108.0,-102.44489,35.27679,False
+52821,MT,Judith Basin County,Spion Kop,2012.0,25,40.0,GE Wind,GE1.6-82.5,80.0,82.5,-110.63628,47.33759,False
+52846,IA,Dickinson County,Spirit Lake,2001.0,2,1.0,NEG Micon,NM48/750,55.0,48.0,-95.09901,43.41138,False
+52847,CO,Logan County,Spring Canyon,2006.0,40,60.0,GE Wind,GE1.5-77,80.0,77.0,-103.02529,40.97349,False
+52887,CO,Logan County,Spring Canyon Expansion,2014.0,35,60.0,GE Wind,GE1.79-100,85.0,100.0,-103.00302,40.9981,False
+52922,NV,White Pine County,Spring Valley,2012.0,66,151.8,Siemens,SWT-2.3-101,80.0,101.0,-114.48519,39.07509,False
+52988,NE,Keya Paha County,Springview II Wind Facility,2011.0,2,3.0,Vensys,Vensys77,65.0,77.0,-99.77739,42.82579,False
+52990,ME,Oxford County,Spruce Mountain,2011.0,10,20.0,Gamesa,G90-2.0,78.0,90.0,-70.5601,44.41819,False
+53000,MN,Stearns County,St. Cloud VA Medical Center,2011.0,1,0.6,Elecon,T-600-48DS,50.0,48.0,-94.20828,45.57709,False
+53001,AK,Wade Hampton Census Area,St. Mary's Wind Turbine,2019.0,1,0.9,EWT,DW-52-900,50.0,52.0,-163.25078,62.03477,False
+53002,MN,Rice County,St. Olaf College,2006.0,1,1.65,Vestas,V82-1.65,80.0,82.0,-93.19237,44.46238,False
+53003,AK,Aleutians West Census Area,St. Paul Island II,2007.0,3,0.68,Vestas,V27,37.0,27.0,-170.2352,57.15704,False
+53005,TX,Martin County,Stanton Energy Center,2008.0,80,120.0,GE Wind,GE1.5-77,80.0,77.0,-101.85169,32.2151,False
+53085,OR,Sherman County,Star Point,2010.0,47,98.7,Suzlon,S88,79.0,88.0,-120.42339,45.54149,False
+53132,OR,Umatilla County,Stateline Wind Project,2001.0,454,83.16,Vestas,V47-0.66,50.0,47.0,-118.81158,45.9996,False
+53587,NY,Erie County,Steel Winds,2007.0,8,20.0,Clipper,C93,80.0,93.0,-78.8675,42.81709,False
+53595,NY,Erie County,Steel Winds II,2012.0,6,15.0,Clipper,C96,80.0,96.0,-78.8601,42.80329,False
+53600,NE,Jefferson County,Steele Flats,2013.0,44,74.8,GE Wind,GE1.7-100,80.0,100.0,-96.97049,40.05689,False
+53645,TX,Kenedy County,Stella,2018.0,67,201.0,Nordex,AW125/3000,87.5,125.0,-97.67464,26.97715,False
+53712,TX,Borden County,Stephens Ranch 1,2014.0,118,211.22,GE Wind,GE1.79-100,80.0,100.0,-101.62982,32.90548,False
+53736,ME,Washington County,Stetson,2009.0,38,57.0,GE Wind,GE1.5-77,80.0,77.0,-67.9777,45.53289,False
+53831,TX,Lynn County,Stephens Ranch II,2015.0,92,164.68,GE Wind,GE1.79-100,80.0,100.0,-101.65093,33.02462,False
+53924,NM,Lea County,Sterling Phase I,2017.0,13,29.9,GE Wind,GE2.3-116,80.0,116.0,-103.28124,33.35658,False
+53974,ME,Washington County,Stetson Wind expansion,2010.0,17,25.5,GE Wind,GE1.5-77,80.0,77.0,-67.9772,45.62429,False
+53991,MT,Stillwater County,Stillwater Big Sky,2018.0,31,79.75,Siemens Gamesa Renewable Energy,SG-2.625-120,85.0,120.0,-109.49886,45.86905,False
+54022,MN,Pipestone County,Stoneray,2018.0,13,34.13,Siemens Gamesa Renewable Energy,SG-2.625-120,85.0,120.0,-96.0895,44.00006,False
+54035,MN,Pipestone County,Stoneray II,2019.0,26,66.63,Siemens,SWT-2.625-120,85.0,120.0,-96.12107,44.1018,False
+54062,MI,Missaukee County,Stoney Corners,2008.0,2,5.0,Fuhrlander,FL2500,100.0,90.0,-85.31339,44.18989,False
+54064,MI,Missaukee County,Stoney Corners - Repower,2009.0,7,14.0,REpower,MM92,80.0,92.5,-85.29189,44.18309,False
+54071,MI,Missaukee County,Stoney Corners II,2010.0,10,20.75,REpower,MM92,100.0,92.5,-85.2877,44.17919,False
+54081,MI,Osceola County,Stoney Corners III,2011.0,10,20.5,REpower,MM92,100.0,92.5,-85.24719,44.16209,False
+54091,PA,Somerset County,Stony Creek,2009.0,35,52.5,GE Wind,GE1.5-77,80.0,77.0,-78.834,40.02519,False
+54126,IA,Story County,Story City Wind,2011.0,1,1.5,Goldwind,GW82,85.0,82.0,-93.59899,42.20789,False
+54127,IA,Story County,Story County,2008.0,100,150.0,GE Wind,GE1.5-87,80.0,87.0,-93.2627,42.05339,False
+54227,IA,Story County,Story II (aka Garden Wind),2009.0,100,150.0,GE Wind,GE1.5-77,80.0,77.0,-93.299,42.20689,False
+54327,IA,Adair County,Stuart,2005.0,1,0.66,Vestas,V47-0.66,65.0,47.0,-94.32739,41.49399,False
+54328,IL,Logan County,Sugar Creek,2020.0,57,202.0,Vestas,V110-2.0,120.0,110.0,-89.4725,40.15282,False
+54385,ND,Morton County,Sunflower,2016.0,52,104.0,Vestas,V100-2.0,80.0,100.0,-102.04765,46.8433,False
+54437,TX,Moore County,Sunray I,2009.0,7,10.5,GE Wind,GE1.5-77,80.0,77.0,-101.87969,35.932,False
+54443,TX,Moore County,Sunray II,2009.0,26,39.0,GE Wind,GE1.5-77,80.0,77.0,-101.90809,35.9483,False
+54470,CA,Solano County,Superior Farms,2012.0,1,1.0,Mitsubishi,MWT62/1.0,55.0,61.4,-121.81749,38.42009,False
+54471,IL,Lee County,Sustainable Technologies Museum (Turbine A,2007.0,1,2.5,Clipper,C96,80.0,96.0,-89.2497,41.66029,False
+54472,TX,Hartley County,Suzlon Project VII,2011.0,2,4.2,Suzlon,S97,90.0,97.0,-102.27419,35.7496,False
+54474,WA,Kittitas County,Swauk Valley,2012.0,5,4.25,Gamesa,G58-0.85,55.0,58.0,-120.75549,47.14409,False
+54479,TX,Nolan County,Sweetwater,2003.0,25,37.5,GE Wind,GE1.5-82.5,80.0,82.5,-100.34831,32.36219,False
+54505,TX,Nolan County,Sweetwater 3,2005.0,90,144.0,GE Wind,GE 1.6-91,80.0,91.0,-100.48026,32.32718,False
+54506,TX,Nolan County,Sweetwater IVa,2007.0,135,135.0,Mitsubishi,MWT62/1.0,69.0,61.4,-100.53259,32.28389,False
+54641,TX,Nolan County,Sweetwater IVb,2007.0,46,105.8,Siemens,SWT-2.3-93,80.0,93.0,-100.49569,32.2488,False
+54687,TX,Nolan County,Sweetwater Phase II,2005.0,61,91.5,GE Wind,GE1.62-87,80.0,87.0,-100.39578,32.34281,False
+54748,TX,Nolan County,Sweetwater Phase III,2005.0,90,135.0,GE Wind,GE1.5-77,80.0,77.0,-100.47532,32.32719,False
+54837,TX,Nolan County,Sweetwater V,2007.0,35,80.5,Siemens,SWT-2.3-93,80.0,93.0,-100.49049,32.2371,False
+54872,OH,Henry County,TJ Automation,2010.0,1,0.1,Northern Power Systems,NPS-100,,,-84.30851,41.4591,False
+54873,MN,St. Louis County,Taconite Ridge Energy Center,2008.0,10,25.0,Clipper,C96,80.0,96.0,-92.6126,47.57259,False
+54883,TX,Lynn County,Tahoka Wind,2018.0,120,300.0,GE Wind,GE2.5-127,89.0,127.0,-101.77924,33.18335,False
+55004,MD,Talbot County,Talbot County DPW,2010.0,3,0.3,Northern Power Systems,NPS-100,,,-76.03252,38.8184,False
+55007,OK,Dewey County,Taloga,2011.0,54,129.6,Mitsubishi,MWT95/2.4,80.0,95.0,-98.93169,35.84679,False
+55061,SD,McPherson County,Tatanka,2008.0,59,88.5,Acciona,AW82/1500,80.0,82.0,-98.99299,45.92259,False
+55182,CA,Monterey County,Taylor Farms,2014.0,1,1.85,GE Wind,GE1.85-82.5,80.0,82.5,-121.4518,36.50515,False
+55184,CA,San Joaquin County,Teichert Aggregates,2010.0,1,1.5,GE Wind,GE 1.5-77,80.0,77.0,-121.35656,37.61665,False
+55185,MA,Worcester County,Templeton Wind Turbine,2010.0,1,1.5,AAER,A-1500,80.0,77.0,-72.0777,42.58909,False
+55187,MO,Nodaway County,Tenaska Clear Creek Energy Center,2020.0,111,242.0,Vestas,V120-2.2,92.0,120.0,-94.94106,40.46094,False
+55298,IL,Cook County,Testa Produce,2011.0,1,0.75,Aeronautica,47-750,50.0,47.0,-87.65399,41.81069,False
+55299,TX,Nolan County,Texas Tech - Nolan,2008.0,1,2.0,DeWind,D8.2,80.0,80.0,-100.52609,32.3502,False
+55300,IN,Randolph County,The City of Union City,2010.0,1,1.0,Nordic,N1000/59,70.0,59.0,-84.81719,40.19069,False
+55301,MN,Pipestone County,Tholen & Petersen,2005.0,8,13.2,Vestas,V82-1.65,70.0,82.0,-96.12899,44.11392,False
+55309,ID,Twin Falls County,Thousand Springs,2011.0,8,12.0,GE Wind,GE1.5-82.5,80.0,82.5,-114.96681,42.87647,False
+55317,OH,Medina County,Three D Metals Corporation,2009.0,1,0.1,Northern Power Systems,NW100,37.0,21.0,-81.88306,41.24815,False
+55318,OR,Morrow County,Threemile Canyon,2009.0,6,9.9,Vestas,V82-1.65,80.0,82.0,-119.93768,45.6759,False
+55324,OK,Noble County,Thunder Ranch,2017.0,120,297.8,GE Wind,GE2.3-116,80.0,116.0,-97.30306,36.57061,False
+55445,ND,Adams County,Thunder Spirit,2015.0,43,107.5,Nordex,N100,80.0,100.0,-102.59465,46.08166,False
+55488,ND,Adams County,Thunder Spirit II,2018.0,16,48.0,Nordex,N117/3000,91.0,117.0,-102.55724,46.03571,False
+55505,OH,Paulding County,Timber Road II,2011.0,55,99.0,Vestas,V100-1.8,95.0,100.0,-84.7344,41.04599,False
+55560,OH,Paulding County,Timber Road IV,2020.0,31,126.0,Vestas,V136-3.6,105.0,136.0,-84.70226,41.0147,False
+55591,IN,Marion County,Time Factory Wind,2008.0,1,0.05,Entegrity,EW50,31.1,15.0,-86.2365,39.87109,False
+55592,AK,Nome Census Area,Tin City Long Range Radar Station,2008.0,1,0.23,Vestas,V27,37.0,27.0,-167.96242,65.56861,False
+55593,IN,Kosciusko County,Tippecanoe Valley School Corporation,2011.0,1,0.9,PowerWind,PW56,71.0,56.0,-86.0441,41.11099,False
+55594,SD,Hand County,Titan I,2009.0,10,25.0,Clipper,C89,80.0,89.0,-99.13969,44.47759,False
+55604,IA,Floyd County,Tjaden Farms,2006.0,1,0.45,Bonus,MK1,30.5,37.0,-92.62349,43.15655,False
+55605,AK,Bethel Census Area,Toksook Bay,2010.0,4,0.4,Northern Power Systems,NPS-100,37.0,21.0,-165.11208,60.5271,False
+55608,AK,Bethel Census Area,Toksook Bay Expansion,2010.0,4,0.4,Northern Power Systems,NW100,32.0,21.0,-165.11697,60.5263,False
+55609,UT,Tooele County,Tooele Army Depot I,2009.0,1,1.5,GE Wind,1.5SLE,80.0,77.0,-112.37729,40.50069,False
+55610,UT,Tooele County,Tooele Army Depot II,2016.0,1,1.79,GE Wind,GE1.7-103,80.0,103.0,-112.36978,40.50187,False
+55611,IA,Worth County,Top of Iowa,2001.0,89,80.1,NEG Micon,NM52,72.0,52.0,-93.40689,43.33459,False
+55700,IA,Worth County,Top of Iowa II,2008.0,40,80.0,Gamesa,G87-2.0,78.0,87.0,-93.31284,43.36128,False
+55740,IA,Worth County,Top of Iowa III,2008.0,18,29.7,Vestas,V82-1.65,80.0,82.0,-93.28577,43.35384,False
+55758,WY,Converse County,Top of the World,2010.0,110,200.2,GE Wind,GE1.5-77,80.0,77.0,-105.73989,42.96319,False
+55868,TX,Webb County,Torrecillas,2018.0,120,300.0,GE Wind,GE2.5-127,89.0,127.0,-98.82472,27.57997,False
+55989,NY,Oswego County,Town of Richland,2010.0,1,0.1,Northern Power Systems,NW100,,21.0,-76.037,43.56519,False
+55990,IA,Tama County,Traer Wind,2011.0,1,1.5,Goldwind,GW82,85.0,82.0,-92.44254,42.16135,False
+55991,TX,Nolan County,Trent Mesa,2001.0,83,124.5,GE Wind,GE1.5-82.5,65.0,82.5,-100.18893,32.42908,False
+56074,TX,Nolan County,Trent Mesa Repower,2001.0,17,29.17,GE Wind,GE1.7-100,80.0,100.0,-100.1512,32.4266,False
+56090,MN,Martin County,Trimont Wind,2005.0,67,100.5,GE Wind,GE1.5-70.5,85.0,70.5,-94.80356,43.80151,False
+56157,TX,Young County,Trinity Hills,2012.0,90,225.0,Clipper,C96,80.0,96.0,-98.61109,33.36499,False
+56247,SD,Hyde County,Triple H 1,2020.0,92,250.24,GE Wind,GE2.72-116,90.0,116.0,-99.63734,44.47647,False
+56331,MN,Otter Tail County,Trondhjem (Wind-Solar Hybrid),2018.0,1,2.3,GE Wind,GE2.3-116,80.0,116.0,-96.16175,46.50674,False
+56332,ID,Twin Falls County,Tuana Gulch,2011.0,7,10.5,GE Wind,GE1.5-82.5,80.0,82.5,-114.96928,42.84609,False
+56339,ID,Twin Falls County,Tuana Springs,2010.0,8,16.8,Suzlon,S88,79.0,88.0,-115.01719,42.8882,False
+56347,WA,Columbia County,Tucannon River,2014.0,116,266.8,Siemens,SWT-2.3-108,80.0,108.0,-118.02446,46.43483,False
+56466,CA,San Diego County,Tule,2018.0,57,131.1,GE Wind,GE2.3-107,80.0,107.0,-116.28192,32.73948,False
+56525,AK,Bethel Census Area,Tuntutuliak,2012.0,5,0.48,Windmatic,WM17S,31.0,17.0,-162.66338,60.3378,False
+56530,IL,Lee County,Turbine EVE,2012.0,1,2.5,Clipper,C96,100.0,96.0,-89.245,41.6376,False
+56531,PA,Lancaster County,Turkey Hill Frey Farm,2011.0,2,3.2,GE Wind,GE1.6-82.5,80.0,82.5,-76.4569,39.95869,False
+56533,TX,Nolan County,Turkey Track,2008.0,113,169.5,GE Wind,GE1.5-77,80.0,77.0,-100.20409,32.2192,False
+56646,IA,Mitchell County,Turtle Creek,2018.0,56,199.2,Vestas,V136-3.45,82.0,136.0,-92.82557,43.49499,False
+56702,ND,Rolette County,Turtle Mountain College,2008.0,1,0.66,Vestas,V47-0.66,65.0,47.0,-99.75179,48.88469,False
+56703,MI,Tuscola County,Tuscola Bay Wind,2012.0,75,120.0,GE Wind,GE1.6-100,80.0,100.0,-83.63786,43.55877,False
+56778,MI,Tuscola County,Tuscola II,2013.0,59,100.3,GE Wind,GE1.7-100,80.0,100.0,-83.57439,43.49059,False
+56839,CO,Bent County,Twin Buttes,2007.0,50,75.0,GE Wind,GE1.5-77,80.0,77.0,-102.87639,37.6717,False
+56889,CO,Prowers County,Twin Buttes II,2017.0,36,75.0,Gamesa,G114-2.0,80.0,114.0,-102.56509,37.76,False
+56925,IL,McLean County,Twin Groves I,2007.0,120,198.0,Vestas,V82-1.65,80.0,82.0,-88.79549,40.47579,False
+57046,IL,McLean County,Twin Groves II,2007.0,98,161.7,Vestas,V82-1.65,80.0,82.0,-88.55219,40.41779,False
+57165,PA,Somerset County,Twin Ridges,2012.0,68,139.4,REpower,MM92,98.5,92.5,-78.88979,39.74409,False
+57236,MT,Wheatland County,Two Dot,2014.0,6,9.72,GE Wind,GE1.62-87,80.0,87.0,-110.08849,46.45139,False
+57242,MT,Wheatland County,Two Dot Wind Farm,2005.0,7,0.46,Nordtank,65kW,22.8,16.5,-110.09283,46.44338,False
+57249,TX,Cooke County,Tyler Bluff,2016.0,52,125.58,Siemens,SWT-2.3-108,80.0,108.0,-97.33457,33.69254,False
+57301,TX,Randall County,UL Advanced Wind Turbine Test Facility,2018.0,1,3.57,Goldwind,GW136,130.0,136.0,-101.79,34.96733,False
+57303,MN,Pipestone County,Uilk Wind Farm,2009.0,3,4.5,Goldwind,GW70,65.0,70.0,-96.42339,43.98129,False
+57306,AK,Nome Census Area,Unalakleet,2009.0,6,0.6,Northern Power Systems,NW100,37.0,21.0,-160.77017,63.9107,False
+57312,DE,Sussex County,University of Delaware,2010.0,1,2.0,Gamesa,G90-2.0,78.0,90.0,-75.1649,38.78289,False
+57314,MN,Stevens County,University of MN -- Morris,2011.0,1,1.65,Vestas,V82-1.65,80.0,82.0,-95.87789,45.58469,False
+57316,MA,Bristol County,University of Massachussetts Dartmouth,2012.0,1,0.6,Turbowinds,T-600-48,50.0,48.0,-71.0106,41.62669,False
+57317,OH,Lucas County,University of Toledo Wind Turbine,2009.0,1,0.08,Wind Energy Solutions,WES18,30.0,18.0,-83.59519,41.64369,False
+57318,IA,Dickinson County,Upland Prairie,2019.0,121,299.3,GE Wind,GE2.5-116,90.0,116.0,-95.29593,43.26417,False
+57438,OH,Hardin County,Upper Scioto Valley School,2009.0,2,0.2,Northern Power Systems,NW100,37.0,21.0,-83.78804,40.69037,False
+57440,NE,Antelope County,Upstream,2018.0,81,202.5,GE Wind,GE2.5-116,90.0,116.0,-97.94952,42.13954,False
+57522,OH,Hancock County,Valfilm Wind,2018.0,2,3.0,Goldwind,GW87,80.0,87.0,-83.64397,41.0826,False
+57524,ND,Barnes County,Valley City Wind Turbine,2001.0,1,0.9,NEG Micon,NM52/900,70.5,52.2,-97.89117,46.91863,False
+57525,MN,Murray County,Valley View,2011.0,5,10.0,Gamesa,G87-2.0,78.0,87.0,-96.0276,43.89789,False
+57530,OR,Umatilla County,Vansycle II,2009.0,43,98.9,Siemens,SWT-2.3-93,80.0,93.0,-118.53098,45.89159,False
+57574,WA,Kittitas County,Vantage Point,2010.0,60,90.0,GE Wind,GE1.5-77,80.0,77.0,-120.19529,46.9604,False
+57635,CA,Contra Costa County,Vasco (repower),2011.0,34,78.2,Siemens,SWT-2.3-101,80.0,101.0,-121.70099,37.7985,False
+57669,ND,McHenry County,Velva Wind Farm,2006.0,18,11.88,Vestas,V47-0.66,65.0,47.0,-100.87999,48.10259,False
+57686,CA,San Bernardino County,Victorville Wind Project,2005.0,1,0.75,NEG Micon,NM48,55.0,48.0,-117.35829,34.55769,False
+57687,IA,Carroll County,Victory(Carroll),2006.0,66,99.0,GE Wind,GE1.5-87,80.0,87.0,-95.0482,42.14609,False
+57754,IA,Tama County,Vienna,2012.0,45,105.75,Siemens,SWT-2.35-108,80.0,108.0,-92.716,42.15469,False
+57799,IA,Marshall County,Vienna II,2013.0,19,44.65,Siemens,SWT-2.3-108,80.0,108.0,-92.81578,42.14385,False
+57818,MN,Murray County,Viking,2003.0,8,12.0,GE Wind,GE1.5-70.5,80.0,70.5,-96.00842,43.96786,False
+57826,CA,Kern County,Voyager II,2018.0,54,193.5,Vestas,V117-3.6,91.5,117.0,-118.26857,35.06821,False
+57881,CA,Kern County,Voyager Wind,2019.0,38,131.1,Vestas,V112-3.45,94.0,112.0,-118.28658,35.05142,False
+57919,RI,Kent County,WED Coventry 1,2016.0,1,1.5,Vensys,Vensys82,85.0,82.3,-71.70782,41.6755,False
+57920,RI,Kent County,WED Coventry 2,2016.0,3,4.5,Vensys,Vensys82,85.0,82.3,-71.70379,41.66712,False
+57923,RI,Kent County,WED Coventry 3,2016.0,1,1.5,Vensys,Vensys82,85.0,82.3,-71.72116,41.6955,False
+57924,RI,Kent County,WED Coventry 4,2016.0,1,1.5,Vensys,Vensys82,85.0,82.3,-71.72948,41.68653,False
+57925,RI,Kent County,WED Coventry 5,2017.0,1,1.5,Vensys,Vensys82,85.0,82.3,-71.69988,41.65992,False
+57926,RI,Kent County,WED Coventry 6,2016.0,3,4.5,Vensys,Vensys82,85.0,82.3,-71.70332,41.66452,False
+57929,RI,Providence County,WED Green Hill,2018.0,1,3.0,Vensys,Vensys120,98.0,120.0,-71.52974,41.79784,False
+57930,RI,Providence County,WED Plainfield,2018.0,1,3.0,Vensys,Vensys120,98.0,120.0,-71.53583,41.79607,False
+57931,RI,Providence County,WED Plainfield II,2018.0,1,3.0,Vensys,Vensys120,98.0,120.0,-71.53996,41.79458,False
+57932,RI,Providence County,WED Plainfield III,2018.0,1,3.0,Vensys,Vensys120,98.0,120.0,-71.53062,41.79353,False
+57933,RI,Newport County,WED Portsmouth 1,2016.0,1,1.5,Vensys,Vensys82,85.0,82.3,-71.25132,41.61435,False
+57934,RI,Providence County,WED Shun I,2018.0,1,3.0,Vensys,Vensys120,98.0,120.0,-71.54066,41.79845,False
+57935,RI,Providence County,WED Shun II,2018.0,1,3.0,Vensys,Vensys120,98.0,120.0,-71.53622,41.80013,False
+57936,RI,Providence County,WED Shun III,2018.0,1,3.0,Vensys,Vensys120,98.0,120.0,-71.54933,41.79907,False
+57937,CA,Riverside County,Wagner,2012.0,2,6.0,Vestas,V90-3.0,80.0,90.0,-116.55559,33.90889,False
+57939,TX,Crosby County,Wake,2016.0,150,257.25,GE Wind,GE1.715-103,80.0,103.0,-101.14862,33.80199,False
+58092,AK,Nome Census Area,Wales Wind Energy Project,2000.0,2,0.1,AOC,AOC15/50,26.5,15.0,-168.088,65.61586,False
+58094,IA,Sac County,Wall Lake Municipal Utilities,2003.0,1,0.66,,,,,-95.09416,42.28198,False
+58095,CA,Tehama County,Walmart Red Bluff,2012.0,1,1.5,GE Wind,GE1.5-77,65.0,77.0,-122.19389,40.1112,False
+58096,IL,Bureau County,Walnut Ridge,2018.0,106,212.0,Vestas,V110-2.0,95.0,110.0,-89.61513,41.48635,False
+58203,IA,Pottawattamie County,Walnut Wind Project,2008.0,102,153.0,GE Wind,GE1.62-91.5,80.0,91.5,-95.16719,41.49539,False
+58306,MN,Mower County,Wapsipinicon Wind,2008.0,67,100.5,GE Wind,GE1.5-77,80.0,77.0,-92.68749,43.75539,False
+58373,WI,Marathon County,Wausau High School,2009.0,1,0.1,Northern Power Systems,NPS 100-21,37.0,21.0,-89.59663,44.97942,False
+58374,KS,Coffey County,Waverly,2015.0,95,199.0,Gamesa,G114-2.1,80.0,114.0,-95.55702,38.35281,False
+58471,IA,Bremer County,Waverly III (Skeets 4),2001.0,1,0.9,NEG Micon,NM52,73.0,52.0,-92.43876,42.76228,False
+58472,PA,Wayne County,Waymart Wind Farm,2003.0,43,64.5,GE Wind,GE1.5-70.5,65.0,70.5,-75.4288,41.62619,False
+58516,OK,Custer County,Weatherford Wind Energy Center,2005.0,71,106.5,GE Wind,GE1.5-77,80.0,77.0,-98.7432,35.49469,False
+58588,OK,Washita County,Weatherford Wind Energy Center Expansion,2005.0,27,40.5,GE Wind,GE1.5-77,80.0,77.0,-98.6573,35.4623,False
+58615,ME,Hancock County,Weaver,2020.0,22,72.6,Vestas,V126-3.3,117.0,126.0,-68.20899,44.73249,False
+58637,TX,Carson County,Wege Wind Farm,2008.0,8,10.0,Suzlon,S64,72.0,64.0,-101.53469,35.34879,False
+58645,IA,Grundy County,Wellsburg,2014.0,60,140.76,Siemens,SWT-2.346-108,80.0,108.0,-93.00019,42.35707,False
+58705,SD,Jerauld County,Wessington Springs,2009.0,34,51.0,GE Wind,GE1.5-91,80.0,91.0,-98.59959,44.00209,False
+58740,IN,Pulaski County,West Central School Corporation,2012.0,1,0.9,PowerWind,PW56,71.0,56.0,-86.88548,41.02782,False
+58741,MN,Pipestone County,West Pipestone (Maiden Winds),2004.0,5,8.25,Vestas,V82-1.65,70.0,82.0,-96.43719,44.02489,False
+58746,KS,Ford County,Western Plains,2017.0,122,280.6,Siemens,SWT-2.3-108,80.0,108.0,-99.69074,37.84634,False
+58868,NY,Wyoming County,Wethersfield,2000.0,10,6.6,Vestas,V47-0.66,65.0,47.0,-78.24519,42.68559,False
+58878,OR,Gilliam County,Wheatfield,2009.0,46,96.6,Suzlon,S88,79.0,88.0,-120.32499,45.67249,False
+58925,OR,Morrow County,Wheatridge,2020.0,120,299.54,GE Wind,GE2.5-127,89.0,127.0,-119.53053,45.49047,False
+59045,OH,Hancock County,Whirlpool Corp. Findlay Wind Farm,2015.0,2,3.0,Goldwind,GW87,80.0,87.0,-83.64439,41.10121,False
+59047,OH,Darke County,Whirlpool Corp. Greenville Wind Farm,2018.0,3,4.5,Goldwind,GW87,80.0,87.0,-84.61115,40.1278,False
+59050,OH,Marion County,Whirlpool Corp. Marion Wind Farm,2017.0,3,4.5,Goldwind,GW87,80.0,87.0,-83.17555,40.59071,False
+59053,OH,Putnam County,Whirlpool Corp. Ottawa Wind Farm,2017.0,1,1.5,Goldwind,GW87,80.0,87.0,-84.03371,41.00281,False
+59054,TX,Floyd County,Whirlwind Energy Center,2007.0,26,59.8,Siemens,SWT-2.3-93,80.0,93.0,-101.10079,34.1112,False
+59080,IA,Franklin County,Whispering Willow I,2009.0,121,199.65,Vestas,V82-1.65,80.0,82.0,-93.2486,42.60199,False
+59201,IA,Franklin County,Whispering Willow North,2020.0,81,201.26,GE Wind,GE2.5-127,89.0,127.0,-93.44476,42.73462,False
+59282,MO,Nodaway County,White Cloud,2020.0,89,236.5,Siemens Gamesa Renewable Energy,SG 2.75-129,109.0,129.0,-95.0038,40.32892,False
+59372,WA,Klickitat County,White Creek,2007.0,89,204.7,Siemens,SWT-2.3-93,80.0,93.0,-120.32678,45.8299,False
+59374,AZ,Mohave County,White Hills,2020.0,126,349.6,GE Wind,GE2.82-127,89.0,127.0,-114.43515,35.83087,False
+59460,MN,Becker County,White Earth Tribe,2018.0,1,0.75,GE Wind,Zond,,,-95.8596,47.0892,False
+59587,IL,McLean County,White Oak,2011.0,100,150.0,GE Wind,GE1.5-82.5,80.0,82.5,-89.07269,40.58659,False
+59687,TX,Webb County,White Tail,2012.0,57,91.2,GE Wind,GE1.6-82.5,80.0,82.5,-99.00749,27.4693,False
+59744,CA,Riverside County,Whitewater Hill,2002.0,41,61.5,GE Wind,GE1.5-65,65.0,65.0,-116.61581,33.92584,False
+59785,IL,Logan County,Whitney Hill,2019.0,24,65.28,GE Wind,GE2.72-116,90.0,116.0,-89.29674,39.94481,False
+59809,WA,Kittitas County,Wild Horse I,2006.0,127,228.6,Vestas,V80-1.8,67.0,80.0,-120.16589,47.00259,False
+59937,WA,Kittitas County,Wild Horse II,2009.0,22,44.0,Vestas,V80-2.0,67.0,80.0,-120.23559,47.05899,False
+59959,IN,Madison County,Wildcat I,2012.0,125,200.0,GE Wind,GE1.6-100,100.0,100.0,-85.8194,40.31469,False
+60084,TX,Cochran County,Wildcat Ranch,2018.0,67,150.59,GE Wind,GE2.3-116,80.0,116.0,-102.8602,33.49901,False
+60152,NM,Lea County,Wildcat Wind Project,2012.0,13,27.3,Suzlon,S97,90.0,97.0,-103.27919,32.9511,False
+60165,OK,Pushmataha County,Wildhorse Mountain Wind Facility,2019.0,29,100.05,Vestas,V136-3.45,105.0,136.0,-95.26457,34.58968,False
+60195,TX,Oldham County,Wildorado,2007.0,70,161.0,Siemens,SWT-2.3-93,80.0,93.0,-102.30869,35.29429,False
+60267,MA,Berkshire County,Williams Stone,2009.0,1,0.6,RRB,PS-600,65.0,47.0,-73.0699,42.23419,False
+60268,MN,Kandiyohi County,Willmar,2009.0,2,4.0,DeWind,D8.2,80.0,80.0,-95.008,45.15669,False
+60270,OR,Morrow County,Willow Creek,2009.0,48,72.0,GE Wind,GE1.5-77,80.0,77.0,-119.97949,45.65329,False
+60319,SD,Butte County,Willow Creek Wind Energy,2020.0,38,106.4,GE Wind,GE2.8-127,89.0,127.0,-103.23679,44.84057,False
+60357,OR,Baker County,Willow Spring,2017.0,5,10.0,GE Wind,GE2.0-116,80.0,116.0,-117.27725,44.38079,False
+60362,TX,Haskell County,Willow Springs Wind Farm,2017.0,100,250.0,GE Wind,GE2.5-116,90.0,116.0,-99.64312,33.28489,False
+60462,MN,Nobles County,Wilmont Hills,2001.0,1,1.5,NEG Micon,NM72,70.0,72.0,-95.85349,43.75479,False
+60463,ND,Burleigh County,Wilton Wind Energy Center II,2009.0,33,49.5,GE Wind,GE1.5-91,80.0,91.0,-100.77669,47.10939,False
+60496,ND,Burleigh County,Wilton Wind Farm,2005.0,21,31.5,GE Wind,GE1.5-77,80.0,77.0,-100.71059,47.12689,False
+60529,IN,Randolph County,Winchester,2014.0,1,0.85,Gamesa,G58-0.85,65.0,58.0,-84.97743,40.18962,False
+60530,CT,Litchfield County,Wind Colebrook South,2015.0,2,5.0,GE Wind,GE2.85-103,91.7,103.0,-73.14588,41.96243,False
+60532,IA,Adair County,Wind GEM,2015.0,1,1.85,GE Wind,GE1.85-87,80.0,87.0,-94.33926,41.46999,False
+60533,IA,Mitchell County,Wind Vision,2008.0,1,0.9,AWE,AWE54-900,75.0,54.0,-92.88879,43.34809,False
+60534,IA,Worth County,Wind Walkers,2011.0,1,1.6,GE Wind,GE1.6-82.5,80.0,82.5,-93.22149,43.38469,False
+60535,CA,Kern County,Windland,2009.0,2,3.0,AAER,A-1500,80.0,77.0,-118.33438,35.09159,False
+60536,CA,Kern County,Windstar,2012.0,60,120.0,Gamesa,G87-2.0,67.0,87.0,-118.27069,35.0275,False
+60596,TX,Archer County,Windthorst-2,2014.0,28,64.4,Siemens,SWT-2.3-108,80.0,108.0,-98.50011,33.49516,False
+60624,WA,Klickitat County,Windy Point I (Tuolomne Wind Project),2009.0,62,136.6,Siemens,SWT-2.3-93,80.0,93.0,-120.68599,45.76529,False
+60686,WA,Klickitat County,Windy Point II,2009.0,88,202.4,Siemens,SWT-2.3-93,80.0,93.0,-120.83649,45.73299,False
+60773,WA,Klickitat County,Windy Point II (Windy Flats),2009.0,88,202.4,Siemens Gamesa Renewable Energy,SWT-2.3-93,80.0,93.0,-120.81967,45.71401,False
+60776,WA,Klickitat County,Windy Point IIa (Windy Flats Extension),2009.0,26,59.8,Siemens,SWT-2.3-93,80.0,93.0,-120.83698,45.7082,False
+60800,WA,Klickitat County,Windy Point IIa (Windy Flats),2009.0,26,59.8,Siemens Gamesa Renewable Energy,SWT-2.3-93,80.0,93.0,-120.88597,45.69899,False
+60801,MN,Todd County,Wing River Wind,2007.0,1,2.5,Nordex,N90,80.0,90.0,-95.1161,46.34367,False
+60802,IA,Winnebago County,Winnebago I,2008.0,10,20.0,Gamesa,G83-2.0,78.0,83.0,-93.78389,43.31819,False
+60812,MN,Winona County,Winona,2011.0,2,1.5,Unison,U57,68.0,57.0,-91.92329,44.11539,False
+60814,IA,Cass County,Wiota Wind,2012.0,1,1.6,GE Wind,GE1.6-82.5,80.0,82.5,-94.87679,41.3915,False
+60815,MN,Nobles County,Wolf,2006.0,5,6.25,Suzlon,S64,73.0,64.0,-95.77799,43.58339,False
+60820,TX,Cooke County,Wolf Ridge,2008.0,75,112.5,GE Wind,GE1.5-82.5,80.0,82.5,-97.44919,33.73179,False
+60897,IA,Adair County,Wolverine,2010.0,1,1.5,GE Wind,GE1.5-77,80.0,77.0,-94.44479,41.39309,False
+60898,ID,Bonneville County,Wolverine Creek,2005.0,43,64.5,GE Wind,GE1.5-77,80.0,77.0,-111.84439,43.37109,False
+60941,MA,Barnstable County,Woods Hole Research Center,2009.0,1,0.1,Northern Power Systems,NW100,37.0,21.0,-70.6432,41.54899,False
+60942,MN,Pipestone County,Woodstock Hills Repower,2018.0,4,9.2,GE Wind,GE2.3-116,80.0,116.0,-96.07504,43.99072,False
+60946,MN,Pipestone County,Woodstock Municipal Wind,2010.0,1,0.75,EWT,DW-52-750,75.0,52.0,-96.2272,44.02439,False
+60947,TX,Pecos County,Woodward Mountain I,2001.0,125,82.5,Gamesa,G47-0.66,50.0,47.0,-102.47739,30.9478,False
+61068,ID,Twin Falls County,Yahoo Creek,2010.0,14,21.0,GE Wind,GE1.5-82.5,80.0,82.5,-114.99149,42.7697,False
+61074,TX,Pecos County,Woodward Mountain II,2001.0,115,75.9,Gamesa,G47-0.66,50.0,47.0,-102.42529,30.9432,False
+61191,CO,Yuma County,Wray School District,2008.0,1,0.9,AWE,AWE54-900,75.0,54.0,-102.22329,40.051,False
+61192,OH,Crawford County,Wynford Local Schools,2011.0,2,0.2,Northern Power Systems,NW100,37.0,21.0,-83.01959,40.82279,False
+61208,IA,Osceola County,Zachary Ridge,2010.0,1,2.0,Gamesa,G87-2.0,78.0,87.0,-95.65773,43.40596,False
+61210,OH,Hancock County,Zephyr Wind Project,2015.0,3,4.5,Goldwind,GW87,80.0,87.0,-83.64137,41.0961,False
+61213,OH,Hancock County,Zephyr Wind Project 2.0,2019.0,3,4.5,Goldwind,GW87,80.0,87.0,-83.6366,41.0884,False
+61216,NY,Ontario County,Zotos,2011.0,2,3.3,Hyundai,HQ1650,70.0,82.0,-76.96765,42.88625,False
+61221,VT,Addison County,unknown Addison County,2013.0,1,0.1,Northern Power Systems,NPS-100,37.0,21.0,-73.3107,44.00279,False
+61935,TX,El Paso County,unknown El Paso County,2015.0,2,3.4,GE Wind,GE1.7-100,80.0,100.0,-106.40543,31.78812,False
+62350,AK,Northwest Arctic Borough,unknown Kotzebue Wind Project,2003.0,15,0.98,Seaforth,AOC15/65,30.5,15.0,-162.55733,66.83433,False
