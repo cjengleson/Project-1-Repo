@@ -6,10 +6,13 @@ This project was inspired by an uptick in wind energy growth in the US over the 
 We set out to determine if unemployment rates changed with the growth of wind farms in the US by state.
 
 API's used: 
+
   U.S. Energy Information Administration (EIA) - "http://api.eia.gov/series/?"
+  
   U.S. Wind Turbine Database (USWTDB API) - "https://eersc.usgs.gov/api/uswtdb/v1/turbines"
   
 CSV's used:
+
   U.S. Census Data
   
 Here is the link to our Google Slides presentation: 
